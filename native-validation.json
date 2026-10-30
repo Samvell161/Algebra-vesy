@@ -1,7 +1,7 @@
 {
-  "package_bytes": 114068,
-  "payload_bytes": 396320,
-  "gui_peak_rss_kib": 33812,
+  "package_bytes": 121832,
+  "payload_bytes": 433966,
+  "gui_peak_rss_kib": 34020,
   "platform": "linux",
   "python": "3.13.5",
   "font_family": "Algebra Rounded",
@@ -31,6 +31,8 @@
     "student choices and explicit final answer",
     "24-level chapter map",
     "x-block operation in final chapter",
-    "touch quiz completion and saved score"
+    "touch quiz completion and saved score",
+    "dual source and GPIO button event routing",
+    "saved solution path with original-answer proof"
   ]
 }

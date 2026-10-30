@@ -1,0 +1,51 @@
+{
+  "config": null,
+  "spi1_overlay": null,
+  "devices": [],
+  "spi1_line": null
+}
+vcgencmd недоступен; питание этим тестом не проверено.
+Подносите по одной метке к каждой чаше; убирайте между чтениями. Для кнопок сначала отпустите обе.
+{
+  "readers": {
+    "mode": "rc522_dual",
+    "connected": false,
+    "channels": {
+      "left": {
+        "bus": 0,
+        "rst": 25,
+        "error": "No module named 'spidev'",
+        "warning": null,
+        "last_error": "No module named 'spidev'",
+        "failures": 0,
+        "present_uid": null,
+        "version": null,
+        "connected": false
+      },
+      "right": {
+        "bus": 1,
+        "rst": 5,
+        "error": "No module named 'spidev'",
+        "warning": null,
+        "last_error": "No module named 'spidev'",
+        "failures": 0,
+        "present_uid": null,
+        "version": null,
+        "connected": false
+      }
+    },
+    "error": null,
+    "warning": null,
+    "last_error": null,
+    "present_uid": null,
+    "poll_seconds": 0.8,
+    "hx711": "not_configured",
+    "sequence": 0
+  },
+  "buttons": {
+    "enabled": false,
+    "connected": false,
+    "error": null,
+    "levels": {}
+  }
+}
