@@ -1,0 +1,22 @@
+{
+  "pi_tests": 200,
+  "pi_qt_tests_run_separately": 11,
+  "android_ui_tests": 2,
+  "android_min_sdk": 26,
+  "apk_signature": "v2/v3 verified",
+  "hardware_phone_wifi_tested": false,
+  "files": {
+    "algebra-lab_0.15.0_all.deb": {
+      "bytes": 142272,
+      "sha256": "c9ddd5ca34ef76a4fd13a38548789c24f49be0872735011f2df7e3dcb8b1f1a2"
+    },
+    "algebra-progress_1.0.0.apk": {
+      "bytes": 697962,
+      "sha256": "5deeac2d7d190f14f839ce7879c28a7f89feabe4b1fd7e9ec4aa65e5446e5131"
+    },
+    "algebra-lab_0.15.0_source.zip": {
+      "bytes": 478239,
+      "sha256": "50124014d7a85f4a0a98f45a85d2d5eaf1fdc27ac9390c750f83456cc72747b0"
+    }
+  }
+}
