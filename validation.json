@@ -1,0 +1,24 @@
+{
+  "version": "1.1.0",
+  "pi_version_compatible": "0.15.0",
+  "apk_bytes": 4726541,
+  "sha256": "9e9dda55d4e4f64a5bee67913ef59c938518cfc5b9d5b0588cb437584790a703",
+  "same_signing_certificate_as_1_0_0": true,
+  "certificate_sha256": "373955771368d969721eb2940ea18a7ed71ad432b00da8671458f8c6288105e1",
+  "tests": [
+    {
+      "name": "ru.algebralab.progress.DesignTest",
+      "tests": "2",
+      "failures": "0",
+      "errors": "0"
+    },
+    {
+      "name": "ru.algebralab.progress.MainActivityTest",
+      "tests": "2",
+      "failures": "0",
+      "errors": "0"
+    }
+  ],
+  "screenshots": "Robolectric Native Graphics, fictional profiles",
+  "real_phone_tested": false
+}
