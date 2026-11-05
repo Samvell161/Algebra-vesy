@@ -1,21 +1,25 @@
 {
-  "version": "0.22.0",
-  "core_tests_passed": 198,
+  "version": "0.23.0",
   "qt_tests_passed": 24,
   "display": "1024x600",
   "hardware_tested": false,
-  "material_preservation_test_tilts": [
-    -5,
-    0,
-    5
+  "source_font": "Comfortaa",
+  "bundled_derivative_family": "Algebra Compass",
+  "font_weights": [
+    500,
+    700
   ],
-  "shadow_receivers": [
-    "tabletop",
-    "cup well",
-    "top faces of lower cubes"
-  ],
-  "shadows_follow_cup_height": true,
-  "static_shadow_cache_preserved": true,
+  "font_license": "SIL OFL 1.1, reserved-name derivative renamed",
   "new_runtime_dependencies": [],
-  "math_rfid_and_physics_logic_changed": false
+  "math_rfid_and_physics_logic_changed": false,
+  "core_suite_repeated": false,
+  "checks": [
+    "all 24 lesson layouts",
+    "map equation labels fit",
+    "packaged fonts register",
+    "QFontInfo uses Algebra Compass Bold",
+    "QRawFont Cyrillic, digits and operators",
+    "actual extracted Qt scenarios",
+    "legacy return"
+  ]
 }
