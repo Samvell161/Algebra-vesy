@@ -1,0 +1,13 @@
+{
+  "version": "0.17.0",
+  "core_tests_passed": 194,
+  "qt_tests_passed": 18,
+  "display": "1024x600",
+  "runtime": "Qt 6.9.2 cloud/offscreen",
+  "hardware_tested": false,
+  "new_runtime_dependencies": [],
+  "original_math_and_uid_logic_changed": false,
+  "frame_interval_ms": 33,
+  "motion_duration_ms": 460,
+  "celebration_duration_ms": 680
+}
