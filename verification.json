@@ -1,25 +1,26 @@
 {
-  "version": "0.23.0",
-  "qt_tests_passed": 24,
+  "version": "0.24.0",
+  "qt_tests_passed": 26,
   "display": "1024x600",
   "hardware_tested": false,
-  "source_font": "Comfortaa",
-  "bundled_derivative_family": "Algebra Compass",
-  "font_weights": [
-    500,
-    700
-  ],
-  "font_license": "SIL OFL 1.1, reserved-name derivative renamed",
+  "map_intro_duration_ms": 1050,
+  "map_intro_interval_ms": 33,
+  "map_ambient_interval_ms": 100,
+  "motion_preference_respected": true,
+  "touch_targets_move": false,
+  "selection_delayed_for_animation": false,
   "new_runtime_dependencies": [],
-  "math_rfid_and_physics_logic_changed": false,
   "core_suite_repeated": false,
+  "math_rfid_and_progress_logic_changed": false,
   "checks": [
-    "all 24 lesson layouts",
-    "map equation labels fit",
-    "packaged fonts register",
-    "QFontInfo uses Algebra Compass Bold",
-    "QRawFont Cyrillic, digits and operators",
-    "actual extracted Qt scenarios",
+    "stable touch geometry",
+    "landscape and route caches reused",
+    "old chapter timer stopped",
+    "close and hide stop timers",
+    "reduced motion static map",
+    "current tab re-click stays selected",
+    "actual Window setting and immediate lesson selection",
+    "extracted DEB animated map",
     "legacy return"
   ]
 }
