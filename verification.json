@@ -1,24 +1,23 @@
 {
-  "version": "0.19.0",
+  "version": "0.20.0",
   "core_tests_passed": 194,
-  "qt_tests_passed": 20,
+  "qt_tests_passed": 22,
   "display": "1024x600",
   "hardware_tested": false,
-  "offline_background_dimensions": [
-    2042,
-    770
-  ],
-  "artwork": "AI-generated CGI-style static illustration",
-  "runtime_image_cache_limit": 1,
+  "scale_rendering": "Orthographic 3D mesh, fixed camera, software shaded; cached moving parts",
+  "ambient_clock_hz": 10,
+  "ambient_clock_independent_setting": true,
+  "button_shadows": "Cached masks, no per-button blur filter",
   "new_runtime_dependencies": [],
   "model_and_rfid_logic_changed": false,
   "extracted_payload_checks": [
-    "image present and decodes",
-    "image decoded once",
-    "missing image vector fallback",
-    "touch layout",
-    "RFID animation and answer",
-    "Android proposals",
+    "3D geometry and control size",
+    "cached shadows",
+    "clock live and isolated",
+    "clock stops on close",
+    "offline art and fallback",
+    "RFID and explicit answer",
+    "history and Android lesson proposal",
     "legacy return"
   ]
 }
