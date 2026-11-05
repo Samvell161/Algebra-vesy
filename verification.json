@@ -1,23 +1,28 @@
 {
-  "version": "0.20.0",
-  "core_tests_passed": 194,
-  "qt_tests_passed": 22,
+  "version": "0.21.0",
+  "core_tests_passed": 198,
+  "qt_tests_passed": 23,
   "display": "1024x600",
   "hardware_tested": false,
-  "scale_rendering": "Orthographic 3D mesh, fixed camera, software shaded; cached moving parts",
-  "ambient_clock_hz": 10,
-  "ambient_clock_independent_setting": true,
-  "button_shadows": "Cached masks, no per-button blur filter",
+  "visual_physics": [
+    "gravity",
+    "bowl contact",
+    "stacked support",
+    "iterative side contacts",
+    "bounded substeps",
+    "damped beam motion"
+  ],
+  "layer_order": [
+    "room",
+    "clock",
+    "support",
+    "moving balance and cubes",
+    "native controls"
+  ],
+  "clock_updates_weights_cache": false,
+  "nominal_motion_interval_ms": 20,
+  "settling_duration_ms": 820,
   "new_runtime_dependencies": [],
-  "model_and_rfid_logic_changed": false,
-  "extracted_payload_checks": [
-    "3D geometry and control size",
-    "cached shadows",
-    "clock live and isolated",
-    "clock stops on close",
-    "offline art and fallback",
-    "RFID and explicit answer",
-    "history and Android lesson proposal",
-    "legacy return"
-  ]
+  "math_and_rfid_logic_changed": false,
+  "startup_shutdown_subprocesses_passed": 5
 }
