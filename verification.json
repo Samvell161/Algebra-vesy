@@ -1,13 +1,19 @@
 {
-  "version": "0.17.0",
+  "version": "0.18.0",
   "core_tests_passed": 194,
-  "qt_tests_passed": 18,
+  "qt_tests_passed": 20,
   "display": "1024x600",
-  "runtime": "Qt 6.9.2 cloud/offscreen",
   "hardware_tested": false,
+  "main_scene_height_px": 377,
+  "previous_main_scene_height_px": 211,
+  "minimum_touch_target_px": 44,
   "new_runtime_dependencies": [],
-  "original_math_and_uid_logic_changed": false,
-  "frame_interval_ms": 33,
-  "motion_duration_ms": 460,
-  "celebration_duration_ms": 680
+  "model_and_rfid_logic_changed": false,
+  "test_logs": [
+    "core: 214 discovered, 20 Qt tests skipped; 194 passed",
+    "Qt: 20 passed",
+    "extracted Qt payload: passed",
+    "extracted legacy payload: passed",
+    "legacy return: passed"
+  ]
 }
