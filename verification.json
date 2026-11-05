@@ -1,28 +1,21 @@
 {
-  "version": "0.21.0",
+  "version": "0.22.0",
   "core_tests_passed": 198,
-  "qt_tests_passed": 23,
+  "qt_tests_passed": 24,
   "display": "1024x600",
   "hardware_tested": false,
-  "visual_physics": [
-    "gravity",
-    "bowl contact",
-    "stacked support",
-    "iterative side contacts",
-    "bounded substeps",
-    "damped beam motion"
+  "material_preservation_test_tilts": [
+    -5,
+    0,
+    5
   ],
-  "layer_order": [
-    "room",
-    "clock",
-    "support",
-    "moving balance and cubes",
-    "native controls"
+  "shadow_receivers": [
+    "tabletop",
+    "cup well",
+    "top faces of lower cubes"
   ],
-  "clock_updates_weights_cache": false,
-  "nominal_motion_interval_ms": 20,
-  "settling_duration_ms": 820,
+  "shadows_follow_cup_height": true,
+  "static_shadow_cache_preserved": true,
   "new_runtime_dependencies": [],
-  "math_and_rfid_logic_changed": false,
-  "startup_shutdown_subprocesses_passed": 5
+  "math_rfid_and_physics_logic_changed": false
 }
