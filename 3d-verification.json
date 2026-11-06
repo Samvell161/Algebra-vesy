@@ -1,0 +1,29 @@
+{
+  "version": "0.30.0",
+  "ok": true,
+  "graphics": {
+    "version": "OpenGL ES 2.0 Mesa 25.0.7-2+deb13u1",
+    "renderer": "llvmpipe (LLVM 19.1.7, 256 bits)",
+    "vendor": "Mesa",
+    "glsl": "OpenGL ES GLSL ES 1.0.16",
+    "api": "OpenGL ES",
+    "samples": 2,
+    "depth_bits": 24
+  },
+  "framebuffer": [
+    996,
+    290
+  ],
+  "static_vertices": 136569,
+  "moving_part_vertices": 56214,
+  "static_batches": 5,
+  "background_room_image_deleted": true,
+  "numpy_unavailable": true,
+  "bundled_binding_verified": true,
+  "perspective_camera_and_parallax": true,
+  "xyz_contacts": true,
+  "rfid_pair_and_explicit_answer": true,
+  "adult_return_and_android_proposal": true,
+  "touch_targets_minimum": 44,
+  "native_gl_window_released_before_application_exit": true
+}

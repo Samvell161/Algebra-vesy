@@ -1,0 +1,17 @@
+{
+  "ok": true,
+  "version": "2.1 Mesa 25.0.7-2+deb13u1",
+  "renderer": "llvmpipe (LLVM 19.1.7, 256 bits)",
+  "vendor": "Mesa",
+  "glsl": "4.50",
+  "api": "OpenGL",
+  "samples": 2,
+  "depth_bits": 24,
+  "vertices": 136569,
+  "shadow_map": 1024,
+  "md5_entries_verified": 63,
+  "unchanged_upstream_python_modules": true,
+  "native_binaries_in_binding": false,
+  "no_profile_or_hardware_opened": true,
+  "process_exit_code": 0
+}
