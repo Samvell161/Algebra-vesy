@@ -1,5 +1,5 @@
 {
-  "version": "0.34.0",
+  "version": "0.35.0",
   "ok": true,
   "graphics": {
     "version": "OpenGL ES 2.0 Mesa 25.0.7-2+deb13u1",
@@ -13,7 +13,7 @@
     "shadow_size": 2048,
     "contact_shading": true,
     "lamp_shadow_size": 1024,
-    "lighting": "window + warm spotlight",
+    "lighting": "warm window daylight + diffuse fill + soft lamp + contact occlusion",
     "projection": "orthographic",
     "view": "fixed-front",
     "lamp_enabled": true,
@@ -27,13 +27,109 @@
     1004,
     386
   ],
-  "static_vertices": 189816,
+  "static_vertices": 194304,
   "cube_triangles": 3072,
   "bowl_triangles": 10240,
+  "symbol_readability": [
+    {
+      "symbol": "x",
+      "side": "left",
+      "contrast": 4.586935932953206,
+      "background": 0.43095788959235665,
+      "dark_pixels": 101,
+      "roi": [
+        276,
+        244,
+        301,
+        272
+      ]
+    },
+    {
+      "symbol": "1",
+      "side": "left",
+      "contrast": 6.012180331571105,
+      "background": 0.5800877153791366,
+      "dark_pixels": 127,
+      "roi": [
+        319,
+        245,
+        343,
+        273
+      ]
+    },
+    {
+      "symbol": "1",
+      "side": "left",
+      "contrast": 6.049017815273449,
+      "background": 0.5842334956587378,
+      "dark_pixels": 128,
+      "roi": [
+        361,
+        244,
+        386,
+        272
+      ]
+    },
+    {
+      "symbol": "1",
+      "side": "right",
+      "contrast": 6.287667821094583,
+      "background": 0.601946127175375,
+      "dark_pixels": 123,
+      "roi": [
+        598,
+        242,
+        624,
+        272
+      ]
+    },
+    {
+      "symbol": "1",
+      "side": "right",
+      "contrast": 6.124544086856043,
+      "background": 0.5846570598578111,
+      "dark_pixels": 126,
+      "roi": [
+        640,
+        245,
+        664,
+        273
+      ]
+    },
+    {
+      "symbol": "1",
+      "side": "right",
+      "contrast": 6.124544086856043,
+      "background": 0.5846570598578111,
+      "dark_pixels": 130,
+      "roi": [
+        682,
+        244,
+        706,
+        272
+      ]
+    },
+    {
+      "symbol": "1",
+      "side": "right",
+      "contrast": 6.186765313376574,
+      "background": 0.6008165625078132,
+      "dark_pixels": 121,
+      "roi": [
+        722,
+        242,
+        748,
+        272
+      ]
+    }
+  ],
+  "minimum_symbol_contrast": 4.586935932953206,
+  "contact_atlas_bytes": 524288,
+  "quiet_ambient": true,
   "large_viewport_verified": true,
   "controls_below_native_surface": true,
-  "moving_part_vertices": 296214,
-  "static_batches": 5,
+  "moving_part_vertices": 298230,
+  "static_batches": 7,
   "room_prop_assemblies": 23,
   "room_lighting": [
     "daylight",

@@ -1,0 +1,13 @@
+{
+  "ok": true,
+  "camera_code_identical": true,
+  "frozen_balance_meshes": 14,
+  "protected_learning_hardware_interface_files": 8,
+  "ui_pixels_outside_3d_view_identical": true,
+  "viewport": [
+    10,
+    60,
+    1004,
+    386
+  ]
+}

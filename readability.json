@@ -1,0 +1,100 @@
+{
+  "minimum_contrast": 4.586935932953206,
+  "x_contrast": 4.586935932953206,
+  "minimum_number_contrast": 6.012180331571105,
+  "right_left_number_brightness_ratio": 1.0186522357023557,
+  "visible_symbols": 7,
+  "samples": [
+    {
+      "symbol": "x",
+      "side": "left",
+      "contrast": 4.586935932953206,
+      "background": 0.43095788959235665,
+      "dark_pixels": 101,
+      "roi": [
+        276,
+        244,
+        301,
+        272
+      ]
+    },
+    {
+      "symbol": "1",
+      "side": "left",
+      "contrast": 6.012180331571105,
+      "background": 0.5800877153791366,
+      "dark_pixels": 127,
+      "roi": [
+        319,
+        245,
+        343,
+        273
+      ]
+    },
+    {
+      "symbol": "1",
+      "side": "left",
+      "contrast": 6.049017815273449,
+      "background": 0.5842334956587378,
+      "dark_pixels": 128,
+      "roi": [
+        361,
+        244,
+        386,
+        272
+      ]
+    },
+    {
+      "symbol": "1",
+      "side": "right",
+      "contrast": 6.287667821094583,
+      "background": 0.601946127175375,
+      "dark_pixels": 123,
+      "roi": [
+        598,
+        242,
+        624,
+        272
+      ]
+    },
+    {
+      "symbol": "1",
+      "side": "right",
+      "contrast": 6.124544086856043,
+      "background": 0.5846570598578111,
+      "dark_pixels": 126,
+      "roi": [
+        640,
+        245,
+        664,
+        273
+      ]
+    },
+    {
+      "symbol": "1",
+      "side": "right",
+      "contrast": 6.124544086856043,
+      "background": 0.5846570598578111,
+      "dark_pixels": 130,
+      "roi": [
+        682,
+        244,
+        706,
+        272
+      ]
+    },
+    {
+      "symbol": "1",
+      "side": "right",
+      "contrast": 6.186765313376574,
+      "background": 0.6008165625078132,
+      "dark_pixels": 121,
+      "roi": [
+        722,
+        242,
+        748,
+        272
+      ]
+    }
+  ]
+}
