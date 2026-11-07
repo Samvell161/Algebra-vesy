@@ -1,8 +1,26 @@
 {
   "ok": true,
   "camera_code_identical": true,
-  "frozen_balance_meshes": 14,
-  "protected_learning_hardware_interface_files": 8,
+  "unchanged_balance_meshes": [
+    "beam",
+    "pivot",
+    "pivot-inlay",
+    "chains",
+    "bowl-rim",
+    "hook",
+    "block",
+    "xblock",
+    "negative",
+    "block-wide",
+    "xblock-wide",
+    "negative-wide"
+  ],
+  "thickened_exterior_only": [
+    "bowl-0",
+    "bowl-1"
+  ],
+  "protected_files_unchanged": 7,
+  "workspace_code_only_background_label_changed": true,
   "ui_pixels_outside_3d_view_identical": true,
   "viewport": [
     10,
