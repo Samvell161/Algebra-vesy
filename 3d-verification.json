@@ -1,5 +1,5 @@
 {
-  "version": "0.31.0",
+  "version": "0.32.0",
   "ok": true,
   "graphics": {
     "version": "OpenGL ES 2.0 Mesa 25.0.7-2+deb13u1",
@@ -11,7 +11,9 @@
     "depth_bits": 24,
     "quality": "detail",
     "shadow_size": 2048,
-    "contact_shading": true
+    "contact_shading": true,
+    "projection": "orthographic",
+    "view": "fixed-front"
   },
   "framebuffer": [
     996,
@@ -25,7 +27,7 @@
   "quality_switch_and_glyph_cache": true,
   "quality_preference": "detail",
   "bundled_binding_verified": true,
-  "perspective_camera_and_parallax": true,
+  "fixed_frontal_orthographic_camera": true,
   "xyz_contacts": true,
   "rfid_pair_and_explicit_answer": true,
   "adult_return_and_android_proposal": true,

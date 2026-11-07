@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "version": "0.31.0",
+  "version": "0.32.0",
   "md5_payload_files_verified": 64,
   "unchanged_upstream_binding_files": 2871,
   "no_native_binaries": true,
@@ -16,11 +16,13 @@
     "quality": "detail",
     "shadow_size": 2048,
     "contact_shading": true,
+    "projection": "orthographic",
+    "view": "fixed-front",
     "vertices": 150141,
     "shadow_map": 2048
   },
   "diagnostic_exit_code": 0,
-  "package_sha256": "6cdc41161c35c84ee24862e5166da88fbc9e8bf36fea70a7a29ef922b59dcc3c",
-  "payload_bytes": 7685606,
+  "package_sha256": "3d9a3bc6676cea9a675a0677f26828b25c4be8f215fdcb735feb6dae1ab58a11",
+  "payload_bytes": 7685982,
   "physical_pi_tested": false
 }

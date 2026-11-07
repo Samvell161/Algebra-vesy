@@ -1,5 +1,5 @@
 {
-  "version": "0.31.0",
+  "version": "0.32.0",
   "total_distinct_tests_passed": 251,
   "core_physics_and_tk_tests_passed": 214,
   "compatible_qt_tests_passed": 29,
@@ -11,7 +11,7 @@
   "physical_pi_tested": false,
   "hardware_fps_measured": false,
   "display": "1024x600",
-  "default_view": "real OpenGL perspective 3D",
+  "default_view": "real 3D / fixed front orthographic projection",
   "native_surface": "QOpenGLWindow / QWidget.createWindowContainer",
   "room_is_image": false,
   "graphics_profiles": [
@@ -35,9 +35,9 @@
   "numpy_required": false,
   "new_system_dependencies": false,
   "bundled_native_binaries": false,
-  "package_bytes": 6155592,
-  "payload_bytes": 7685606,
-  "package_sha256": "6cdc41161c35c84ee24862e5166da88fbc9e8bf36fea70a7a29ef922b59dcc3c",
+  "package_bytes": 6155828,
+  "payload_bytes": 7685982,
+  "package_sha256": "3d9a3bc6676cea9a675a0677f26828b25c4be8f215fdcb735feb6dae1ab58a11",
   "packaged_recording_exit": 0,
   "packaged_cli_diagnostic_exit": 0,
   "separate_process_exit_regression_passed": true,
@@ -61,6 +61,14 @@
     "shader failure leaves controls available",
     "GL shadow and geometry cache reuse",
     "process closes while active physics is running",
-    "stateless installed diagnostic with actual 2048 shadow map"
-  ]
+    "stateless installed diagnostic with actual 2048 shadow map",
+    "level symmetrical beam and equal pan scale",
+    "equal projected widths at different scene depths",
+    "dragging does not rotate camera",
+    "fixed front scene remains actual depth-tested 3D",
+    "slightly more saturated learning object palette"
+  ],
+  "camera_can_rotate": false,
+  "projection": "orthographic",
+  "camera_elevation_degrees": 12
 }
