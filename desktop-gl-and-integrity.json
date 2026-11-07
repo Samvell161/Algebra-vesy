@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "version": "0.41.0",
+  "version": "0.42.0",
   "md5_payload_files_verified": 73,
   "unchanged_upstream_binding_files": 2871,
   "no_native_binaries": true,
@@ -30,7 +30,7 @@
     "shadow_map": 2048
   },
   "diagnostic_exit_code": 0,
-  "package_sha256": "1fbfe02446968282ce862c8c8d8cb2039a1982d68aca2ea020d61a8ded636be7",
-  "payload_bytes": 7793417,
+  "package_sha256": "4937a7ca026273151afba24fc8a61d60ece103e4d39a94a9785925965bab8e2a",
+  "payload_bytes": 7801447,
   "physical_pi_tested": false
 }

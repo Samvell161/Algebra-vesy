@@ -1,10 +1,11 @@
 {
   "ok": true,
-  "previous_version": "0.40.1",
-  "version": "0.41.0",
+  "previous_version": "0.41.0",
+  "version": "0.42.0",
   "unchanged_window_methods": [
     "report_graphics_error",
     "offer_pending",
+    "button",
     "run",
     "start",
     "next",
@@ -15,10 +16,10 @@
     "undo",
     "hint",
     "_sync_presentation",
-    "poll",
     "check_remote",
     "respond_remote",
     "scan",
+    "dialog",
     "map",
     "quiz",
     "history",
@@ -37,11 +38,11 @@
     "end_demo",
     "closeEvent"
   ],
-  "map_behavior_ast_unchanged": true,
+  "service_and_reader_call_arguments_unchanged": true,
   "changed_payload_modules": [
     "usr/share/algebra-lab/algebra_lab/__init__.py",
     "usr/share/algebra-lab/algebra_lab/qt_ui/theme.qss",
-    "usr/share/algebra-lab/algebra_lab/qt_ui/route_map.py",
+    "usr/share/algebra-lab/algebra_lab/qt_ui/button_shadow.py",
     "usr/share/algebra-lab/algebra_lab/qt_ui/app.py"
   ],
   "unchanged_payload_files": [
@@ -65,14 +66,15 @@
     "usr/share/algebra-lab/algebra_lab/adventure.py",
     "usr/share/algebra-lab/algebra_lab/qt_ui/workshop_clock.py",
     "usr/share/algebra-lab/algebra_lab/qt_ui/workshop.py",
+    "usr/share/algebra-lab/algebra_lab/qt_ui/touch_button.py",
     "usr/share/algebra-lab/algebra_lab/qt_ui/solids.py",
     "usr/share/algebra-lab/algebra_lab/qt_ui/scene_shadows.py",
+    "usr/share/algebra-lab/algebra_lab/qt_ui/route_map.py",
     "usr/share/algebra-lab/algebra_lab/qt_ui/real_balance.py",
     "usr/share/algebra-lab/algebra_lab/qt_ui/map_backdrop.py",
     "usr/share/algebra-lab/algebra_lab/qt_ui/gui_lifecycle.py",
     "usr/share/algebra-lab/algebra_lab/qt_ui/cube_motion.py",
     "usr/share/algebra-lab/algebra_lab/qt_ui/control_strip.py",
-    "usr/share/algebra-lab/algebra_lab/qt_ui/button_shadow.py",
     "usr/share/algebra-lab/algebra_lab/qt_ui/block_model.py",
     "usr/share/algebra-lab/algebra_lab/qt_ui/balance_motion.py",
     "usr/share/algebra-lab/algebra_lab/qt_ui/balance.py",
@@ -99,18 +101,13 @@
     "README.md",
     "algebra_lab/__init__.py",
     "algebra_lab/qt_ui/app.py",
-    "algebra_lab/qt_ui/route_map.py",
+    "algebra_lab/qt_ui/button_shadow.py",
     "algebra_lab/qt_ui/theme.qss",
     "docs/install.md",
     "docs/real-3d.md",
-    "scripts/build_deb.py",
-    "scripts/verify_3d_release.py",
-    "tests/test_qt_layout.py"
-  ],
-  "added_source_files": [
-    "algebra_lab/qt_ui/touch_button.py",
+    "docs/touch-layout.md",
     "scripts/audit_touch_layout.py",
-    "docs/touch-layout.md"
+    "tests/test_qt_layout.py"
   ],
   "room_camera_models_physics_shaders_unchanged": true,
   "math_data_hardware_rfid_android_unchanged": true

@@ -1,11 +1,16 @@
 {
-  "version": "0.41.0",
-  "total_distinct_tests_passed": 288,
+  "version": "0.42.0",
+  "total_distinct_tests_passed": 289,
   "core_tests_passed": 234,
-  "qt_tests_passed": 33,
+  "qt_tests_passed": 34,
   "real_gl_tests_passed": 21,
   "button_layout_checks": 595,
   "layout_errors": 0,
+  "painted_bounds_include_shadows": true,
+  "ancestor_scroll_clipping_accounted_for": true,
+  "reader_status_labels_separate": true,
+  "reader_button_width": 156,
+  "reader_status_width": 124,
   "screen_size": [
     1024,
     600
@@ -15,24 +20,26 @@
     386
   ],
   "scene_viewport_preserved": true,
+  "cup_and_footer_button_gap": 12,
   "button_minimum_touch_size": [
     44,
     44
   ],
   "icon_text_gap": 8,
   "dialog_button_gap": 10,
-  "states_checked": [
-    "normal",
-    "hover",
-    "pressed",
-    "checked",
-    "disabled",
-    "focus"
-  ],
+  "shadow_max_extent": {
+    "left": 2,
+    "top": 1,
+    "right": 2,
+    "bottom": 3
+  },
+  "shadow_layers": 2,
+  "previous_shadow_layers": 5,
+  "condition_layout": "single horizontal row: caption and original equation; 2px charcoal border; 24px equation font",
   "source_files": 157,
-  "package_bytes": 6172384,
-  "payload_bytes": 7793417,
-  "package_sha256": "1fbfe02446968282ce862c8c8d8cb2039a1982d68aca2ea020d61a8ded636be7",
+  "package_bytes": 6173252,
+  "payload_bytes": 7801447,
+  "package_sha256": "4937a7ca026273151afba24fc8a61d60ece103e4d39a94a9785925965bab8e2a",
   "payload_files_md5_verified": 73,
   "unchanged_upstream_pyopengl_records": 2871,
   "new_dependencies": [],
@@ -41,20 +48,6 @@
   "desktop_gl2_1_packaged_tested": true,
   "physical_pi_tested": false,
   "hardware_fps_measured": false,
-  "preserved": [
-    "math",
-    "lessons",
-    "rfid",
-    "physical buttons",
-    "profiles",
-    "history",
-    "progress",
-    "Android",
-    "3D camera",
-    "room geometry",
-    "materials",
-    "physics"
-  ],
   "screens": [
     "game.png",
     "adult.png",
@@ -95,17 +88,13 @@
     "result.png"
   ],
   "checks": [
-    "all 24 lessons",
-    "six reader statuses",
-    "all four map chapters unlocked, completed and locked chapter",
-    "all 12 quiz questions before/after answer",
-    "adult, appearance on/off, profiles and 24-character name, phone, hardware, history, demonstration script",
-    "backup, restore, log export, new profile and confirmation dialogs",
-    "long button wraps in a 310-pixel window",
-    "header labels fit font metrics and do not overlap",
-    "content/icon/text rectangles stay fixed across press/check/focus/disabled",
-    "native packaged x + 2 = 4: paired RFID remove, answer 2, readable reveal and persistent result, constant viewport",
-    "packaged compatible Qt view and return from legacy desktop",
-    "OpenGL ES 2 test suite without NumPy, desktop GL 2.1 packaged diagnostic and native UI audit"
+    "all 24 lessons, all six reader statuses, four map chapters and locked/completed nodes",
+    "all 12 quiz questions before/after answer; profiles and long name; adult, appearance, phone, hardware, history, script",
+    "button rectangles including effects do not intersect across different parents; visible portions respect scroll clipping",
+    "live reader status changes update labels without changing button names or geometry",
+    "header captions and equations fit font metrics and do not overlap; wrapped heading fits all lessons",
+    "normal/hover/pressed/checked/disabled/focus keep stable content geometry; long dialog label wraps",
+    "installed native x + 2 = 4: paired RFID remove, answer 2, reveal and result with unchanged viewport",
+    "OpenGL ES 2 full suite without NumPy; desktop GL 2.1 package diagnostic and native UI audit; compatible installed view"
   ]
 }
