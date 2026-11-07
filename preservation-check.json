@@ -17,7 +17,11 @@
     "lesson_queue.py",
     "mobile.py"
   ],
-  "workspace_methods_except_construction_refresh_identical": true,
+  "service_calls_in_input_handlers_identical": true,
+  "header_positions_preserved": true,
+  "full_name_all_frames": true,
+  "question_after_settling": true,
+  "result_after_readable_face": true,
   "scene_size_fixed_throughout_movie": [
     1004,
     386

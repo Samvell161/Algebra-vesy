@@ -1,6 +1,6 @@
 {
-  "version": "0.39.0",
-  "source_package_sha256": "7faa1a9f991dc07a70f20786399aefa13a058f8b534dcfbb9097b608944bf91f",
+  "version": "0.40.0",
+  "source_package_sha256": "f3230f9abe6eb6dd59bdc8b8cd39d9ccddf3ceaabaeca31df5bbdc61eb9d55d6",
   "fps": 30,
   "frames": 660,
   "duration_seconds": 22.0,
@@ -34,6 +34,10 @@
   "physical_pi_tested": false,
   "is_realtime_fps_benchmark": false,
   "quality": "detail",
+  "header_positions_preserved": true,
+  "full_name_all_frames": true,
+  "question_after_settling_all_frames": true,
+  "result_after_readable_face": true,
   "scene_size_preserved_all_frames": true,
   "scene_size": [
     1004,
@@ -394,7 +398,9 @@
       "phase": "won"
     }
   ],
-  "capture_wall_seconds": 89.96304152200173,
+  "capture_wall_seconds": 89.84009330799745,
+  "first_question_second": 18.166666666666668,
+  "first_result_second": 20.633333333333333,
   "unique_source_frames": 660,
   "video": {
     "programs": [],
@@ -412,7 +418,7 @@
     ],
     "format": {
       "duration": "22.000000",
-      "size": "1070015"
+      "size": "1051694"
     }
   },
   "gif": {
@@ -421,12 +427,12 @@
   },
   "assets": {
     "balance-actions-30fps.mp4": {
-      "bytes": 1070015,
-      "sha256": "d04f4de06ed157f2a596c64e6dcc42390f74329bc27988572cef39c9b90f23be"
+      "bytes": 1051694,
+      "sha256": "827d1751c2f1b4cf504ea9e562d437f436d2c8cbee399a9f101083d822fe7570"
     },
     "balance-actions-30fps.gif": {
-      "bytes": 5072607,
-      "sha256": "c3bac2e6b5655e2a29ca55ba8ce7c13bda45d9520aa7976d9cde83c4acc7a442"
+      "bytes": 5111894,
+      "sha256": "0ab304b7263c1c1be600df3121ca13d2bbabadd0b83191e50cccd7d9014c849b"
     }
   }
 }
