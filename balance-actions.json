@@ -1,6 +1,6 @@
 {
-  "version": "0.40.0",
-  "source_package_sha256": "f3230f9abe6eb6dd59bdc8b8cd39d9ccddf3ceaabaeca31df5bbdc61eb9d55d6",
+  "version": "0.40.1",
+  "source_package_sha256": "c3c7babf6d6e110d025eef4af60ea5e58c1642b27e168e77cf62aab08dd63e80",
   "fps": 30,
   "frames": 660,
   "duration_seconds": 22.0,
@@ -398,7 +398,7 @@
       "phase": "won"
     }
   ],
-  "capture_wall_seconds": 89.84009330799745,
+  "capture_wall_seconds": 83.26404406000802,
   "first_question_second": 18.166666666666668,
   "first_result_second": 20.633333333333333,
   "unique_source_frames": 660,
@@ -418,7 +418,7 @@
     ],
     "format": {
       "duration": "22.000000",
-      "size": "1051694"
+      "size": "1050369"
     }
   },
   "gif": {
@@ -427,12 +427,12 @@
   },
   "assets": {
     "balance-actions-30fps.mp4": {
-      "bytes": 1051694,
-      "sha256": "827d1751c2f1b4cf504ea9e562d437f436d2c8cbee399a9f101083d822fe7570"
+      "bytes": 1050369,
+      "sha256": "8c6e2ac1e46d43320a15045029c04ad3005e243e27b9035dca07835831d0747b"
     },
     "balance-actions-30fps.gif": {
-      "bytes": 5111894,
-      "sha256": "0ab304b7263c1c1be600df3121ca13d2bbabadd0b83191e50cccd7d9014c849b"
+      "bytes": 5111412,
+      "sha256": "46c03e5b453e6191dfee985d4116e389def785c0b704447da807d1bedff410c6"
     }
   }
 }

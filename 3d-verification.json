@@ -1,5 +1,5 @@
 {
-  "version": "0.40.0",
+  "version": "0.40.1",
   "ok": true,
   "graphics": {
     "version": "OpenGL ES 2.0 Mesa 25.0.7-2+deb13u1",
@@ -346,28 +346,28 @@
   ],
   "motion_readability": [
     {
-      "angle": -0.0719812780491304,
-      "minimum_contrast": 6.2407795093623335
+      "angle": -4.447822148358069,
+      "minimum_contrast": 4.698851465064026
     },
     {
-      "angle": 7.596879693632189,
-      "minimum_contrast": 5.5353706334257256
+      "angle": 6.174720027246227,
+      "minimum_contrast": 4.678654847209302
     },
     {
-      "angle": 9.225426489507239,
-      "minimum_contrast": 4.632293788589752
+      "angle": 9.11279494566864,
+      "minimum_contrast": 4.744288776148542
     },
     {
-      "angle": 9.16476607124124,
-      "minimum_contrast": 4.849032289995966
+      "angle": 9.198080032671914,
+      "minimum_contrast": 4.804174549897556
     },
     {
-      "angle": 9.032417466547717,
-      "minimum_contrast": 4.736995399019935
+      "angle": 9.042141789237448,
+      "minimum_contrast": 4.71681059622796
     },
     {
-      "angle": 8.998381636057829,
-      "minimum_contrast": 4.711201660518667
+      "angle": 9.0,
+      "minimum_contrast": 4.710866370358215
     }
   ],
   "minimum_symbol_contrast": 4.696225764450991,
