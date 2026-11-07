@@ -1,5 +1,5 @@
 {
-  "version": "0.30.0",
+  "version": "0.31.0",
   "ok": true,
   "graphics": {
     "version": "OpenGL ES 2.0 Mesa 25.0.7-2+deb13u1",
@@ -8,17 +8,22 @@
     "glsl": "OpenGL ES GLSL ES 1.0.16",
     "api": "OpenGL ES",
     "samples": 2,
-    "depth_bits": 24
+    "depth_bits": 24,
+    "quality": "detail",
+    "shadow_size": 2048,
+    "contact_shading": true
   },
   "framebuffer": [
     996,
     290
   ],
-  "static_vertices": 136569,
-  "moving_part_vertices": 56214,
+  "static_vertices": 150141,
+  "moving_part_vertices": 109230,
   "static_batches": 5,
   "background_room_image_deleted": true,
   "numpy_unavailable": true,
+  "quality_switch_and_glyph_cache": true,
+  "quality_preference": "detail",
   "bundled_binding_verified": true,
   "perspective_camera_and_parallax": true,
   "xyz_contacts": true,
