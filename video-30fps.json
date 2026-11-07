@@ -1,9 +1,9 @@
 {
-  "version": "0.37.0",
-  "source_package_sha256": "bdb85123a5a9d4fb95a20dbf7f1b514a4008cb9510613cf9ce8f7a07faa0e343",
+  "version": "0.38.0",
+  "source_package_sha256": "1bdf4f2c2b6bc217146da059cc2b97878d4ee14215b091a3d22b3366bbd35232",
   "fps": 30,
-  "frames": 360,
-  "duration_seconds": 12.0,
+  "frames": 600,
+  "duration_seconds": 20.0,
   "size": [
     1024,
     600
@@ -27,7 +27,7 @@
     "lamp_enabled": true,
     "render_buffer": [
       1255,
-      420
+      482
     ],
     "render_scale": 1.25
   },
@@ -37,48 +37,13 @@
   "original_condition_preserved": true,
   "sections": [
     {
-      "label": "Живая комната и исходное условие",
+      "label": "Игровая комната: длинный маршрут робота с разворотами, машинки, сова и облака",
       "start_frame": 0,
-      "seconds": 2
-    },
-    {
-      "label": "Добавить 1 слева",
-      "start_frame": 60,
-      "seconds": 1.5
-    },
-    {
-      "label": "Отмена: восстановить равновесие",
-      "start_frame": 105,
-      "seconds": 1.5
-    },
-    {
-      "label": "Добавить 2 слева: кубик сверху",
-      "start_frame": 150,
-      "seconds": 1.5
-    },
-    {
-      "label": "Отмена: восстановить равновесие",
-      "start_frame": 195,
-      "seconds": 1.5
-    },
-    {
-      "label": "Убрать 2 слева",
-      "start_frame": 240,
-      "seconds": 1.5
-    },
-    {
-      "label": "Убрать 2 справа",
-      "start_frame": 285,
-      "seconds": 1.5
-    },
-    {
-      "label": "Ребёнок вводит ответ самостоятельно",
-      "start_frame": 330,
-      "seconds": 1
+      "seconds": 20
     }
   ],
-  "capture_wall_seconds": 48.51345500799653,
-  "unique_source_frames": 360,
+  "capture_wall_seconds": 69.96115778299281,
+  "unique_source_frames": 600,
   "video": {
     "programs": [],
     "stream_groups": [],
@@ -90,26 +55,26 @@
         "pix_fmt": "yuv420p",
         "r_frame_rate": "30/1",
         "avg_frame_rate": "30/1",
-        "nb_read_frames": "360"
+        "nb_read_frames": "600"
       }
     ],
     "format": {
-      "duration": "12.000000",
-      "size": "562772"
+      "duration": "20.000000",
+      "size": "617844"
     }
   },
   "gif": {
-    "encoded_frames": 360,
-    "duration_ms": 12000
+    "encoded_frames": 600,
+    "duration_ms": 20000
   },
   "assets": {
     "real-3d-30fps.mp4": {
-      "bytes": 562772,
-      "sha256": "9314fc4db9a0faab3b551a9e83ce0efabfa6be59fb5979d82c2a722067ad0ae3"
+      "bytes": 617844,
+      "sha256": "d755605663f668f9dcaf072a0c3c8b32686f140902a383cd46fda88816f44781"
     },
     "real-3d-30fps.gif": {
-      "bytes": 2804276,
-      "sha256": "6281b89ce386b85dc2a47e9149eb1f2c32d66791b881910616f9ccc2e3e55001"
+      "bytes": 2731400,
+      "sha256": "169105479a0a8f2271b1d41296c060e1ad4ad65b64c470356400ab1b0e01bca5"
     }
   }
 }

@@ -2,7 +2,7 @@
   "minimum_contrast": 4.696225764450991,
   "x_contrast": 4.696225764450991,
   "minimum_number_contrast": 6.1730947070763715,
-  "right_left_number_brightness_ratio": 1.0154066739693746,
+  "right_left_number_brightness_ratio": 1.0130216479215168,
   "visible_symbols": 7,
   "samples": [
     {
@@ -34,8 +34,8 @@
     {
       "symbol": "1",
       "side": "left",
-      "contrast": 6.214780594636542,
-      "background": 0.5842334956587378,
+      "contrast": 6.214123604830568,
+      "background": 0.5841664482489524,
       "dark_pixels": 129,
       "roi": [
         361,
@@ -47,9 +47,9 @@
     {
       "symbol": "1",
       "side": "right",
-      "contrast": 6.4054601467724535,
-      "background": 0.6017289465592284,
-      "dark_pixels": 125,
+      "contrast": 6.400040300504527,
+      "background": 0.6011774997282793,
+      "dark_pixels": 124,
       "roi": [
         598,
         242,
@@ -86,8 +86,8 @@
     {
       "symbol": "1",
       "side": "right",
-      "contrast": 6.274389079399223,
-      "background": 0.5998692340406344,
+      "contrast": 6.224784880450622,
+      "background": 0.5947314839954916,
       "dark_pixels": 121,
       "roi": [
         722,
