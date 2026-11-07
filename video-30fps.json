@@ -1,0 +1,115 @@
+{
+  "version": "0.36.0",
+  "source_package_sha256": "827718cfc9c50f18fdd492a9fba8e9cce09c8d990b041b0193865d93c687a14c",
+  "fps": 30,
+  "frames": 300,
+  "duration_seconds": 10.0,
+  "size": [
+    1024,
+    600
+  ],
+  "method": "fixed-time frame-by-frame rendering of installed application; no optical-flow interpolation or upsampling",
+  "graphics": {
+    "version": "OpenGL ES 2.0 Mesa 25.0.7-2+deb13u1",
+    "renderer": "llvmpipe (LLVM 19.1.7, 256 bits)",
+    "vendor": "Mesa",
+    "glsl": "OpenGL ES GLSL ES 1.0.16",
+    "api": "OpenGL ES",
+    "samples": 2,
+    "depth_bits": 24,
+    "quality": "detail",
+    "shadow_size": 2048,
+    "contact_shading": true,
+    "lamp_shadow_size": 1024,
+    "lighting": "warm window daylight + diffuse fill + soft lamp + contact occlusion",
+    "projection": "orthographic",
+    "view": "fixed-front",
+    "lamp_enabled": true,
+    "render_buffer": [
+      1255,
+      420
+    ],
+    "render_scale": 1.25
+  },
+  "physical_pi_tested": false,
+  "is_realtime_fps_benchmark": false,
+  "quality": "detail",
+  "original_condition_preserved": true,
+  "sections": [
+    {
+      "label": "Исходное условие",
+      "start_frame": 0,
+      "seconds": 0.5
+    },
+    {
+      "label": "Добавить 1 слева",
+      "start_frame": 15,
+      "seconds": 1.5
+    },
+    {
+      "label": "Отмена: восстановить равновесие",
+      "start_frame": 60,
+      "seconds": 1.5
+    },
+    {
+      "label": "Добавить 2 слева: кубик сверху",
+      "start_frame": 105,
+      "seconds": 1.5
+    },
+    {
+      "label": "Отмена: восстановить равновесие",
+      "start_frame": 150,
+      "seconds": 1.5
+    },
+    {
+      "label": "Убрать 2 слева",
+      "start_frame": 195,
+      "seconds": 1.5
+    },
+    {
+      "label": "Убрать 2 справа",
+      "start_frame": 240,
+      "seconds": 1.5
+    },
+    {
+      "label": "Ребёнок вводит ответ самостоятельно",
+      "start_frame": 285,
+      "seconds": 0.5
+    }
+  ],
+  "capture_wall_seconds": 38.34692685799382,
+  "unique_source_frames": 219,
+  "video": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "width": 1024,
+        "height": 600,
+        "pix_fmt": "yuv420p",
+        "r_frame_rate": "30/1",
+        "avg_frame_rate": "30/1",
+        "nb_read_frames": "300"
+      }
+    ],
+    "format": {
+      "duration": "10.000000",
+      "size": "521937"
+    }
+  },
+  "gif": {
+    "encoded_frames": 300,
+    "duration_ms": 10000
+  },
+  "assets": {
+    "real-3d-30fps.mp4": {
+      "bytes": 521937,
+      "sha256": "696a5dd5cd1156739cae60bdebe7cce86cfeae4c1d32274eaa895961348e0225"
+    },
+    "real-3d-30fps.gif": {
+      "bytes": 2540962,
+      "sha256": "635e9da4e4692ccf01505d68226081982097c7783db0fcac85233adb8d651820"
+    }
+  }
+}
