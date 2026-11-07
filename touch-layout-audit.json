@@ -1,0 +1,9574 @@
+{
+  "version": "0.41.0",
+  "size": [
+    1024,
+    600
+  ],
+  "software_view": false,
+  "button_checks": 595,
+  "errors": [],
+  "modal_errors": [],
+  "screens": [
+    "game.png",
+    "adult.png",
+    "adult-bottom.png",
+    "profiles.png",
+    "appearance.png",
+    "phone.png",
+    "phone-bottom.png",
+    "hardware.png",
+    "history.png",
+    "script.png",
+    "script-bottom.png",
+    "appearance-off.png",
+    "new-profile.png",
+    "backup.png",
+    "restore.png",
+    "export-log.png",
+    "confirmation.png",
+    "profiles-long.png",
+    "map-locked-1.png",
+    "map-complete-1.png",
+    "map-complete-2.png",
+    "map-complete-3.png",
+    "map-complete-4.png",
+    "quiz-1-1.png",
+    "quiz-1-2.png",
+    "quiz-1-3.png",
+    "quiz-2-1.png",
+    "quiz-2-2.png",
+    "quiz-2-3.png",
+    "quiz-3-1.png",
+    "quiz-3-2.png",
+    "quiz-3-3.png",
+    "quiz-4-1.png",
+    "quiz-4-2.png",
+    "quiz-4-3.png",
+    "answer-entry.png",
+    "result.png"
+  ],
+  "viewport_preserved": true,
+  "physical_pi_tested": false,
+  "buttons": [
+    {
+      "screen": "game",
+      "text": "",
+      "size": [
+        192,
+        44
+      ],
+      "text_bounds": [
+        0,
+        22
+      ],
+      "available_text": [
+        0,
+        40
+      ]
+    },
+    {
+      "screen": "game",
+      "text": "Для взрослого",
+      "size": [
+        170,
+        44
+      ],
+      "text_bounds": [
+        116,
+        22
+      ],
+      "available_text": [
+        116,
+        32
+      ]
+    },
+    {
+      "screen": "game",
+      "text": "Левая чаша · экран",
+      "size": [
+        187,
+        44
+      ],
+      "text_bounds": [
+        161,
+        24
+      ],
+      "available_text": [
+        161,
+        32
+      ]
+    },
+    {
+      "screen": "game",
+      "text": "− Убрать",
+      "size": [
+        100,
+        44
+      ],
+      "text_bounds": [
+        74,
+        24
+      ],
+      "available_text": [
+        74,
+        32
+      ]
+    },
+    {
+      "screen": "game",
+      "text": "+ Добавить",
+      "size": [
+        122,
+        44
+      ],
+      "text_bounds": [
+        96,
+        24
+      ],
+      "available_text": [
+        96,
+        32
+      ]
+    },
+    {
+      "screen": "game",
+      "text": "Правая чаша · экран",
+      "size": [
+        198,
+        44
+      ],
+      "text_bounds": [
+        172,
+        24
+      ],
+      "available_text": [
+        172,
+        32
+      ]
+    },
+    {
+      "screen": "game",
+      "text": "Отменить",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        82,
+        24
+      ],
+      "available_text": [
+        82,
+        32
+      ]
+    },
+    {
+      "screen": "game",
+      "text": "Карта",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        50,
+        24
+      ],
+      "available_text": [
+        50,
+        32
+      ]
+    },
+    {
+      "screen": "game",
+      "text": "Мой путь",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        78,
+        24
+      ],
+      "available_text": [
+        78,
+        32
+      ]
+    },
+    {
+      "screen": "game",
+      "text": "Дальше",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        68,
+        24
+      ],
+      "available_text": [
+        68,
+        32
+      ]
+    },
+    {
+      "screen": "game",
+      "text": "Подсказка",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        90,
+        24
+      ],
+      "available_text": [
+        90,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-cups-1",
+      "text": "",
+      "size": [
+        192,
+        44
+      ],
+      "text_bounds": [
+        0,
+        22
+      ],
+      "available_text": [
+        0,
+        40
+      ]
+    },
+    {
+      "screen": "lesson-cups-1",
+      "text": "Для взрослого",
+      "size": [
+        170,
+        44
+      ],
+      "text_bounds": [
+        116,
+        22
+      ],
+      "available_text": [
+        116,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-cups-1",
+      "text": "Левая чаша · экран",
+      "size": [
+        187,
+        44
+      ],
+      "text_bounds": [
+        161,
+        24
+      ],
+      "available_text": [
+        161,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-cups-1",
+      "text": "− Убрать",
+      "size": [
+        100,
+        44
+      ],
+      "text_bounds": [
+        74,
+        24
+      ],
+      "available_text": [
+        74,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-cups-1",
+      "text": "+ Добавить",
+      "size": [
+        122,
+        44
+      ],
+      "text_bounds": [
+        96,
+        24
+      ],
+      "available_text": [
+        96,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-cups-1",
+      "text": "Правая чаша · экран",
+      "size": [
+        198,
+        44
+      ],
+      "text_bounds": [
+        172,
+        24
+      ],
+      "available_text": [
+        172,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-cups-1",
+      "text": "Отменить",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        82,
+        24
+      ],
+      "available_text": [
+        82,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-cups-1",
+      "text": "Карта",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        50,
+        24
+      ],
+      "available_text": [
+        50,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-cups-1",
+      "text": "Мой путь",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        78,
+        24
+      ],
+      "available_text": [
+        78,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-cups-1",
+      "text": "Дальше",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        68,
+        24
+      ],
+      "available_text": [
+        68,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-cups-1",
+      "text": "Подсказка",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        90,
+        24
+      ],
+      "available_text": [
+        90,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-cups-2",
+      "text": "",
+      "size": [
+        192,
+        44
+      ],
+      "text_bounds": [
+        0,
+        22
+      ],
+      "available_text": [
+        0,
+        40
+      ]
+    },
+    {
+      "screen": "lesson-cups-2",
+      "text": "Для взрослого",
+      "size": [
+        170,
+        44
+      ],
+      "text_bounds": [
+        116,
+        22
+      ],
+      "available_text": [
+        116,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-cups-2",
+      "text": "Левая чаша · экран",
+      "size": [
+        187,
+        44
+      ],
+      "text_bounds": [
+        161,
+        24
+      ],
+      "available_text": [
+        161,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-cups-2",
+      "text": "− Убрать",
+      "size": [
+        100,
+        44
+      ],
+      "text_bounds": [
+        74,
+        24
+      ],
+      "available_text": [
+        74,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-cups-2",
+      "text": "+ Добавить",
+      "size": [
+        122,
+        44
+      ],
+      "text_bounds": [
+        96,
+        24
+      ],
+      "available_text": [
+        96,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-cups-2",
+      "text": "Правая чаша · экран",
+      "size": [
+        198,
+        44
+      ],
+      "text_bounds": [
+        172,
+        24
+      ],
+      "available_text": [
+        172,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-cups-2",
+      "text": "Отменить",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        82,
+        24
+      ],
+      "available_text": [
+        82,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-cups-2",
+      "text": "Карта",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        50,
+        24
+      ],
+      "available_text": [
+        50,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-cups-2",
+      "text": "Мой путь",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        78,
+        24
+      ],
+      "available_text": [
+        78,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-cups-2",
+      "text": "Дальше",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        68,
+        24
+      ],
+      "available_text": [
+        68,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-cups-2",
+      "text": "Подсказка",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        90,
+        24
+      ],
+      "available_text": [
+        90,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-cups-3",
+      "text": "",
+      "size": [
+        192,
+        44
+      ],
+      "text_bounds": [
+        0,
+        22
+      ],
+      "available_text": [
+        0,
+        40
+      ]
+    },
+    {
+      "screen": "lesson-cups-3",
+      "text": "Для взрослого",
+      "size": [
+        170,
+        44
+      ],
+      "text_bounds": [
+        116,
+        22
+      ],
+      "available_text": [
+        116,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-cups-3",
+      "text": "Левая чаша · экран",
+      "size": [
+        187,
+        44
+      ],
+      "text_bounds": [
+        161,
+        24
+      ],
+      "available_text": [
+        161,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-cups-3",
+      "text": "− Убрать",
+      "size": [
+        100,
+        44
+      ],
+      "text_bounds": [
+        74,
+        24
+      ],
+      "available_text": [
+        74,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-cups-3",
+      "text": "+ Добавить",
+      "size": [
+        122,
+        44
+      ],
+      "text_bounds": [
+        96,
+        24
+      ],
+      "available_text": [
+        96,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-cups-3",
+      "text": "Правая чаша · экран",
+      "size": [
+        198,
+        44
+      ],
+      "text_bounds": [
+        172,
+        24
+      ],
+      "available_text": [
+        172,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-cups-3",
+      "text": "Отменить",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        82,
+        24
+      ],
+      "available_text": [
+        82,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-cups-3",
+      "text": "Карта",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        50,
+        24
+      ],
+      "available_text": [
+        50,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-cups-3",
+      "text": "Мой путь",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        78,
+        24
+      ],
+      "available_text": [
+        78,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-cups-3",
+      "text": "Дальше",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        68,
+        24
+      ],
+      "available_text": [
+        68,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-cups-3",
+      "text": "Подсказка",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        90,
+        24
+      ],
+      "available_text": [
+        90,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-cups-4",
+      "text": "",
+      "size": [
+        192,
+        44
+      ],
+      "text_bounds": [
+        0,
+        22
+      ],
+      "available_text": [
+        0,
+        40
+      ]
+    },
+    {
+      "screen": "lesson-cups-4",
+      "text": "Для взрослого",
+      "size": [
+        170,
+        44
+      ],
+      "text_bounds": [
+        116,
+        22
+      ],
+      "available_text": [
+        116,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-cups-4",
+      "text": "Левая чаша · экран",
+      "size": [
+        187,
+        44
+      ],
+      "text_bounds": [
+        161,
+        24
+      ],
+      "available_text": [
+        161,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-cups-4",
+      "text": "− Убрать",
+      "size": [
+        100,
+        44
+      ],
+      "text_bounds": [
+        74,
+        24
+      ],
+      "available_text": [
+        74,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-cups-4",
+      "text": "+ Добавить",
+      "size": [
+        122,
+        44
+      ],
+      "text_bounds": [
+        96,
+        24
+      ],
+      "available_text": [
+        96,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-cups-4",
+      "text": "Правая чаша · экран",
+      "size": [
+        198,
+        44
+      ],
+      "text_bounds": [
+        172,
+        24
+      ],
+      "available_text": [
+        172,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-cups-4",
+      "text": "Отменить",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        82,
+        24
+      ],
+      "available_text": [
+        82,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-cups-4",
+      "text": "Карта",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        50,
+        24
+      ],
+      "available_text": [
+        50,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-cups-4",
+      "text": "Мой путь",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        78,
+        24
+      ],
+      "available_text": [
+        78,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-cups-4",
+      "text": "Дальше",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        68,
+        24
+      ],
+      "available_text": [
+        68,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-cups-4",
+      "text": "Подсказка",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        90,
+        24
+      ],
+      "available_text": [
+        90,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-cups-5",
+      "text": "",
+      "size": [
+        192,
+        44
+      ],
+      "text_bounds": [
+        0,
+        22
+      ],
+      "available_text": [
+        0,
+        40
+      ]
+    },
+    {
+      "screen": "lesson-cups-5",
+      "text": "Для взрослого",
+      "size": [
+        170,
+        44
+      ],
+      "text_bounds": [
+        116,
+        22
+      ],
+      "available_text": [
+        116,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-cups-5",
+      "text": "Левая чаша · экран",
+      "size": [
+        187,
+        44
+      ],
+      "text_bounds": [
+        161,
+        24
+      ],
+      "available_text": [
+        161,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-cups-5",
+      "text": "− Убрать",
+      "size": [
+        100,
+        44
+      ],
+      "text_bounds": [
+        74,
+        24
+      ],
+      "available_text": [
+        74,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-cups-5",
+      "text": "+ Добавить",
+      "size": [
+        122,
+        44
+      ],
+      "text_bounds": [
+        96,
+        24
+      ],
+      "available_text": [
+        96,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-cups-5",
+      "text": "Правая чаша · экран",
+      "size": [
+        198,
+        44
+      ],
+      "text_bounds": [
+        172,
+        24
+      ],
+      "available_text": [
+        172,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-cups-5",
+      "text": "Отменить",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        82,
+        24
+      ],
+      "available_text": [
+        82,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-cups-5",
+      "text": "Карта",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        50,
+        24
+      ],
+      "available_text": [
+        50,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-cups-5",
+      "text": "Мой путь",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        78,
+        24
+      ],
+      "available_text": [
+        78,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-cups-5",
+      "text": "Дальше",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        68,
+        24
+      ],
+      "available_text": [
+        68,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-cups-5",
+      "text": "Подсказка",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        90,
+        24
+      ],
+      "available_text": [
+        90,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-cups-6",
+      "text": "",
+      "size": [
+        192,
+        44
+      ],
+      "text_bounds": [
+        0,
+        22
+      ],
+      "available_text": [
+        0,
+        40
+      ]
+    },
+    {
+      "screen": "lesson-cups-6",
+      "text": "Для взрослого",
+      "size": [
+        170,
+        44
+      ],
+      "text_bounds": [
+        116,
+        22
+      ],
+      "available_text": [
+        116,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-cups-6",
+      "text": "Левая чаша · экран",
+      "size": [
+        187,
+        44
+      ],
+      "text_bounds": [
+        161,
+        24
+      ],
+      "available_text": [
+        161,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-cups-6",
+      "text": "− Убрать",
+      "size": [
+        100,
+        44
+      ],
+      "text_bounds": [
+        74,
+        24
+      ],
+      "available_text": [
+        74,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-cups-6",
+      "text": "+ Добавить",
+      "size": [
+        122,
+        44
+      ],
+      "text_bounds": [
+        96,
+        24
+      ],
+      "available_text": [
+        96,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-cups-6",
+      "text": "Правая чаша · экран",
+      "size": [
+        198,
+        44
+      ],
+      "text_bounds": [
+        172,
+        24
+      ],
+      "available_text": [
+        172,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-cups-6",
+      "text": "Отменить",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        82,
+        24
+      ],
+      "available_text": [
+        82,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-cups-6",
+      "text": "Карта",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        50,
+        24
+      ],
+      "available_text": [
+        50,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-cups-6",
+      "text": "Мой путь",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        78,
+        24
+      ],
+      "available_text": [
+        78,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-cups-6",
+      "text": "Дальше",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        68,
+        24
+      ],
+      "available_text": [
+        68,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-cups-6",
+      "text": "Подсказка",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        90,
+        24
+      ],
+      "available_text": [
+        90,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-trail-1",
+      "text": "",
+      "size": [
+        192,
+        44
+      ],
+      "text_bounds": [
+        0,
+        22
+      ],
+      "available_text": [
+        0,
+        40
+      ]
+    },
+    {
+      "screen": "lesson-trail-1",
+      "text": "Для взрослого",
+      "size": [
+        170,
+        44
+      ],
+      "text_bounds": [
+        116,
+        22
+      ],
+      "available_text": [
+        116,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-trail-1",
+      "text": "Левая чаша · экран",
+      "size": [
+        187,
+        44
+      ],
+      "text_bounds": [
+        161,
+        24
+      ],
+      "available_text": [
+        161,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-trail-1",
+      "text": "− Убрать",
+      "size": [
+        100,
+        44
+      ],
+      "text_bounds": [
+        74,
+        24
+      ],
+      "available_text": [
+        74,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-trail-1",
+      "text": "+ Добавить",
+      "size": [
+        122,
+        44
+      ],
+      "text_bounds": [
+        96,
+        24
+      ],
+      "available_text": [
+        96,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-trail-1",
+      "text": "Правая чаша · экран",
+      "size": [
+        198,
+        44
+      ],
+      "text_bounds": [
+        172,
+        24
+      ],
+      "available_text": [
+        172,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-trail-1",
+      "text": "Отменить",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        82,
+        24
+      ],
+      "available_text": [
+        82,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-trail-1",
+      "text": "Карта",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        50,
+        24
+      ],
+      "available_text": [
+        50,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-trail-1",
+      "text": "Мой путь",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        78,
+        24
+      ],
+      "available_text": [
+        78,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-trail-1",
+      "text": "Дальше",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        68,
+        24
+      ],
+      "available_text": [
+        68,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-trail-1",
+      "text": "Подсказка",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        90,
+        24
+      ],
+      "available_text": [
+        90,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-trail-2",
+      "text": "",
+      "size": [
+        192,
+        44
+      ],
+      "text_bounds": [
+        0,
+        22
+      ],
+      "available_text": [
+        0,
+        40
+      ]
+    },
+    {
+      "screen": "lesson-trail-2",
+      "text": "Для взрослого",
+      "size": [
+        170,
+        44
+      ],
+      "text_bounds": [
+        116,
+        22
+      ],
+      "available_text": [
+        116,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-trail-2",
+      "text": "Левая чаша · экран",
+      "size": [
+        187,
+        44
+      ],
+      "text_bounds": [
+        161,
+        24
+      ],
+      "available_text": [
+        161,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-trail-2",
+      "text": "− Убрать",
+      "size": [
+        100,
+        44
+      ],
+      "text_bounds": [
+        74,
+        24
+      ],
+      "available_text": [
+        74,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-trail-2",
+      "text": "+ Добавить",
+      "size": [
+        122,
+        44
+      ],
+      "text_bounds": [
+        96,
+        24
+      ],
+      "available_text": [
+        96,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-trail-2",
+      "text": "Правая чаша · экран",
+      "size": [
+        198,
+        44
+      ],
+      "text_bounds": [
+        172,
+        24
+      ],
+      "available_text": [
+        172,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-trail-2",
+      "text": "Отменить",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        82,
+        24
+      ],
+      "available_text": [
+        82,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-trail-2",
+      "text": "Карта",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        50,
+        24
+      ],
+      "available_text": [
+        50,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-trail-2",
+      "text": "Мой путь",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        78,
+        24
+      ],
+      "available_text": [
+        78,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-trail-2",
+      "text": "Дальше",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        68,
+        24
+      ],
+      "available_text": [
+        68,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-trail-2",
+      "text": "Подсказка",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        90,
+        24
+      ],
+      "available_text": [
+        90,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-trail-3",
+      "text": "",
+      "size": [
+        192,
+        44
+      ],
+      "text_bounds": [
+        0,
+        22
+      ],
+      "available_text": [
+        0,
+        40
+      ]
+    },
+    {
+      "screen": "lesson-trail-3",
+      "text": "Для взрослого",
+      "size": [
+        170,
+        44
+      ],
+      "text_bounds": [
+        116,
+        22
+      ],
+      "available_text": [
+        116,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-trail-3",
+      "text": "Левая чаша · экран",
+      "size": [
+        187,
+        44
+      ],
+      "text_bounds": [
+        161,
+        24
+      ],
+      "available_text": [
+        161,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-trail-3",
+      "text": "− Убрать",
+      "size": [
+        100,
+        44
+      ],
+      "text_bounds": [
+        74,
+        24
+      ],
+      "available_text": [
+        74,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-trail-3",
+      "text": "+ Добавить",
+      "size": [
+        122,
+        44
+      ],
+      "text_bounds": [
+        96,
+        24
+      ],
+      "available_text": [
+        96,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-trail-3",
+      "text": "Правая чаша · экран",
+      "size": [
+        198,
+        44
+      ],
+      "text_bounds": [
+        172,
+        24
+      ],
+      "available_text": [
+        172,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-trail-3",
+      "text": "Отменить",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        82,
+        24
+      ],
+      "available_text": [
+        82,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-trail-3",
+      "text": "Карта",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        50,
+        24
+      ],
+      "available_text": [
+        50,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-trail-3",
+      "text": "Мой путь",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        78,
+        24
+      ],
+      "available_text": [
+        78,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-trail-3",
+      "text": "Дальше",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        68,
+        24
+      ],
+      "available_text": [
+        68,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-trail-3",
+      "text": "Подсказка",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        90,
+        24
+      ],
+      "available_text": [
+        90,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-trail-4",
+      "text": "",
+      "size": [
+        192,
+        44
+      ],
+      "text_bounds": [
+        0,
+        22
+      ],
+      "available_text": [
+        0,
+        40
+      ]
+    },
+    {
+      "screen": "lesson-trail-4",
+      "text": "Для взрослого",
+      "size": [
+        170,
+        44
+      ],
+      "text_bounds": [
+        116,
+        22
+      ],
+      "available_text": [
+        116,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-trail-4",
+      "text": "Левая чаша · экран",
+      "size": [
+        187,
+        44
+      ],
+      "text_bounds": [
+        161,
+        24
+      ],
+      "available_text": [
+        161,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-trail-4",
+      "text": "− Убрать",
+      "size": [
+        100,
+        44
+      ],
+      "text_bounds": [
+        74,
+        24
+      ],
+      "available_text": [
+        74,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-trail-4",
+      "text": "+ Добавить",
+      "size": [
+        122,
+        44
+      ],
+      "text_bounds": [
+        96,
+        24
+      ],
+      "available_text": [
+        96,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-trail-4",
+      "text": "Правая чаша · экран",
+      "size": [
+        198,
+        44
+      ],
+      "text_bounds": [
+        172,
+        24
+      ],
+      "available_text": [
+        172,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-trail-4",
+      "text": "Отменить",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        82,
+        24
+      ],
+      "available_text": [
+        82,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-trail-4",
+      "text": "Карта",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        50,
+        24
+      ],
+      "available_text": [
+        50,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-trail-4",
+      "text": "Мой путь",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        78,
+        24
+      ],
+      "available_text": [
+        78,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-trail-4",
+      "text": "Дальше",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        68,
+        24
+      ],
+      "available_text": [
+        68,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-trail-4",
+      "text": "Подсказка",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        90,
+        24
+      ],
+      "available_text": [
+        90,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-trail-5",
+      "text": "",
+      "size": [
+        192,
+        44
+      ],
+      "text_bounds": [
+        0,
+        22
+      ],
+      "available_text": [
+        0,
+        40
+      ]
+    },
+    {
+      "screen": "lesson-trail-5",
+      "text": "Для взрослого",
+      "size": [
+        170,
+        44
+      ],
+      "text_bounds": [
+        116,
+        22
+      ],
+      "available_text": [
+        116,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-trail-5",
+      "text": "Левая чаша · экран",
+      "size": [
+        187,
+        44
+      ],
+      "text_bounds": [
+        161,
+        24
+      ],
+      "available_text": [
+        161,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-trail-5",
+      "text": "− Убрать",
+      "size": [
+        100,
+        44
+      ],
+      "text_bounds": [
+        74,
+        24
+      ],
+      "available_text": [
+        74,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-trail-5",
+      "text": "+ Добавить",
+      "size": [
+        122,
+        44
+      ],
+      "text_bounds": [
+        96,
+        24
+      ],
+      "available_text": [
+        96,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-trail-5",
+      "text": "Правая чаша · экран",
+      "size": [
+        198,
+        44
+      ],
+      "text_bounds": [
+        172,
+        24
+      ],
+      "available_text": [
+        172,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-trail-5",
+      "text": "Отменить",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        82,
+        24
+      ],
+      "available_text": [
+        82,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-trail-5",
+      "text": "Карта",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        50,
+        24
+      ],
+      "available_text": [
+        50,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-trail-5",
+      "text": "Мой путь",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        78,
+        24
+      ],
+      "available_text": [
+        78,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-trail-5",
+      "text": "Дальше",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        68,
+        24
+      ],
+      "available_text": [
+        68,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-trail-5",
+      "text": "Подсказка",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        90,
+        24
+      ],
+      "available_text": [
+        90,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-trail-6",
+      "text": "",
+      "size": [
+        192,
+        44
+      ],
+      "text_bounds": [
+        0,
+        22
+      ],
+      "available_text": [
+        0,
+        40
+      ]
+    },
+    {
+      "screen": "lesson-trail-6",
+      "text": "Для взрослого",
+      "size": [
+        170,
+        44
+      ],
+      "text_bounds": [
+        116,
+        22
+      ],
+      "available_text": [
+        116,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-trail-6",
+      "text": "Левая чаша · экран",
+      "size": [
+        187,
+        44
+      ],
+      "text_bounds": [
+        161,
+        24
+      ],
+      "available_text": [
+        161,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-trail-6",
+      "text": "− Убрать",
+      "size": [
+        100,
+        44
+      ],
+      "text_bounds": [
+        74,
+        24
+      ],
+      "available_text": [
+        74,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-trail-6",
+      "text": "+ Добавить",
+      "size": [
+        122,
+        44
+      ],
+      "text_bounds": [
+        96,
+        24
+      ],
+      "available_text": [
+        96,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-trail-6",
+      "text": "Правая чаша · экран",
+      "size": [
+        198,
+        44
+      ],
+      "text_bounds": [
+        172,
+        24
+      ],
+      "available_text": [
+        172,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-trail-6",
+      "text": "Отменить",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        82,
+        24
+      ],
+      "available_text": [
+        82,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-trail-6",
+      "text": "Карта",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        50,
+        24
+      ],
+      "available_text": [
+        50,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-trail-6",
+      "text": "Мой путь",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        78,
+        24
+      ],
+      "available_text": [
+        78,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-trail-6",
+      "text": "Дальше",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        68,
+        24
+      ],
+      "available_text": [
+        68,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-trail-6",
+      "text": "Подсказка",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        90,
+        24
+      ],
+      "available_text": [
+        90,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-mirror-1",
+      "text": "",
+      "size": [
+        192,
+        44
+      ],
+      "text_bounds": [
+        0,
+        22
+      ],
+      "available_text": [
+        0,
+        40
+      ]
+    },
+    {
+      "screen": "lesson-mirror-1",
+      "text": "Для взрослого",
+      "size": [
+        170,
+        44
+      ],
+      "text_bounds": [
+        116,
+        22
+      ],
+      "available_text": [
+        116,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-mirror-1",
+      "text": "Левая чаша · экран",
+      "size": [
+        187,
+        44
+      ],
+      "text_bounds": [
+        161,
+        24
+      ],
+      "available_text": [
+        161,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-mirror-1",
+      "text": "− Убрать",
+      "size": [
+        100,
+        44
+      ],
+      "text_bounds": [
+        74,
+        24
+      ],
+      "available_text": [
+        74,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-mirror-1",
+      "text": "+ Добавить",
+      "size": [
+        122,
+        44
+      ],
+      "text_bounds": [
+        96,
+        24
+      ],
+      "available_text": [
+        96,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-mirror-1",
+      "text": "Правая чаша · экран",
+      "size": [
+        198,
+        44
+      ],
+      "text_bounds": [
+        172,
+        24
+      ],
+      "available_text": [
+        172,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-mirror-1",
+      "text": "Отменить",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        82,
+        24
+      ],
+      "available_text": [
+        82,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-mirror-1",
+      "text": "Карта",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        50,
+        24
+      ],
+      "available_text": [
+        50,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-mirror-1",
+      "text": "Мой путь",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        78,
+        24
+      ],
+      "available_text": [
+        78,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-mirror-1",
+      "text": "Дальше",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        68,
+        24
+      ],
+      "available_text": [
+        68,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-mirror-1",
+      "text": "Подсказка",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        90,
+        24
+      ],
+      "available_text": [
+        90,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-mirror-2",
+      "text": "",
+      "size": [
+        192,
+        44
+      ],
+      "text_bounds": [
+        0,
+        22
+      ],
+      "available_text": [
+        0,
+        40
+      ]
+    },
+    {
+      "screen": "lesson-mirror-2",
+      "text": "Для взрослого",
+      "size": [
+        170,
+        44
+      ],
+      "text_bounds": [
+        116,
+        22
+      ],
+      "available_text": [
+        116,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-mirror-2",
+      "text": "Левая чаша · экран",
+      "size": [
+        187,
+        44
+      ],
+      "text_bounds": [
+        161,
+        24
+      ],
+      "available_text": [
+        161,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-mirror-2",
+      "text": "− Убрать",
+      "size": [
+        100,
+        44
+      ],
+      "text_bounds": [
+        74,
+        24
+      ],
+      "available_text": [
+        74,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-mirror-2",
+      "text": "+ Добавить",
+      "size": [
+        122,
+        44
+      ],
+      "text_bounds": [
+        96,
+        24
+      ],
+      "available_text": [
+        96,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-mirror-2",
+      "text": "Правая чаша · экран",
+      "size": [
+        198,
+        44
+      ],
+      "text_bounds": [
+        172,
+        24
+      ],
+      "available_text": [
+        172,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-mirror-2",
+      "text": "Отменить",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        82,
+        24
+      ],
+      "available_text": [
+        82,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-mirror-2",
+      "text": "Карта",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        50,
+        24
+      ],
+      "available_text": [
+        50,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-mirror-2",
+      "text": "Мой путь",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        78,
+        24
+      ],
+      "available_text": [
+        78,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-mirror-2",
+      "text": "Дальше",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        68,
+        24
+      ],
+      "available_text": [
+        68,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-mirror-2",
+      "text": "Подсказка",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        90,
+        24
+      ],
+      "available_text": [
+        90,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-mirror-3",
+      "text": "",
+      "size": [
+        192,
+        44
+      ],
+      "text_bounds": [
+        0,
+        22
+      ],
+      "available_text": [
+        0,
+        40
+      ]
+    },
+    {
+      "screen": "lesson-mirror-3",
+      "text": "Для взрослого",
+      "size": [
+        170,
+        44
+      ],
+      "text_bounds": [
+        116,
+        22
+      ],
+      "available_text": [
+        116,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-mirror-3",
+      "text": "Левая чаша · экран",
+      "size": [
+        187,
+        44
+      ],
+      "text_bounds": [
+        161,
+        24
+      ],
+      "available_text": [
+        161,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-mirror-3",
+      "text": "− Убрать",
+      "size": [
+        100,
+        44
+      ],
+      "text_bounds": [
+        74,
+        24
+      ],
+      "available_text": [
+        74,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-mirror-3",
+      "text": "+ Добавить",
+      "size": [
+        122,
+        44
+      ],
+      "text_bounds": [
+        96,
+        24
+      ],
+      "available_text": [
+        96,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-mirror-3",
+      "text": "Правая чаша · экран",
+      "size": [
+        198,
+        44
+      ],
+      "text_bounds": [
+        172,
+        24
+      ],
+      "available_text": [
+        172,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-mirror-3",
+      "text": "Отменить",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        82,
+        24
+      ],
+      "available_text": [
+        82,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-mirror-3",
+      "text": "Карта",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        50,
+        24
+      ],
+      "available_text": [
+        50,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-mirror-3",
+      "text": "Мой путь",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        78,
+        24
+      ],
+      "available_text": [
+        78,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-mirror-3",
+      "text": "Дальше",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        68,
+        24
+      ],
+      "available_text": [
+        68,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-mirror-3",
+      "text": "Подсказка",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        90,
+        24
+      ],
+      "available_text": [
+        90,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-mirror-4",
+      "text": "",
+      "size": [
+        192,
+        44
+      ],
+      "text_bounds": [
+        0,
+        22
+      ],
+      "available_text": [
+        0,
+        40
+      ]
+    },
+    {
+      "screen": "lesson-mirror-4",
+      "text": "Для взрослого",
+      "size": [
+        170,
+        44
+      ],
+      "text_bounds": [
+        116,
+        22
+      ],
+      "available_text": [
+        116,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-mirror-4",
+      "text": "Левая чаша · экран",
+      "size": [
+        187,
+        44
+      ],
+      "text_bounds": [
+        161,
+        24
+      ],
+      "available_text": [
+        161,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-mirror-4",
+      "text": "− Убрать",
+      "size": [
+        100,
+        44
+      ],
+      "text_bounds": [
+        74,
+        24
+      ],
+      "available_text": [
+        74,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-mirror-4",
+      "text": "+ Добавить",
+      "size": [
+        122,
+        44
+      ],
+      "text_bounds": [
+        96,
+        24
+      ],
+      "available_text": [
+        96,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-mirror-4",
+      "text": "Правая чаша · экран",
+      "size": [
+        198,
+        44
+      ],
+      "text_bounds": [
+        172,
+        24
+      ],
+      "available_text": [
+        172,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-mirror-4",
+      "text": "Отменить",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        82,
+        24
+      ],
+      "available_text": [
+        82,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-mirror-4",
+      "text": "Карта",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        50,
+        24
+      ],
+      "available_text": [
+        50,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-mirror-4",
+      "text": "Мой путь",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        78,
+        24
+      ],
+      "available_text": [
+        78,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-mirror-4",
+      "text": "Дальше",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        68,
+        24
+      ],
+      "available_text": [
+        68,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-mirror-4",
+      "text": "Подсказка",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        90,
+        24
+      ],
+      "available_text": [
+        90,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-mirror-5",
+      "text": "",
+      "size": [
+        192,
+        44
+      ],
+      "text_bounds": [
+        0,
+        22
+      ],
+      "available_text": [
+        0,
+        40
+      ]
+    },
+    {
+      "screen": "lesson-mirror-5",
+      "text": "Для взрослого",
+      "size": [
+        170,
+        44
+      ],
+      "text_bounds": [
+        116,
+        22
+      ],
+      "available_text": [
+        116,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-mirror-5",
+      "text": "Левая чаша · экран",
+      "size": [
+        187,
+        44
+      ],
+      "text_bounds": [
+        161,
+        24
+      ],
+      "available_text": [
+        161,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-mirror-5",
+      "text": "− Убрать",
+      "size": [
+        100,
+        44
+      ],
+      "text_bounds": [
+        74,
+        24
+      ],
+      "available_text": [
+        74,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-mirror-5",
+      "text": "+ Добавить",
+      "size": [
+        122,
+        44
+      ],
+      "text_bounds": [
+        96,
+        24
+      ],
+      "available_text": [
+        96,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-mirror-5",
+      "text": "Правая чаша · экран",
+      "size": [
+        198,
+        44
+      ],
+      "text_bounds": [
+        172,
+        24
+      ],
+      "available_text": [
+        172,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-mirror-5",
+      "text": "Отменить",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        82,
+        24
+      ],
+      "available_text": [
+        82,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-mirror-5",
+      "text": "Карта",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        50,
+        24
+      ],
+      "available_text": [
+        50,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-mirror-5",
+      "text": "Мой путь",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        78,
+        24
+      ],
+      "available_text": [
+        78,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-mirror-5",
+      "text": "Дальше",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        68,
+        24
+      ],
+      "available_text": [
+        68,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-mirror-5",
+      "text": "Подсказка",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        90,
+        24
+      ],
+      "available_text": [
+        90,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-mirror-6",
+      "text": "",
+      "size": [
+        192,
+        44
+      ],
+      "text_bounds": [
+        0,
+        22
+      ],
+      "available_text": [
+        0,
+        40
+      ]
+    },
+    {
+      "screen": "lesson-mirror-6",
+      "text": "Для взрослого",
+      "size": [
+        170,
+        44
+      ],
+      "text_bounds": [
+        116,
+        22
+      ],
+      "available_text": [
+        116,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-mirror-6",
+      "text": "Левая чаша · экран",
+      "size": [
+        187,
+        44
+      ],
+      "text_bounds": [
+        161,
+        24
+      ],
+      "available_text": [
+        161,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-mirror-6",
+      "text": "− Убрать",
+      "size": [
+        100,
+        44
+      ],
+      "text_bounds": [
+        74,
+        24
+      ],
+      "available_text": [
+        74,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-mirror-6",
+      "text": "+ Добавить",
+      "size": [
+        122,
+        44
+      ],
+      "text_bounds": [
+        96,
+        24
+      ],
+      "available_text": [
+        96,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-mirror-6",
+      "text": "Правая чаша · экран",
+      "size": [
+        198,
+        44
+      ],
+      "text_bounds": [
+        172,
+        24
+      ],
+      "available_text": [
+        172,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-mirror-6",
+      "text": "Отменить",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        82,
+        24
+      ],
+      "available_text": [
+        82,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-mirror-6",
+      "text": "Карта",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        50,
+        24
+      ],
+      "available_text": [
+        50,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-mirror-6",
+      "text": "Мой путь",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        78,
+        24
+      ],
+      "available_text": [
+        78,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-mirror-6",
+      "text": "Дальше",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        68,
+        24
+      ],
+      "available_text": [
+        68,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-mirror-6",
+      "text": "Подсказка",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        90,
+        24
+      ],
+      "available_text": [
+        90,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-duet-1",
+      "text": "",
+      "size": [
+        192,
+        44
+      ],
+      "text_bounds": [
+        0,
+        22
+      ],
+      "available_text": [
+        0,
+        40
+      ]
+    },
+    {
+      "screen": "lesson-duet-1",
+      "text": "Для взрослого",
+      "size": [
+        170,
+        44
+      ],
+      "text_bounds": [
+        116,
+        22
+      ],
+      "available_text": [
+        116,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-duet-1",
+      "text": "Левая чаша · экран",
+      "size": [
+        187,
+        44
+      ],
+      "text_bounds": [
+        161,
+        24
+      ],
+      "available_text": [
+        161,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-duet-1",
+      "text": "− Убрать",
+      "size": [
+        100,
+        44
+      ],
+      "text_bounds": [
+        74,
+        24
+      ],
+      "available_text": [
+        74,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-duet-1",
+      "text": "+ Добавить",
+      "size": [
+        122,
+        44
+      ],
+      "text_bounds": [
+        96,
+        24
+      ],
+      "available_text": [
+        96,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-duet-1",
+      "text": "Правая чаша · экран",
+      "size": [
+        198,
+        44
+      ],
+      "text_bounds": [
+        172,
+        24
+      ],
+      "available_text": [
+        172,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-duet-1",
+      "text": "Отменить",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        82,
+        24
+      ],
+      "available_text": [
+        82,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-duet-1",
+      "text": "Карта",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        50,
+        24
+      ],
+      "available_text": [
+        50,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-duet-1",
+      "text": "Мой путь",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        78,
+        24
+      ],
+      "available_text": [
+        78,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-duet-1",
+      "text": "Дальше",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        68,
+        24
+      ],
+      "available_text": [
+        68,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-duet-1",
+      "text": "Подсказка",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        90,
+        24
+      ],
+      "available_text": [
+        90,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-duet-2",
+      "text": "",
+      "size": [
+        192,
+        44
+      ],
+      "text_bounds": [
+        0,
+        22
+      ],
+      "available_text": [
+        0,
+        40
+      ]
+    },
+    {
+      "screen": "lesson-duet-2",
+      "text": "Для взрослого",
+      "size": [
+        170,
+        44
+      ],
+      "text_bounds": [
+        116,
+        22
+      ],
+      "available_text": [
+        116,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-duet-2",
+      "text": "Левая чаша · экран",
+      "size": [
+        187,
+        44
+      ],
+      "text_bounds": [
+        161,
+        24
+      ],
+      "available_text": [
+        161,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-duet-2",
+      "text": "− Убрать",
+      "size": [
+        100,
+        44
+      ],
+      "text_bounds": [
+        74,
+        24
+      ],
+      "available_text": [
+        74,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-duet-2",
+      "text": "+ Добавить",
+      "size": [
+        122,
+        44
+      ],
+      "text_bounds": [
+        96,
+        24
+      ],
+      "available_text": [
+        96,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-duet-2",
+      "text": "Правая чаша · экран",
+      "size": [
+        198,
+        44
+      ],
+      "text_bounds": [
+        172,
+        24
+      ],
+      "available_text": [
+        172,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-duet-2",
+      "text": "Отменить",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        82,
+        24
+      ],
+      "available_text": [
+        82,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-duet-2",
+      "text": "Карта",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        50,
+        24
+      ],
+      "available_text": [
+        50,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-duet-2",
+      "text": "Мой путь",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        78,
+        24
+      ],
+      "available_text": [
+        78,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-duet-2",
+      "text": "Дальше",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        68,
+        24
+      ],
+      "available_text": [
+        68,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-duet-2",
+      "text": "Подсказка",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        90,
+        24
+      ],
+      "available_text": [
+        90,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-duet-3",
+      "text": "",
+      "size": [
+        192,
+        44
+      ],
+      "text_bounds": [
+        0,
+        22
+      ],
+      "available_text": [
+        0,
+        40
+      ]
+    },
+    {
+      "screen": "lesson-duet-3",
+      "text": "Для взрослого",
+      "size": [
+        170,
+        44
+      ],
+      "text_bounds": [
+        116,
+        22
+      ],
+      "available_text": [
+        116,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-duet-3",
+      "text": "Левая чаша · экран",
+      "size": [
+        187,
+        44
+      ],
+      "text_bounds": [
+        161,
+        24
+      ],
+      "available_text": [
+        161,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-duet-3",
+      "text": "− Убрать",
+      "size": [
+        100,
+        44
+      ],
+      "text_bounds": [
+        74,
+        24
+      ],
+      "available_text": [
+        74,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-duet-3",
+      "text": "+ Добавить",
+      "size": [
+        122,
+        44
+      ],
+      "text_bounds": [
+        96,
+        24
+      ],
+      "available_text": [
+        96,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-duet-3",
+      "text": "Правая чаша · экран",
+      "size": [
+        198,
+        44
+      ],
+      "text_bounds": [
+        172,
+        24
+      ],
+      "available_text": [
+        172,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-duet-3",
+      "text": "Отменить",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        82,
+        24
+      ],
+      "available_text": [
+        82,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-duet-3",
+      "text": "Карта",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        50,
+        24
+      ],
+      "available_text": [
+        50,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-duet-3",
+      "text": "Мой путь",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        78,
+        24
+      ],
+      "available_text": [
+        78,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-duet-3",
+      "text": "Дальше",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        68,
+        24
+      ],
+      "available_text": [
+        68,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-duet-3",
+      "text": "Подсказка",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        90,
+        24
+      ],
+      "available_text": [
+        90,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-duet-4",
+      "text": "",
+      "size": [
+        192,
+        44
+      ],
+      "text_bounds": [
+        0,
+        22
+      ],
+      "available_text": [
+        0,
+        40
+      ]
+    },
+    {
+      "screen": "lesson-duet-4",
+      "text": "Для взрослого",
+      "size": [
+        170,
+        44
+      ],
+      "text_bounds": [
+        116,
+        22
+      ],
+      "available_text": [
+        116,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-duet-4",
+      "text": "Левая чаша · экран",
+      "size": [
+        187,
+        44
+      ],
+      "text_bounds": [
+        161,
+        24
+      ],
+      "available_text": [
+        161,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-duet-4",
+      "text": "− Убрать",
+      "size": [
+        100,
+        44
+      ],
+      "text_bounds": [
+        74,
+        24
+      ],
+      "available_text": [
+        74,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-duet-4",
+      "text": "+ Добавить",
+      "size": [
+        122,
+        44
+      ],
+      "text_bounds": [
+        96,
+        24
+      ],
+      "available_text": [
+        96,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-duet-4",
+      "text": "Правая чаша · экран",
+      "size": [
+        198,
+        44
+      ],
+      "text_bounds": [
+        172,
+        24
+      ],
+      "available_text": [
+        172,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-duet-4",
+      "text": "Отменить",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        82,
+        24
+      ],
+      "available_text": [
+        82,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-duet-4",
+      "text": "Карта",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        50,
+        24
+      ],
+      "available_text": [
+        50,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-duet-4",
+      "text": "Мой путь",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        78,
+        24
+      ],
+      "available_text": [
+        78,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-duet-4",
+      "text": "Дальше",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        68,
+        24
+      ],
+      "available_text": [
+        68,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-duet-4",
+      "text": "Подсказка",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        90,
+        24
+      ],
+      "available_text": [
+        90,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-duet-5",
+      "text": "",
+      "size": [
+        192,
+        44
+      ],
+      "text_bounds": [
+        0,
+        22
+      ],
+      "available_text": [
+        0,
+        40
+      ]
+    },
+    {
+      "screen": "lesson-duet-5",
+      "text": "Для взрослого",
+      "size": [
+        170,
+        44
+      ],
+      "text_bounds": [
+        116,
+        22
+      ],
+      "available_text": [
+        116,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-duet-5",
+      "text": "Левая чаша · экран",
+      "size": [
+        187,
+        44
+      ],
+      "text_bounds": [
+        161,
+        24
+      ],
+      "available_text": [
+        161,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-duet-5",
+      "text": "− Убрать",
+      "size": [
+        100,
+        44
+      ],
+      "text_bounds": [
+        74,
+        24
+      ],
+      "available_text": [
+        74,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-duet-5",
+      "text": "+ Добавить",
+      "size": [
+        122,
+        44
+      ],
+      "text_bounds": [
+        96,
+        24
+      ],
+      "available_text": [
+        96,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-duet-5",
+      "text": "Правая чаша · экран",
+      "size": [
+        198,
+        44
+      ],
+      "text_bounds": [
+        172,
+        24
+      ],
+      "available_text": [
+        172,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-duet-5",
+      "text": "Отменить",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        82,
+        24
+      ],
+      "available_text": [
+        82,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-duet-5",
+      "text": "Карта",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        50,
+        24
+      ],
+      "available_text": [
+        50,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-duet-5",
+      "text": "Мой путь",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        78,
+        24
+      ],
+      "available_text": [
+        78,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-duet-5",
+      "text": "Дальше",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        68,
+        24
+      ],
+      "available_text": [
+        68,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-duet-5",
+      "text": "Подсказка",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        90,
+        24
+      ],
+      "available_text": [
+        90,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-duet-6",
+      "text": "",
+      "size": [
+        192,
+        44
+      ],
+      "text_bounds": [
+        0,
+        22
+      ],
+      "available_text": [
+        0,
+        40
+      ]
+    },
+    {
+      "screen": "lesson-duet-6",
+      "text": "Для взрослого",
+      "size": [
+        170,
+        44
+      ],
+      "text_bounds": [
+        116,
+        22
+      ],
+      "available_text": [
+        116,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-duet-6",
+      "text": "Левая чаша · экран",
+      "size": [
+        187,
+        44
+      ],
+      "text_bounds": [
+        161,
+        24
+      ],
+      "available_text": [
+        161,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-duet-6",
+      "text": "− Убрать",
+      "size": [
+        100,
+        44
+      ],
+      "text_bounds": [
+        74,
+        24
+      ],
+      "available_text": [
+        74,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-duet-6",
+      "text": "+ Добавить",
+      "size": [
+        122,
+        44
+      ],
+      "text_bounds": [
+        96,
+        24
+      ],
+      "available_text": [
+        96,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-duet-6",
+      "text": "Правая чаша · экран",
+      "size": [
+        198,
+        44
+      ],
+      "text_bounds": [
+        172,
+        24
+      ],
+      "available_text": [
+        172,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-duet-6",
+      "text": "Отменить",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        82,
+        24
+      ],
+      "available_text": [
+        82,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-duet-6",
+      "text": "Карта",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        50,
+        24
+      ],
+      "available_text": [
+        50,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-duet-6",
+      "text": "Мой путь",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        78,
+        24
+      ],
+      "available_text": [
+        78,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-duet-6",
+      "text": "Дальше",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        68,
+        24
+      ],
+      "available_text": [
+        68,
+        32
+      ]
+    },
+    {
+      "screen": "lesson-duet-6",
+      "text": "Подсказка",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        90,
+        24
+      ],
+      "available_text": [
+        90,
+        32
+      ]
+    },
+    {
+      "screen": "status-экран",
+      "text": "",
+      "size": [
+        192,
+        44
+      ],
+      "text_bounds": [
+        0,
+        22
+      ],
+      "available_text": [
+        0,
+        40
+      ]
+    },
+    {
+      "screen": "status-экран",
+      "text": "Для взрослого",
+      "size": [
+        170,
+        44
+      ],
+      "text_bounds": [
+        116,
+        22
+      ],
+      "available_text": [
+        116,
+        32
+      ]
+    },
+    {
+      "screen": "status-экран",
+      "text": "Левая чаша · экран",
+      "size": [
+        187,
+        44
+      ],
+      "text_bounds": [
+        161,
+        24
+      ],
+      "available_text": [
+        161,
+        32
+      ]
+    },
+    {
+      "screen": "status-экран",
+      "text": "− Убрать",
+      "size": [
+        100,
+        44
+      ],
+      "text_bounds": [
+        74,
+        24
+      ],
+      "available_text": [
+        74,
+        32
+      ]
+    },
+    {
+      "screen": "status-экран",
+      "text": "+ Добавить",
+      "size": [
+        122,
+        44
+      ],
+      "text_bounds": [
+        96,
+        24
+      ],
+      "available_text": [
+        96,
+        32
+      ]
+    },
+    {
+      "screen": "status-экран",
+      "text": "Правая чаша · экран",
+      "size": [
+        198,
+        44
+      ],
+      "text_bounds": [
+        172,
+        24
+      ],
+      "available_text": [
+        172,
+        32
+      ]
+    },
+    {
+      "screen": "status-экран",
+      "text": "Отменить",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        82,
+        24
+      ],
+      "available_text": [
+        82,
+        32
+      ]
+    },
+    {
+      "screen": "status-экран",
+      "text": "Карта",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        50,
+        24
+      ],
+      "available_text": [
+        50,
+        32
+      ]
+    },
+    {
+      "screen": "status-экран",
+      "text": "Мой путь",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        78,
+        24
+      ],
+      "available_text": [
+        78,
+        32
+      ]
+    },
+    {
+      "screen": "status-экран",
+      "text": "Дальше",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        68,
+        24
+      ],
+      "available_text": [
+        68,
+        32
+      ]
+    },
+    {
+      "screen": "status-экран",
+      "text": "Подсказка",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        90,
+        24
+      ],
+      "available_text": [
+        90,
+        32
+      ]
+    },
+    {
+      "screen": "status-готова",
+      "text": "",
+      "size": [
+        192,
+        44
+      ],
+      "text_bounds": [
+        0,
+        22
+      ],
+      "available_text": [
+        0,
+        40
+      ]
+    },
+    {
+      "screen": "status-готова",
+      "text": "Для взрослого",
+      "size": [
+        170,
+        44
+      ],
+      "text_bounds": [
+        116,
+        22
+      ],
+      "available_text": [
+        116,
+        32
+      ]
+    },
+    {
+      "screen": "status-готова",
+      "text": "Левая чаша · готова",
+      "size": [
+        193,
+        44
+      ],
+      "text_bounds": [
+        167,
+        24
+      ],
+      "available_text": [
+        167,
+        32
+      ]
+    },
+    {
+      "screen": "status-готова",
+      "text": "− Убрать",
+      "size": [
+        100,
+        44
+      ],
+      "text_bounds": [
+        74,
+        24
+      ],
+      "available_text": [
+        74,
+        32
+      ]
+    },
+    {
+      "screen": "status-готова",
+      "text": "+ Добавить",
+      "size": [
+        122,
+        44
+      ],
+      "text_bounds": [
+        96,
+        24
+      ],
+      "available_text": [
+        96,
+        32
+      ]
+    },
+    {
+      "screen": "status-готова",
+      "text": "Правая чаша · готова",
+      "size": [
+        204,
+        44
+      ],
+      "text_bounds": [
+        178,
+        24
+      ],
+      "available_text": [
+        178,
+        32
+      ]
+    },
+    {
+      "screen": "status-готова",
+      "text": "Отменить",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        82,
+        24
+      ],
+      "available_text": [
+        82,
+        32
+      ]
+    },
+    {
+      "screen": "status-готова",
+      "text": "Карта",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        50,
+        24
+      ],
+      "available_text": [
+        50,
+        32
+      ]
+    },
+    {
+      "screen": "status-готова",
+      "text": "Мой путь",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        78,
+        24
+      ],
+      "available_text": [
+        78,
+        32
+      ]
+    },
+    {
+      "screen": "status-готова",
+      "text": "Дальше",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        68,
+        24
+      ],
+      "available_text": [
+        68,
+        32
+      ]
+    },
+    {
+      "screen": "status-готова",
+      "text": "Подсказка",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        90,
+        24
+      ],
+      "available_text": [
+        90,
+        32
+      ]
+    },
+    {
+      "screen": "status-нет связи",
+      "text": "",
+      "size": [
+        192,
+        44
+      ],
+      "text_bounds": [
+        0,
+        22
+      ],
+      "available_text": [
+        0,
+        40
+      ]
+    },
+    {
+      "screen": "status-нет связи",
+      "text": "Для взрослого",
+      "size": [
+        170,
+        44
+      ],
+      "text_bounds": [
+        116,
+        22
+      ],
+      "available_text": [
+        116,
+        32
+      ]
+    },
+    {
+      "screen": "status-нет связи",
+      "text": "Левая чаша · нет связи",
+      "size": [
+        217,
+        44
+      ],
+      "text_bounds": [
+        191,
+        24
+      ],
+      "available_text": [
+        191,
+        32
+      ]
+    },
+    {
+      "screen": "status-нет связи",
+      "text": "− Убрать",
+      "size": [
+        100,
+        44
+      ],
+      "text_bounds": [
+        74,
+        24
+      ],
+      "available_text": [
+        74,
+        32
+      ]
+    },
+    {
+      "screen": "status-нет связи",
+      "text": "+ Добавить",
+      "size": [
+        122,
+        44
+      ],
+      "text_bounds": [
+        96,
+        24
+      ],
+      "available_text": [
+        96,
+        32
+      ]
+    },
+    {
+      "screen": "status-нет связи",
+      "text": "Правая чаша · нет связи",
+      "size": [
+        228,
+        44
+      ],
+      "text_bounds": [
+        202,
+        24
+      ],
+      "available_text": [
+        202,
+        32
+      ]
+    },
+    {
+      "screen": "status-нет связи",
+      "text": "Отменить",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        82,
+        24
+      ],
+      "available_text": [
+        82,
+        32
+      ]
+    },
+    {
+      "screen": "status-нет связи",
+      "text": "Карта",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        50,
+        24
+      ],
+      "available_text": [
+        50,
+        32
+      ]
+    },
+    {
+      "screen": "status-нет связи",
+      "text": "Мой путь",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        78,
+        24
+      ],
+      "available_text": [
+        78,
+        32
+      ]
+    },
+    {
+      "screen": "status-нет связи",
+      "text": "Дальше",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        68,
+        24
+      ],
+      "available_text": [
+        68,
+        32
+      ]
+    },
+    {
+      "screen": "status-нет связи",
+      "text": "Подсказка",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        90,
+        24
+      ],
+      "available_text": [
+        90,
+        32
+      ]
+    },
+    {
+      "screen": "status-повтори чтение",
+      "text": "",
+      "size": [
+        192,
+        44
+      ],
+      "text_bounds": [
+        0,
+        22
+      ],
+      "available_text": [
+        0,
+        40
+      ]
+    },
+    {
+      "screen": "status-повтори чтение",
+      "text": "Для взрослого",
+      "size": [
+        170,
+        44
+      ],
+      "text_bounds": [
+        116,
+        22
+      ],
+      "available_text": [
+        116,
+        32
+      ]
+    },
+    {
+      "screen": "status-повтори чтение",
+      "text": "Левая чаша · повтори чтение",
+      "size": [
+        269,
+        44
+      ],
+      "text_bounds": [
+        243,
+        24
+      ],
+      "available_text": [
+        243,
+        32
+      ]
+    },
+    {
+      "screen": "status-повтори чтение",
+      "text": "− Убрать",
+      "size": [
+        100,
+        44
+      ],
+      "text_bounds": [
+        74,
+        24
+      ],
+      "available_text": [
+        74,
+        32
+      ]
+    },
+    {
+      "screen": "status-повтори чтение",
+      "text": "+ Добавить",
+      "size": [
+        122,
+        44
+      ],
+      "text_bounds": [
+        96,
+        24
+      ],
+      "available_text": [
+        96,
+        32
+      ]
+    },
+    {
+      "screen": "status-повтори чтение",
+      "text": "Правая чаша · повтори чтение",
+      "size": [
+        280,
+        44
+      ],
+      "text_bounds": [
+        254,
+        24
+      ],
+      "available_text": [
+        254,
+        32
+      ]
+    },
+    {
+      "screen": "status-повтори чтение",
+      "text": "Отменить",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        82,
+        24
+      ],
+      "available_text": [
+        82,
+        32
+      ]
+    },
+    {
+      "screen": "status-повтори чтение",
+      "text": "Карта",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        50,
+        24
+      ],
+      "available_text": [
+        50,
+        32
+      ]
+    },
+    {
+      "screen": "status-повтори чтение",
+      "text": "Мой путь",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        78,
+        24
+      ],
+      "available_text": [
+        78,
+        32
+      ]
+    },
+    {
+      "screen": "status-повтори чтение",
+      "text": "Дальше",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        68,
+        24
+      ],
+      "available_text": [
+        68,
+        32
+      ]
+    },
+    {
+      "screen": "status-повтори чтение",
+      "text": "Подсказка",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        90,
+        24
+      ],
+      "available_text": [
+        90,
+        32
+      ]
+    },
+    {
+      "screen": "status-убери метку",
+      "text": "",
+      "size": [
+        192,
+        44
+      ],
+      "text_bounds": [
+        0,
+        22
+      ],
+      "available_text": [
+        0,
+        40
+      ]
+    },
+    {
+      "screen": "status-убери метку",
+      "text": "Для взрослого",
+      "size": [
+        170,
+        44
+      ],
+      "text_bounds": [
+        116,
+        22
+      ],
+      "available_text": [
+        116,
+        32
+      ]
+    },
+    {
+      "screen": "status-убери метку",
+      "text": "Левая чаша · убери метку",
+      "size": [
+        240,
+        44
+      ],
+      "text_bounds": [
+        214,
+        24
+      ],
+      "available_text": [
+        214,
+        32
+      ]
+    },
+    {
+      "screen": "status-убери метку",
+      "text": "− Убрать",
+      "size": [
+        100,
+        44
+      ],
+      "text_bounds": [
+        74,
+        24
+      ],
+      "available_text": [
+        74,
+        32
+      ]
+    },
+    {
+      "screen": "status-убери метку",
+      "text": "+ Добавить",
+      "size": [
+        122,
+        44
+      ],
+      "text_bounds": [
+        96,
+        24
+      ],
+      "available_text": [
+        96,
+        32
+      ]
+    },
+    {
+      "screen": "status-убери метку",
+      "text": "Правая чаша · убери метку",
+      "size": [
+        251,
+        44
+      ],
+      "text_bounds": [
+        225,
+        24
+      ],
+      "available_text": [
+        225,
+        32
+      ]
+    },
+    {
+      "screen": "status-убери метку",
+      "text": "Отменить",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        82,
+        24
+      ],
+      "available_text": [
+        82,
+        32
+      ]
+    },
+    {
+      "screen": "status-убери метку",
+      "text": "Карта",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        50,
+        24
+      ],
+      "available_text": [
+        50,
+        32
+      ]
+    },
+    {
+      "screen": "status-убери метку",
+      "text": "Мой путь",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        78,
+        24
+      ],
+      "available_text": [
+        78,
+        32
+      ]
+    },
+    {
+      "screen": "status-убери метку",
+      "text": "Дальше",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        68,
+        24
+      ],
+      "available_text": [
+        68,
+        32
+      ]
+    },
+    {
+      "screen": "status-убери метку",
+      "text": "Подсказка",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        90,
+        24
+      ],
+      "available_text": [
+        90,
+        32
+      ]
+    },
+    {
+      "screen": "status-подключение",
+      "text": "",
+      "size": [
+        192,
+        44
+      ],
+      "text_bounds": [
+        0,
+        22
+      ],
+      "available_text": [
+        0,
+        40
+      ]
+    },
+    {
+      "screen": "status-подключение",
+      "text": "Для взрослого",
+      "size": [
+        170,
+        44
+      ],
+      "text_bounds": [
+        116,
+        22
+      ],
+      "available_text": [
+        116,
+        32
+      ]
+    },
+    {
+      "screen": "status-подключение",
+      "text": "Левая чаша · подключение",
+      "size": [
+        252,
+        44
+      ],
+      "text_bounds": [
+        226,
+        24
+      ],
+      "available_text": [
+        226,
+        32
+      ]
+    },
+    {
+      "screen": "status-подключение",
+      "text": "− Убрать",
+      "size": [
+        100,
+        44
+      ],
+      "text_bounds": [
+        74,
+        24
+      ],
+      "available_text": [
+        74,
+        32
+      ]
+    },
+    {
+      "screen": "status-подключение",
+      "text": "+ Добавить",
+      "size": [
+        122,
+        44
+      ],
+      "text_bounds": [
+        96,
+        24
+      ],
+      "available_text": [
+        96,
+        32
+      ]
+    },
+    {
+      "screen": "status-подключение",
+      "text": "Правая чаша · подключение",
+      "size": [
+        263,
+        44
+      ],
+      "text_bounds": [
+        237,
+        24
+      ],
+      "available_text": [
+        237,
+        32
+      ]
+    },
+    {
+      "screen": "status-подключение",
+      "text": "Отменить",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        82,
+        24
+      ],
+      "available_text": [
+        82,
+        32
+      ]
+    },
+    {
+      "screen": "status-подключение",
+      "text": "Карта",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        50,
+        24
+      ],
+      "available_text": [
+        50,
+        32
+      ]
+    },
+    {
+      "screen": "status-подключение",
+      "text": "Мой путь",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        78,
+        24
+      ],
+      "available_text": [
+        78,
+        32
+      ]
+    },
+    {
+      "screen": "status-подключение",
+      "text": "Дальше",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        68,
+        24
+      ],
+      "available_text": [
+        68,
+        32
+      ]
+    },
+    {
+      "screen": "status-подключение",
+      "text": "Подсказка",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        90,
+        24
+      ],
+      "available_text": [
+        90,
+        32
+      ]
+    },
+    {
+      "screen": "adult",
+      "text": "Кто играет? · Профили детей",
+      "size": [
+        738,
+        44
+      ],
+      "text_bounds": [
+        242,
+        24
+      ],
+      "available_text": [
+        242,
+        32
+      ]
+    },
+    {
+      "screen": "adult",
+      "text": "Показ для жюри · 2–3 минуты",
+      "size": [
+        738,
+        44
+      ],
+      "text_bounds": [
+        250,
+        24
+      ],
+      "available_text": [
+        250,
+        32
+      ]
+    },
+    {
+      "screen": "adult",
+      "text": "Прогресс на Android · доступ по Wi-Fi",
+      "size": [
+        738,
+        44
+      ],
+      "text_bounds": [
+        316,
+        24
+      ],
+      "available_text": [
+        316,
+        32
+      ]
+    },
+    {
+      "screen": "adult",
+      "text": "Оформление · анимации",
+      "size": [
+        738,
+        44
+      ],
+      "text_bounds": [
+        206,
+        24
+      ],
+      "available_text": [
+        206,
+        32
+      ]
+    },
+    {
+      "screen": "adult",
+      "text": "Состояние оборудования / проверка перед занятием",
+      "size": [
+        738,
+        44
+      ],
+      "text_bounds": [
+        442,
+        24
+      ],
+      "available_text": [
+        442,
+        32
+      ]
+    },
+    {
+      "screen": "adult",
+      "text": "Сохранить резервную копию",
+      "size": [
+        738,
+        44
+      ],
+      "text_bounds": [
+        244,
+        24
+      ],
+      "available_text": [
+        244,
+        32
+      ]
+    },
+    {
+      "screen": "adult",
+      "text": "Восстановить резервную копию",
+      "size": [
+        738,
+        44
+      ],
+      "text_bounds": [
+        270,
+        24
+      ],
+      "available_text": [
+        270,
+        32
+      ]
+    },
+    {
+      "screen": "adult",
+      "text": "Сохранить журнал диагностики",
+      "size": [
+        738,
+        44
+      ],
+      "text_bounds": [
+        268,
+        24
+      ],
+      "available_text": [
+        268,
+        32
+      ]
+    },
+    {
+      "screen": "adult",
+      "text": "Настройки и дополнительные режимы прежнего интерфейса",
+      "size": [
+        738,
+        44
+      ],
+      "text_bounds": [
+        516,
+        24
+      ],
+      "available_text": [
+        516,
+        32
+      ]
+    },
+    {
+      "screen": "adult",
+      "text": "Закрыть",
+      "size": [
+        764,
+        44
+      ],
+      "text_bounds": [
+        72,
+        24
+      ],
+      "available_text": [
+        72,
+        32
+      ]
+    },
+    {
+      "screen": "adult-bottom",
+      "text": "Кто играет? · Профили детей",
+      "size": [
+        738,
+        44
+      ],
+      "text_bounds": [
+        242,
+        24
+      ],
+      "available_text": [
+        242,
+        32
+      ]
+    },
+    {
+      "screen": "adult-bottom",
+      "text": "Показ для жюри · 2–3 минуты",
+      "size": [
+        738,
+        44
+      ],
+      "text_bounds": [
+        250,
+        24
+      ],
+      "available_text": [
+        250,
+        32
+      ]
+    },
+    {
+      "screen": "adult-bottom",
+      "text": "Прогресс на Android · доступ по Wi-Fi",
+      "size": [
+        738,
+        44
+      ],
+      "text_bounds": [
+        316,
+        24
+      ],
+      "available_text": [
+        316,
+        32
+      ]
+    },
+    {
+      "screen": "adult-bottom",
+      "text": "Оформление · анимации",
+      "size": [
+        738,
+        44
+      ],
+      "text_bounds": [
+        206,
+        24
+      ],
+      "available_text": [
+        206,
+        32
+      ]
+    },
+    {
+      "screen": "adult-bottom",
+      "text": "Состояние оборудования / проверка перед занятием",
+      "size": [
+        738,
+        44
+      ],
+      "text_bounds": [
+        442,
+        24
+      ],
+      "available_text": [
+        442,
+        32
+      ]
+    },
+    {
+      "screen": "adult-bottom",
+      "text": "Сохранить резервную копию",
+      "size": [
+        738,
+        44
+      ],
+      "text_bounds": [
+        244,
+        24
+      ],
+      "available_text": [
+        244,
+        32
+      ]
+    },
+    {
+      "screen": "adult-bottom",
+      "text": "Восстановить резервную копию",
+      "size": [
+        738,
+        44
+      ],
+      "text_bounds": [
+        270,
+        24
+      ],
+      "available_text": [
+        270,
+        32
+      ]
+    },
+    {
+      "screen": "adult-bottom",
+      "text": "Сохранить журнал диагностики",
+      "size": [
+        738,
+        44
+      ],
+      "text_bounds": [
+        268,
+        24
+      ],
+      "available_text": [
+        268,
+        32
+      ]
+    },
+    {
+      "screen": "adult-bottom",
+      "text": "Настройки и дополнительные режимы прежнего интерфейса",
+      "size": [
+        738,
+        44
+      ],
+      "text_bounds": [
+        516,
+        24
+      ],
+      "available_text": [
+        516,
+        32
+      ]
+    },
+    {
+      "screen": "adult-bottom",
+      "text": "Закрыть",
+      "size": [
+        764,
+        44
+      ],
+      "text_bounds": [
+        72,
+        24
+      ],
+      "available_text": [
+        72,
+        32
+      ]
+    },
+    {
+      "screen": "profiles",
+      "text": "✓ Исследователь",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        146,
+        24
+      ],
+      "available_text": [
+        146,
+        32
+      ]
+    },
+    {
+      "screen": "profiles",
+      "text": "+ Добавить ребёнка",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        170,
+        24
+      ],
+      "available_text": [
+        170,
+        32
+      ]
+    },
+    {
+      "screen": "profiles",
+      "text": "Закрыть",
+      "size": [
+        764,
+        44
+      ],
+      "text_bounds": [
+        72,
+        24
+      ],
+      "available_text": [
+        72,
+        32
+      ]
+    },
+    {
+      "screen": "appearance",
+      "text": "Плавнее",
+      "size": [
+        371,
+        44
+      ],
+      "text_bounds": [
+        73,
+        24
+      ],
+      "available_text": [
+        73,
+        32
+      ]
+    },
+    {
+      "screen": "appearance",
+      "text": "Детальнее",
+      "size": [
+        371,
+        44
+      ],
+      "text_bounds": [
+        91,
+        24
+      ],
+      "available_text": [
+        91,
+        32
+      ]
+    },
+    {
+      "screen": "appearance",
+      "text": "Анимации: включены",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        182,
+        24
+      ],
+      "available_text": [
+        182,
+        32
+      ]
+    },
+    {
+      "screen": "appearance",
+      "text": "Живой фон: включён",
+      "size": [
+        371,
+        44
+      ],
+      "text_bounds": [
+        179,
+        24
+      ],
+      "available_text": [
+        179,
+        32
+      ]
+    },
+    {
+      "screen": "appearance",
+      "text": "Светильник: включён",
+      "size": [
+        371,
+        44
+      ],
+      "text_bounds": [
+        181,
+        24
+      ],
+      "available_text": [
+        181,
+        32
+      ]
+    },
+    {
+      "screen": "appearance",
+      "text": "Закрыть",
+      "size": [
+        764,
+        44
+      ],
+      "text_bounds": [
+        72,
+        24
+      ],
+      "available_text": [
+        72,
+        32
+      ]
+    },
+    {
+      "screen": "phone",
+      "text": "Включить доступ",
+      "size": [
+        738,
+        44
+      ],
+      "text_bounds": [
+        144,
+        24
+      ],
+      "available_text": [
+        144,
+        32
+      ]
+    },
+    {
+      "screen": "phone",
+      "text": "Получить новый код (5 минут)",
+      "size": [
+        738,
+        44
+      ],
+      "text_bounds": [
+        254,
+        24
+      ],
+      "available_text": [
+        254,
+        32
+      ]
+    },
+    {
+      "screen": "phone",
+      "text": "Отключить доступ",
+      "size": [
+        738,
+        44
+      ],
+      "text_bounds": [
+        154,
+        24
+      ],
+      "available_text": [
+        154,
+        32
+      ]
+    },
+    {
+      "screen": "phone",
+      "text": "Отозвать подключения телефонов",
+      "size": [
+        738,
+        44
+      ],
+      "text_bounds": [
+        292,
+        24
+      ],
+      "available_text": [
+        292,
+        32
+      ]
+    },
+    {
+      "screen": "phone",
+      "text": "Разрешить предложения уроков с телефона",
+      "size": [
+        738,
+        44
+      ],
+      "text_bounds": [
+        372,
+        24
+      ],
+      "available_text": [
+        372,
+        32
+      ]
+    },
+    {
+      "screen": "phone",
+      "text": "Выключить предложения уроков",
+      "size": [
+        738,
+        44
+      ],
+      "text_bounds": [
+        280,
+        24
+      ],
+      "available_text": [
+        280,
+        32
+      ]
+    },
+    {
+      "screen": "phone",
+      "text": "Закрыть",
+      "size": [
+        764,
+        44
+      ],
+      "text_bounds": [
+        72,
+        24
+      ],
+      "available_text": [
+        72,
+        32
+      ]
+    },
+    {
+      "screen": "phone-bottom",
+      "text": "Включить доступ",
+      "size": [
+        738,
+        44
+      ],
+      "text_bounds": [
+        144,
+        24
+      ],
+      "available_text": [
+        144,
+        32
+      ]
+    },
+    {
+      "screen": "phone-bottom",
+      "text": "Получить новый код (5 минут)",
+      "size": [
+        738,
+        44
+      ],
+      "text_bounds": [
+        254,
+        24
+      ],
+      "available_text": [
+        254,
+        32
+      ]
+    },
+    {
+      "screen": "phone-bottom",
+      "text": "Отключить доступ",
+      "size": [
+        738,
+        44
+      ],
+      "text_bounds": [
+        154,
+        24
+      ],
+      "available_text": [
+        154,
+        32
+      ]
+    },
+    {
+      "screen": "phone-bottom",
+      "text": "Отозвать подключения телефонов",
+      "size": [
+        738,
+        44
+      ],
+      "text_bounds": [
+        292,
+        24
+      ],
+      "available_text": [
+        292,
+        32
+      ]
+    },
+    {
+      "screen": "phone-bottom",
+      "text": "Разрешить предложения уроков с телефона",
+      "size": [
+        738,
+        44
+      ],
+      "text_bounds": [
+        372,
+        24
+      ],
+      "available_text": [
+        372,
+        32
+      ]
+    },
+    {
+      "screen": "phone-bottom",
+      "text": "Выключить предложения уроков",
+      "size": [
+        738,
+        44
+      ],
+      "text_bounds": [
+        280,
+        24
+      ],
+      "available_text": [
+        280,
+        32
+      ]
+    },
+    {
+      "screen": "phone-bottom",
+      "text": "Закрыть",
+      "size": [
+        764,
+        44
+      ],
+      "text_bounds": [
+        72,
+        24
+      ],
+      "available_text": [
+        72,
+        32
+      ]
+    },
+    {
+      "screen": "hardware",
+      "text": "Закрыть",
+      "size": [
+        764,
+        44
+      ],
+      "text_bounds": [
+        72,
+        24
+      ],
+      "available_text": [
+        72,
+        32
+      ]
+    },
+    {
+      "screen": "history",
+      "text": "Закрыть",
+      "size": [
+        764,
+        44
+      ],
+      "text_bounds": [
+        72,
+        24
+      ],
+      "available_text": [
+        72,
+        32
+      ]
+    },
+    {
+      "screen": "script",
+      "text": "Завершить показ и вернуться к ребёнку",
+      "size": [
+        738,
+        44
+      ],
+      "text_bounds": [
+        336,
+        24
+      ],
+      "available_text": [
+        336,
+        32
+      ]
+    },
+    {
+      "screen": "script",
+      "text": "Закрыть",
+      "size": [
+        764,
+        44
+      ],
+      "text_bounds": [
+        72,
+        24
+      ],
+      "available_text": [
+        72,
+        32
+      ]
+    },
+    {
+      "screen": "script-bottom",
+      "text": "Завершить показ и вернуться к ребёнку",
+      "size": [
+        738,
+        44
+      ],
+      "text_bounds": [
+        336,
+        24
+      ],
+      "available_text": [
+        336,
+        32
+      ]
+    },
+    {
+      "screen": "script-bottom",
+      "text": "Закрыть",
+      "size": [
+        764,
+        44
+      ],
+      "text_bounds": [
+        72,
+        24
+      ],
+      "available_text": [
+        72,
+        32
+      ]
+    },
+    {
+      "screen": "appearance-off",
+      "text": "Плавнее",
+      "size": [
+        371,
+        44
+      ],
+      "text_bounds": [
+        73,
+        24
+      ],
+      "available_text": [
+        73,
+        32
+      ]
+    },
+    {
+      "screen": "appearance-off",
+      "text": "Детальнее",
+      "size": [
+        371,
+        44
+      ],
+      "text_bounds": [
+        91,
+        24
+      ],
+      "available_text": [
+        91,
+        32
+      ]
+    },
+    {
+      "screen": "appearance-off",
+      "text": "Анимации: выключены",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        194,
+        24
+      ],
+      "available_text": [
+        194,
+        32
+      ]
+    },
+    {
+      "screen": "appearance-off",
+      "text": "Живой фон: выключен",
+      "size": [
+        371,
+        44
+      ],
+      "text_bounds": [
+        193,
+        24
+      ],
+      "available_text": [
+        193,
+        32
+      ]
+    },
+    {
+      "screen": "appearance-off",
+      "text": "Светильник: выключен",
+      "size": [
+        371,
+        44
+      ],
+      "text_bounds": [
+        195,
+        24
+      ],
+      "available_text": [
+        195,
+        32
+      ]
+    },
+    {
+      "screen": "appearance-off",
+      "text": "Закрыть",
+      "size": [
+        764,
+        44
+      ],
+      "text_bounds": [
+        72,
+        24
+      ],
+      "available_text": [
+        72,
+        32
+      ]
+    },
+    {
+      "screen": "profiles-long",
+      "text": "✓ Исследователь",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        146,
+        24
+      ],
+      "available_text": [
+        146,
+        32
+      ]
+    },
+    {
+      "screen": "profiles-long",
+      "text": "Очень длинное имя ребёнк",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        228,
+        24
+      ],
+      "available_text": [
+        228,
+        32
+      ]
+    },
+    {
+      "screen": "profiles-long",
+      "text": "+ Добавить ребёнка",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        170,
+        24
+      ],
+      "available_text": [
+        170,
+        32
+      ]
+    },
+    {
+      "screen": "profiles-long",
+      "text": "Закрыть",
+      "size": [
+        764,
+        44
+      ],
+      "text_bounds": [
+        72,
+        24
+      ],
+      "available_text": [
+        72,
+        32
+      ]
+    },
+    {
+      "screen": "map-locked-1",
+      "text": "1 · Начало",
+      "size": [
+        231,
+        44
+      ],
+      "text_bounds": [
+        87,
+        24
+      ],
+      "available_text": [
+        87,
+        32
+      ]
+    },
+    {
+      "screen": "map-locked-1",
+      "text": "2 · Числа побольше",
+      "size": [
+        231,
+        44
+      ],
+      "text_bounds": [
+        163,
+        24
+      ],
+      "available_text": [
+        163,
+        32
+      ]
+    },
+    {
+      "screen": "map-locked-1",
+      "text": "3 · Зеркальные весы",
+      "size": [
+        231,
+        44
+      ],
+      "text_bounds": [
+        171,
+        24
+      ],
+      "available_text": [
+        171,
+        32
+      ]
+    },
+    {
+      "screen": "map-locked-1",
+      "text": "4 · Два x",
+      "size": [
+        231,
+        44
+      ],
+      "text_bounds": [
+        71,
+        24
+      ],
+      "available_text": [
+        71,
+        32
+      ]
+    },
+    {
+      "screen": "map-locked-1",
+      "text": "Квиз главы →",
+      "size": [
+        140,
+        44
+      ],
+      "text_bounds": [
+        114,
+        24
+      ],
+      "available_text": [
+        114,
+        32
+      ]
+    },
+    {
+      "screen": "map-locked-1",
+      "text": "Закрыть",
+      "size": [
+        97,
+        44
+      ],
+      "text_bounds": [
+        71,
+        24
+      ],
+      "available_text": [
+        71,
+        32
+      ]
+    },
+    {
+      "screen": "map-locked-1",
+      "text": "1",
+      "size": [
+        72,
+        72
+      ],
+      "text_bounds": [
+        16,
+        36
+      ],
+      "available_text": [
+        16,
+        62
+      ]
+    },
+    {
+      "screen": "map-locked-1",
+      "text": "2",
+      "size": [
+        72,
+        72
+      ],
+      "text_bounds": [
+        16,
+        36
+      ],
+      "available_text": [
+        16,
+        62
+      ]
+    },
+    {
+      "screen": "map-locked-1",
+      "text": "3",
+      "size": [
+        72,
+        72
+      ],
+      "text_bounds": [
+        16,
+        36
+      ],
+      "available_text": [
+        16,
+        62
+      ]
+    },
+    {
+      "screen": "map-locked-1",
+      "text": "4",
+      "size": [
+        72,
+        72
+      ],
+      "text_bounds": [
+        16,
+        36
+      ],
+      "available_text": [
+        16,
+        62
+      ]
+    },
+    {
+      "screen": "map-locked-1",
+      "text": "5",
+      "size": [
+        72,
+        72
+      ],
+      "text_bounds": [
+        16,
+        36
+      ],
+      "available_text": [
+        16,
+        62
+      ]
+    },
+    {
+      "screen": "map-locked-1",
+      "text": "6",
+      "size": [
+        72,
+        72
+      ],
+      "text_bounds": [
+        16,
+        36
+      ],
+      "available_text": [
+        16,
+        62
+      ]
+    },
+    {
+      "screen": "map-complete-1",
+      "text": "1 · Начало",
+      "size": [
+        231,
+        44
+      ],
+      "text_bounds": [
+        87,
+        24
+      ],
+      "available_text": [
+        87,
+        32
+      ]
+    },
+    {
+      "screen": "map-complete-1",
+      "text": "2 · Числа побольше",
+      "size": [
+        231,
+        44
+      ],
+      "text_bounds": [
+        163,
+        24
+      ],
+      "available_text": [
+        163,
+        32
+      ]
+    },
+    {
+      "screen": "map-complete-1",
+      "text": "3 · Зеркальные весы",
+      "size": [
+        231,
+        44
+      ],
+      "text_bounds": [
+        171,
+        24
+      ],
+      "available_text": [
+        171,
+        32
+      ]
+    },
+    {
+      "screen": "map-complete-1",
+      "text": "4 · Два x",
+      "size": [
+        231,
+        44
+      ],
+      "text_bounds": [
+        71,
+        24
+      ],
+      "available_text": [
+        71,
+        32
+      ]
+    },
+    {
+      "screen": "map-complete-1",
+      "text": "Квиз главы →",
+      "size": [
+        140,
+        44
+      ],
+      "text_bounds": [
+        114,
+        24
+      ],
+      "available_text": [
+        114,
+        32
+      ]
+    },
+    {
+      "screen": "map-complete-1",
+      "text": "Закрыть",
+      "size": [
+        97,
+        44
+      ],
+      "text_bounds": [
+        71,
+        24
+      ],
+      "available_text": [
+        71,
+        32
+      ]
+    },
+    {
+      "screen": "map-complete-1",
+      "text": "1",
+      "size": [
+        72,
+        72
+      ],
+      "text_bounds": [
+        16,
+        36
+      ],
+      "available_text": [
+        16,
+        62
+      ]
+    },
+    {
+      "screen": "map-complete-1",
+      "text": "2",
+      "size": [
+        72,
+        72
+      ],
+      "text_bounds": [
+        16,
+        36
+      ],
+      "available_text": [
+        16,
+        62
+      ]
+    },
+    {
+      "screen": "map-complete-1",
+      "text": "3",
+      "size": [
+        72,
+        72
+      ],
+      "text_bounds": [
+        16,
+        36
+      ],
+      "available_text": [
+        16,
+        62
+      ]
+    },
+    {
+      "screen": "map-complete-1",
+      "text": "4",
+      "size": [
+        72,
+        72
+      ],
+      "text_bounds": [
+        16,
+        36
+      ],
+      "available_text": [
+        16,
+        62
+      ]
+    },
+    {
+      "screen": "map-complete-1",
+      "text": "5",
+      "size": [
+        72,
+        72
+      ],
+      "text_bounds": [
+        16,
+        36
+      ],
+      "available_text": [
+        16,
+        62
+      ]
+    },
+    {
+      "screen": "map-complete-1",
+      "text": "6",
+      "size": [
+        72,
+        72
+      ],
+      "text_bounds": [
+        16,
+        36
+      ],
+      "available_text": [
+        16,
+        62
+      ]
+    },
+    {
+      "screen": "map-complete-2",
+      "text": "1 · Начало",
+      "size": [
+        231,
+        44
+      ],
+      "text_bounds": [
+        87,
+        24
+      ],
+      "available_text": [
+        87,
+        32
+      ]
+    },
+    {
+      "screen": "map-complete-2",
+      "text": "2 · Числа побольше",
+      "size": [
+        231,
+        44
+      ],
+      "text_bounds": [
+        163,
+        24
+      ],
+      "available_text": [
+        163,
+        32
+      ]
+    },
+    {
+      "screen": "map-complete-2",
+      "text": "3 · Зеркальные весы",
+      "size": [
+        231,
+        44
+      ],
+      "text_bounds": [
+        171,
+        24
+      ],
+      "available_text": [
+        171,
+        32
+      ]
+    },
+    {
+      "screen": "map-complete-2",
+      "text": "4 · Два x",
+      "size": [
+        231,
+        44
+      ],
+      "text_bounds": [
+        71,
+        24
+      ],
+      "available_text": [
+        71,
+        32
+      ]
+    },
+    {
+      "screen": "map-complete-2",
+      "text": "Квиз главы →",
+      "size": [
+        140,
+        44
+      ],
+      "text_bounds": [
+        114,
+        24
+      ],
+      "available_text": [
+        114,
+        32
+      ]
+    },
+    {
+      "screen": "map-complete-2",
+      "text": "Закрыть",
+      "size": [
+        97,
+        44
+      ],
+      "text_bounds": [
+        71,
+        24
+      ],
+      "available_text": [
+        71,
+        32
+      ]
+    },
+    {
+      "screen": "map-complete-2",
+      "text": "7",
+      "size": [
+        72,
+        72
+      ],
+      "text_bounds": [
+        16,
+        36
+      ],
+      "available_text": [
+        16,
+        62
+      ]
+    },
+    {
+      "screen": "map-complete-2",
+      "text": "8",
+      "size": [
+        72,
+        72
+      ],
+      "text_bounds": [
+        16,
+        36
+      ],
+      "available_text": [
+        16,
+        62
+      ]
+    },
+    {
+      "screen": "map-complete-2",
+      "text": "9",
+      "size": [
+        72,
+        72
+      ],
+      "text_bounds": [
+        16,
+        36
+      ],
+      "available_text": [
+        16,
+        62
+      ]
+    },
+    {
+      "screen": "map-complete-2",
+      "text": "10",
+      "size": [
+        72,
+        72
+      ],
+      "text_bounds": [
+        30,
+        36
+      ],
+      "available_text": [
+        30,
+        62
+      ]
+    },
+    {
+      "screen": "map-complete-2",
+      "text": "11",
+      "size": [
+        72,
+        72
+      ],
+      "text_bounds": [
+        30,
+        36
+      ],
+      "available_text": [
+        30,
+        62
+      ]
+    },
+    {
+      "screen": "map-complete-2",
+      "text": "12",
+      "size": [
+        72,
+        72
+      ],
+      "text_bounds": [
+        30,
+        36
+      ],
+      "available_text": [
+        30,
+        62
+      ]
+    },
+    {
+      "screen": "map-complete-3",
+      "text": "1 · Начало",
+      "size": [
+        231,
+        44
+      ],
+      "text_bounds": [
+        87,
+        24
+      ],
+      "available_text": [
+        87,
+        32
+      ]
+    },
+    {
+      "screen": "map-complete-3",
+      "text": "2 · Числа побольше",
+      "size": [
+        231,
+        44
+      ],
+      "text_bounds": [
+        163,
+        24
+      ],
+      "available_text": [
+        163,
+        32
+      ]
+    },
+    {
+      "screen": "map-complete-3",
+      "text": "3 · Зеркальные весы",
+      "size": [
+        231,
+        44
+      ],
+      "text_bounds": [
+        171,
+        24
+      ],
+      "available_text": [
+        171,
+        32
+      ]
+    },
+    {
+      "screen": "map-complete-3",
+      "text": "4 · Два x",
+      "size": [
+        231,
+        44
+      ],
+      "text_bounds": [
+        71,
+        24
+      ],
+      "available_text": [
+        71,
+        32
+      ]
+    },
+    {
+      "screen": "map-complete-3",
+      "text": "Квиз главы →",
+      "size": [
+        140,
+        44
+      ],
+      "text_bounds": [
+        114,
+        24
+      ],
+      "available_text": [
+        114,
+        32
+      ]
+    },
+    {
+      "screen": "map-complete-3",
+      "text": "Закрыть",
+      "size": [
+        97,
+        44
+      ],
+      "text_bounds": [
+        71,
+        24
+      ],
+      "available_text": [
+        71,
+        32
+      ]
+    },
+    {
+      "screen": "map-complete-3",
+      "text": "13",
+      "size": [
+        72,
+        72
+      ],
+      "text_bounds": [
+        30,
+        36
+      ],
+      "available_text": [
+        30,
+        62
+      ]
+    },
+    {
+      "screen": "map-complete-3",
+      "text": "14",
+      "size": [
+        72,
+        72
+      ],
+      "text_bounds": [
+        30,
+        36
+      ],
+      "available_text": [
+        30,
+        62
+      ]
+    },
+    {
+      "screen": "map-complete-3",
+      "text": "15",
+      "size": [
+        72,
+        72
+      ],
+      "text_bounds": [
+        30,
+        36
+      ],
+      "available_text": [
+        30,
+        62
+      ]
+    },
+    {
+      "screen": "map-complete-3",
+      "text": "16",
+      "size": [
+        72,
+        72
+      ],
+      "text_bounds": [
+        30,
+        36
+      ],
+      "available_text": [
+        30,
+        62
+      ]
+    },
+    {
+      "screen": "map-complete-3",
+      "text": "17",
+      "size": [
+        72,
+        72
+      ],
+      "text_bounds": [
+        30,
+        36
+      ],
+      "available_text": [
+        30,
+        62
+      ]
+    },
+    {
+      "screen": "map-complete-3",
+      "text": "18",
+      "size": [
+        72,
+        72
+      ],
+      "text_bounds": [
+        30,
+        36
+      ],
+      "available_text": [
+        30,
+        62
+      ]
+    },
+    {
+      "screen": "map-complete-4",
+      "text": "1 · Начало",
+      "size": [
+        231,
+        44
+      ],
+      "text_bounds": [
+        87,
+        24
+      ],
+      "available_text": [
+        87,
+        32
+      ]
+    },
+    {
+      "screen": "map-complete-4",
+      "text": "2 · Числа побольше",
+      "size": [
+        231,
+        44
+      ],
+      "text_bounds": [
+        163,
+        24
+      ],
+      "available_text": [
+        163,
+        32
+      ]
+    },
+    {
+      "screen": "map-complete-4",
+      "text": "3 · Зеркальные весы",
+      "size": [
+        231,
+        44
+      ],
+      "text_bounds": [
+        171,
+        24
+      ],
+      "available_text": [
+        171,
+        32
+      ]
+    },
+    {
+      "screen": "map-complete-4",
+      "text": "4 · Два x",
+      "size": [
+        231,
+        44
+      ],
+      "text_bounds": [
+        71,
+        24
+      ],
+      "available_text": [
+        71,
+        32
+      ]
+    },
+    {
+      "screen": "map-complete-4",
+      "text": "Квиз главы →",
+      "size": [
+        140,
+        44
+      ],
+      "text_bounds": [
+        114,
+        24
+      ],
+      "available_text": [
+        114,
+        32
+      ]
+    },
+    {
+      "screen": "map-complete-4",
+      "text": "Закрыть",
+      "size": [
+        97,
+        44
+      ],
+      "text_bounds": [
+        71,
+        24
+      ],
+      "available_text": [
+        71,
+        32
+      ]
+    },
+    {
+      "screen": "map-complete-4",
+      "text": "19",
+      "size": [
+        72,
+        72
+      ],
+      "text_bounds": [
+        30,
+        36
+      ],
+      "available_text": [
+        30,
+        62
+      ]
+    },
+    {
+      "screen": "map-complete-4",
+      "text": "20",
+      "size": [
+        72,
+        72
+      ],
+      "text_bounds": [
+        30,
+        36
+      ],
+      "available_text": [
+        30,
+        62
+      ]
+    },
+    {
+      "screen": "map-complete-4",
+      "text": "21",
+      "size": [
+        72,
+        72
+      ],
+      "text_bounds": [
+        30,
+        36
+      ],
+      "available_text": [
+        30,
+        62
+      ]
+    },
+    {
+      "screen": "map-complete-4",
+      "text": "22",
+      "size": [
+        72,
+        72
+      ],
+      "text_bounds": [
+        30,
+        36
+      ],
+      "available_text": [
+        30,
+        62
+      ]
+    },
+    {
+      "screen": "map-complete-4",
+      "text": "23",
+      "size": [
+        72,
+        72
+      ],
+      "text_bounds": [
+        30,
+        36
+      ],
+      "available_text": [
+        30,
+        62
+      ]
+    },
+    {
+      "screen": "map-complete-4",
+      "text": "24",
+      "size": [
+        72,
+        72
+      ],
+      "text_bounds": [
+        30,
+        36
+      ],
+      "available_text": [
+        30,
+        62
+      ]
+    },
+    {
+      "screen": "quiz-1-1",
+      "text": "Убрать одну",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        104,
+        24
+      ],
+      "available_text": [
+        104,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-1-1",
+      "text": "Добавить одну",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        126,
+        24
+      ],
+      "available_text": [
+        126,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-1-1",
+      "text": "Ничего",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        62,
+        24
+      ],
+      "available_text": [
+        62,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-1-1",
+      "text": "Дальше",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        68,
+        24
+      ],
+      "available_text": [
+        68,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-1-1",
+      "text": "Закрыть",
+      "size": [
+        764,
+        44
+      ],
+      "text_bounds": [
+        72,
+        24
+      ],
+      "available_text": [
+        72,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-1-1-answered",
+      "text": "Убрать одну",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        104,
+        24
+      ],
+      "available_text": [
+        104,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-1-1-answered",
+      "text": "Добавить одну",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        126,
+        24
+      ],
+      "available_text": [
+        126,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-1-1-answered",
+      "text": "Ничего",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        62,
+        24
+      ],
+      "available_text": [
+        62,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-1-1-answered",
+      "text": "Дальше",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        68,
+        24
+      ],
+      "available_text": [
+        68,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-1-1-answered",
+      "text": "Закрыть",
+      "size": [
+        764,
+        44
+      ],
+      "text_bounds": [
+        72,
+        24
+      ],
+      "available_text": [
+        72,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-1-2",
+      "text": "1",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        12,
+        24
+      ],
+      "available_text": [
+        12,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-1-2",
+      "text": "2",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        12,
+        24
+      ],
+      "available_text": [
+        12,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-1-2",
+      "text": "3",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        12,
+        24
+      ],
+      "available_text": [
+        12,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-1-2",
+      "text": "Дальше",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        68,
+        24
+      ],
+      "available_text": [
+        68,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-1-2",
+      "text": "Закрыть",
+      "size": [
+        764,
+        44
+      ],
+      "text_bounds": [
+        72,
+        24
+      ],
+      "available_text": [
+        72,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-1-2-answered",
+      "text": "1",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        12,
+        24
+      ],
+      "available_text": [
+        12,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-1-2-answered",
+      "text": "2",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        12,
+        24
+      ],
+      "available_text": [
+        12,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-1-2-answered",
+      "text": "3",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        12,
+        24
+      ],
+      "available_text": [
+        12,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-1-2-answered",
+      "text": "Дальше",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        68,
+        24
+      ],
+      "available_text": [
+        68,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-1-2-answered",
+      "text": "Закрыть",
+      "size": [
+        764,
+        44
+      ],
+      "text_bounds": [
+        72,
+        24
+      ],
+      "available_text": [
+        72,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-1-3",
+      "text": "Две единицы",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        112,
+        24
+      ],
+      "available_text": [
+        112,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-1-3",
+      "text": "Обязательно добавить",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        192,
+        24
+      ],
+      "available_text": [
+        192,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-1-3",
+      "text": "Левую чашу",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        104,
+        24
+      ],
+      "available_text": [
+        104,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-1-3",
+      "text": "Дальше",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        68,
+        24
+      ],
+      "available_text": [
+        68,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-1-3",
+      "text": "Закрыть",
+      "size": [
+        764,
+        44
+      ],
+      "text_bounds": [
+        72,
+        24
+      ],
+      "available_text": [
+        72,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-1-3-answered",
+      "text": "Две единицы",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        112,
+        24
+      ],
+      "available_text": [
+        112,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-1-3-answered",
+      "text": "Обязательно добавить",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        192,
+        24
+      ],
+      "available_text": [
+        192,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-1-3-answered",
+      "text": "Левую чашу",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        104,
+        24
+      ],
+      "available_text": [
+        104,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-1-3-answered",
+      "text": "Дальше",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        68,
+        24
+      ],
+      "available_text": [
+        68,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-1-3-answered",
+      "text": "Закрыть",
+      "size": [
+        764,
+        44
+      ],
+      "text_bounds": [
+        72,
+        24
+      ],
+      "available_text": [
+        72,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-2-1",
+      "text": "1",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        12,
+        24
+      ],
+      "available_text": [
+        12,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-2-1",
+      "text": "5",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        12,
+        24
+      ],
+      "available_text": [
+        12,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-2-1",
+      "text": "6",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        12,
+        24
+      ],
+      "available_text": [
+        12,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-2-1",
+      "text": "Дальше",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        68,
+        24
+      ],
+      "available_text": [
+        68,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-2-1",
+      "text": "Закрыть",
+      "size": [
+        764,
+        44
+      ],
+      "text_bounds": [
+        72,
+        24
+      ],
+      "available_text": [
+        72,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-2-1-answered",
+      "text": "1",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        12,
+        24
+      ],
+      "available_text": [
+        12,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-2-1-answered",
+      "text": "5",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        12,
+        24
+      ],
+      "available_text": [
+        12,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-2-1-answered",
+      "text": "6",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        12,
+        24
+      ],
+      "available_text": [
+        12,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-2-1-answered",
+      "text": "Дальше",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        68,
+        24
+      ],
+      "available_text": [
+        68,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-2-1-answered",
+      "text": "Закрыть",
+      "size": [
+        764,
+        44
+      ],
+      "text_bounds": [
+        72,
+        24
+      ],
+      "available_text": [
+        72,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-2-2",
+      "text": "Да, равенство сохранится",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        216,
+        24
+      ],
+      "available_text": [
+        216,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-2-2",
+      "text": "Только слева",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        110,
+        24
+      ],
+      "available_text": [
+        110,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-2-2",
+      "text": "Нельзя",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        62,
+        24
+      ],
+      "available_text": [
+        62,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-2-2",
+      "text": "Дальше",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        68,
+        24
+      ],
+      "available_text": [
+        68,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-2-2",
+      "text": "Закрыть",
+      "size": [
+        764,
+        44
+      ],
+      "text_bounds": [
+        72,
+        24
+      ],
+      "available_text": [
+        72,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-2-2-answered",
+      "text": "Да, равенство сохранится",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        216,
+        24
+      ],
+      "available_text": [
+        216,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-2-2-answered",
+      "text": "Только слева",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        110,
+        24
+      ],
+      "available_text": [
+        110,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-2-2-answered",
+      "text": "Нельзя",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        62,
+        24
+      ],
+      "available_text": [
+        62,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-2-2-answered",
+      "text": "Дальше",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        68,
+        24
+      ],
+      "available_text": [
+        68,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-2-2-answered",
+      "text": "Закрыть",
+      "size": [
+        764,
+        44
+      ],
+      "text_bounds": [
+        72,
+        24
+      ],
+      "available_text": [
+        72,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-2-3",
+      "text": "Две пары действий",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        162,
+        24
+      ],
+      "available_text": [
+        162,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-2-3",
+      "text": "Один раз только слева",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        192,
+        24
+      ],
+      "available_text": [
+        192,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-2-3",
+      "text": "Четыре пары по +2",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        162,
+        24
+      ],
+      "available_text": [
+        162,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-2-3",
+      "text": "Дальше",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        68,
+        24
+      ],
+      "available_text": [
+        68,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-2-3",
+      "text": "Закрыть",
+      "size": [
+        764,
+        44
+      ],
+      "text_bounds": [
+        72,
+        24
+      ],
+      "available_text": [
+        72,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-2-3-answered",
+      "text": "Две пары действий",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        162,
+        24
+      ],
+      "available_text": [
+        162,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-2-3-answered",
+      "text": "Один раз только слева",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        192,
+        24
+      ],
+      "available_text": [
+        192,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-2-3-answered",
+      "text": "Четыре пары по +2",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        162,
+        24
+      ],
+      "available_text": [
+        162,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-2-3-answered",
+      "text": "Дальше",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        68,
+        24
+      ],
+      "available_text": [
+        68,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-2-3-answered",
+      "text": "Закрыть",
+      "size": [
+        764,
+        44
+      ],
+      "text_bounds": [
+        72,
+        24
+      ],
+      "available_text": [
+        72,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-3-1",
+      "text": "8",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        12,
+        24
+      ],
+      "available_text": [
+        12,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-3-1",
+      "text": "4",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        12,
+        24
+      ],
+      "available_text": [
+        12,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-3-1",
+      "text": "2",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        12,
+        24
+      ],
+      "available_text": [
+        12,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-3-1",
+      "text": "Дальше",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        68,
+        24
+      ],
+      "available_text": [
+        68,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-3-1",
+      "text": "Закрыть",
+      "size": [
+        764,
+        44
+      ],
+      "text_bounds": [
+        72,
+        24
+      ],
+      "available_text": [
+        72,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-3-1-answered",
+      "text": "8",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        12,
+        24
+      ],
+      "available_text": [
+        12,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-3-1-answered",
+      "text": "4",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        12,
+        24
+      ],
+      "available_text": [
+        12,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-3-1-answered",
+      "text": "2",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        12,
+        24
+      ],
+      "available_text": [
+        12,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-3-1-answered",
+      "text": "Дальше",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        68,
+        24
+      ],
+      "available_text": [
+        68,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-3-1-answered",
+      "text": "Закрыть",
+      "size": [
+        764,
+        44
+      ],
+      "text_bounds": [
+        72,
+        24
+      ],
+      "available_text": [
+        72,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-3-2",
+      "text": "Те же действия с обеих сторон",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        256,
+        24
+      ],
+      "available_text": [
+        256,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-3-2",
+      "text": "Меняется только правая чаша",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        252,
+        24
+      ],
+      "available_text": [
+        252,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-3-2",
+      "text": "Правило больше не нужно",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        224,
+        24
+      ],
+      "available_text": [
+        224,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-3-2",
+      "text": "Дальше",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        68,
+        24
+      ],
+      "available_text": [
+        68,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-3-2",
+      "text": "Закрыть",
+      "size": [
+        764,
+        44
+      ],
+      "text_bounds": [
+        72,
+        24
+      ],
+      "available_text": [
+        72,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-3-2-answered",
+      "text": "Те же действия с обеих сторон",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        256,
+        24
+      ],
+      "available_text": [
+        256,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-3-2-answered",
+      "text": "Меняется только правая чаша",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        252,
+        24
+      ],
+      "available_text": [
+        252,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-3-2-answered",
+      "text": "Правило больше не нужно",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        224,
+        24
+      ],
+      "available_text": [
+        224,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-3-2-answered",
+      "text": "Дальше",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        68,
+        24
+      ],
+      "available_text": [
+        68,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-3-2-answered",
+      "text": "Закрыть",
+      "size": [
+        764,
+        44
+      ],
+      "text_bounds": [
+        72,
+        24
+      ],
+      "available_text": [
+        72,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-3-3",
+      "text": "Вычесть три",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        104,
+        24
+      ],
+      "available_text": [
+        104,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-3-3",
+      "text": "Добавить три с обеих сторон",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        244,
+        24
+      ],
+      "available_text": [
+        244,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-3-3",
+      "text": "Убрать x",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        74,
+        24
+      ],
+      "available_text": [
+        74,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-3-3",
+      "text": "Дальше",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        68,
+        24
+      ],
+      "available_text": [
+        68,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-3-3",
+      "text": "Закрыть",
+      "size": [
+        764,
+        44
+      ],
+      "text_bounds": [
+        72,
+        24
+      ],
+      "available_text": [
+        72,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-3-3-answered",
+      "text": "Вычесть три",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        104,
+        24
+      ],
+      "available_text": [
+        104,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-3-3-answered",
+      "text": "Добавить три с обеих сторон",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        244,
+        24
+      ],
+      "available_text": [
+        244,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-3-3-answered",
+      "text": "Убрать x",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        74,
+        24
+      ],
+      "available_text": [
+        74,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-3-3-answered",
+      "text": "Дальше",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        68,
+        24
+      ],
+      "available_text": [
+        68,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-3-3-answered",
+      "text": "Закрыть",
+      "size": [
+        764,
+        44
+      ],
+      "text_bounds": [
+        72,
+        24
+      ],
+      "available_text": [
+        72,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-4-1",
+      "text": "x = 3",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        40,
+        24
+      ],
+      "available_text": [
+        40,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-4-1",
+      "text": "2x = 3",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        50,
+        24
+      ],
+      "available_text": [
+        50,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-4-1",
+      "text": "x = 2",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        40,
+        24
+      ],
+      "available_text": [
+        40,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-4-1",
+      "text": "Дальше",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        68,
+        24
+      ],
+      "available_text": [
+        68,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-4-1",
+      "text": "Закрыть",
+      "size": [
+        764,
+        44
+      ],
+      "text_bounds": [
+        72,
+        24
+      ],
+      "available_text": [
+        72,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-4-1-answered",
+      "text": "x = 3",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        40,
+        24
+      ],
+      "available_text": [
+        40,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-4-1-answered",
+      "text": "2x = 3",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        50,
+        24
+      ],
+      "available_text": [
+        50,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-4-1-answered",
+      "text": "x = 2",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        40,
+        24
+      ],
+      "available_text": [
+        40,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-4-1-answered",
+      "text": "Дальше",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        68,
+        24
+      ],
+      "available_text": [
+        68,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-4-1-answered",
+      "text": "Закрыть",
+      "size": [
+        764,
+        44
+      ],
+      "text_bounds": [
+        72,
+        24
+      ],
+      "available_text": [
+        72,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-4-2",
+      "text": "6",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        12,
+        24
+      ],
+      "available_text": [
+        12,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-4-2",
+      "text": "4",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        12,
+        24
+      ],
+      "available_text": [
+        12,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-4-2",
+      "text": "5",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        12,
+        24
+      ],
+      "available_text": [
+        12,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-4-2",
+      "text": "Дальше",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        68,
+        24
+      ],
+      "available_text": [
+        68,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-4-2",
+      "text": "Закрыть",
+      "size": [
+        764,
+        44
+      ],
+      "text_bounds": [
+        72,
+        24
+      ],
+      "available_text": [
+        72,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-4-2-answered",
+      "text": "6",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        12,
+        24
+      ],
+      "available_text": [
+        12,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-4-2-answered",
+      "text": "4",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        12,
+        24
+      ],
+      "available_text": [
+        12,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-4-2-answered",
+      "text": "5",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        12,
+        24
+      ],
+      "available_text": [
+        12,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-4-2-answered",
+      "text": "Дальше",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        68,
+        24
+      ],
+      "available_text": [
+        68,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-4-2-answered",
+      "text": "Закрыть",
+      "size": [
+        764,
+        44
+      ],
+      "text_bounds": [
+        72,
+        24
+      ],
+      "available_text": [
+        72,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-4-3",
+      "text": "x — неизвестное число",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        194,
+        24
+      ],
+      "available_text": [
+        194,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-4-3",
+      "text": "Он всегда равен двум",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        184,
+        24
+      ],
+      "available_text": [
+        184,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-4-3",
+      "text": "Правило зависит от цвета",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        218,
+        24
+      ],
+      "available_text": [
+        218,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-4-3",
+      "text": "Дальше",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        68,
+        24
+      ],
+      "available_text": [
+        68,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-4-3",
+      "text": "Закрыть",
+      "size": [
+        764,
+        44
+      ],
+      "text_bounds": [
+        72,
+        24
+      ],
+      "available_text": [
+        72,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-4-3-answered",
+      "text": "x — неизвестное число",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        194,
+        24
+      ],
+      "available_text": [
+        194,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-4-3-answered",
+      "text": "Он всегда равен двум",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        184,
+        24
+      ],
+      "available_text": [
+        184,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-4-3-answered",
+      "text": "Правило зависит от цвета",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        218,
+        24
+      ],
+      "available_text": [
+        218,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-4-3-answered",
+      "text": "Дальше",
+      "size": [
+        752,
+        44
+      ],
+      "text_bounds": [
+        68,
+        24
+      ],
+      "available_text": [
+        68,
+        32
+      ]
+    },
+    {
+      "screen": "quiz-4-3-answered",
+      "text": "Закрыть",
+      "size": [
+        764,
+        44
+      ],
+      "text_bounds": [
+        72,
+        24
+      ],
+      "available_text": [
+        72,
+        32
+      ]
+    },
+    {
+      "screen": "answer-entry",
+      "text": "",
+      "size": [
+        192,
+        44
+      ],
+      "text_bounds": [
+        0,
+        22
+      ],
+      "available_text": [
+        0,
+        40
+      ]
+    },
+    {
+      "screen": "answer-entry",
+      "text": "Для взрослого",
+      "size": [
+        170,
+        44
+      ],
+      "text_bounds": [
+        116,
+        22
+      ],
+      "available_text": [
+        116,
+        32
+      ]
+    },
+    {
+      "screen": "answer-entry",
+      "text": "Проверить",
+      "size": [
+        117,
+        44
+      ],
+      "text_bounds": [
+        91,
+        24
+      ],
+      "available_text": [
+        91,
+        32
+      ]
+    },
+    {
+      "screen": "answer-entry",
+      "text": "Отменить",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        82,
+        24
+      ],
+      "available_text": [
+        82,
+        32
+      ]
+    },
+    {
+      "screen": "answer-entry",
+      "text": "Карта",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        50,
+        24
+      ],
+      "available_text": [
+        50,
+        32
+      ]
+    },
+    {
+      "screen": "answer-entry",
+      "text": "Мой путь",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        78,
+        24
+      ],
+      "available_text": [
+        78,
+        32
+      ]
+    },
+    {
+      "screen": "answer-entry",
+      "text": "Дальше",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        68,
+        24
+      ],
+      "available_text": [
+        68,
+        32
+      ]
+    },
+    {
+      "screen": "answer-entry",
+      "text": "Подсказка",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        90,
+        24
+      ],
+      "available_text": [
+        90,
+        32
+      ]
+    },
+    {
+      "screen": "result",
+      "text": "",
+      "size": [
+        192,
+        44
+      ],
+      "text_bounds": [
+        0,
+        22
+      ],
+      "available_text": [
+        0,
+        40
+      ]
+    },
+    {
+      "screen": "result",
+      "text": "Для взрослого",
+      "size": [
+        170,
+        44
+      ],
+      "text_bounds": [
+        116,
+        22
+      ],
+      "available_text": [
+        116,
+        32
+      ]
+    },
+    {
+      "screen": "result",
+      "text": "Отменить",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        82,
+        24
+      ],
+      "available_text": [
+        82,
+        32
+      ]
+    },
+    {
+      "screen": "result",
+      "text": "Карта",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        50,
+        24
+      ],
+      "available_text": [
+        50,
+        32
+      ]
+    },
+    {
+      "screen": "result",
+      "text": "Мой путь",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        78,
+        24
+      ],
+      "available_text": [
+        78,
+        32
+      ]
+    },
+    {
+      "screen": "result",
+      "text": "Дальше",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        68,
+        24
+      ],
+      "available_text": [
+        68,
+        32
+      ]
+    },
+    {
+      "screen": "result",
+      "text": "Подсказка",
+      "size": [
+        196,
+        44
+      ],
+      "text_bounds": [
+        90,
+        24
+      ],
+      "available_text": [
+        90,
+        32
+      ]
+    }
+  ]
+}
