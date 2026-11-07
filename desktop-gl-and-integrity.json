@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "version": "0.32.0",
-  "md5_payload_files_verified": 64,
+  "version": "0.33.0",
+  "md5_payload_files_verified": 66,
   "unchanged_upstream_binding_files": 2871,
   "no_native_binaries": true,
   "stateless_packaged_diagnostic": {
@@ -16,13 +16,16 @@
     "quality": "detail",
     "shadow_size": 2048,
     "contact_shading": true,
+    "lamp_shadow_size": 1024,
+    "lighting": "window + warm spotlight",
     "projection": "orthographic",
     "view": "fixed-front",
-    "vertices": 150141,
+    "lamp_enabled": true,
+    "vertices": 131592,
     "shadow_map": 2048
   },
   "diagnostic_exit_code": 0,
-  "package_sha256": "3d9a3bc6676cea9a675a0677f26828b25c4be8f215fdcb735feb6dae1ab58a11",
-  "payload_bytes": 7685982,
+  "package_sha256": "0c5f74e64b9548e79a24c98bf4f7b1a86bb76c6115bc0483dbdea2baa14c5c80",
+  "payload_bytes": 7703496,
   "physical_pi_tested": false
 }

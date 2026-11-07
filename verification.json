@@ -1,9 +1,9 @@
 {
-  "version": "0.32.0",
-  "total_distinct_tests_passed": 251,
-  "core_physics_and_tk_tests_passed": 214,
+  "version": "0.33.0",
+  "total_distinct_tests_passed": 256,
+  "core_physics_and_tk_tests_passed": 218,
   "compatible_qt_tests_passed": 29,
-  "real_gl_tests_passed": 8,
+  "real_gl_tests_passed": 9,
   "gl_suite_run_on": [
     "Mesa OpenGL 2.1",
     "Mesa OpenGL ES 2.0"
@@ -29,22 +29,21 @@
   "detail_materials": "GGX / Schlick Fresnel / procedural window reflection",
   "frame_aa": "FXAA",
   "scene_gpu_batches_static": 5,
-  "static_vertices": 150141,
-  "moving_part_vertices": 109230,
+  "static_vertices": 131592,
+  "moving_part_vertices": 104982,
   "binding": "bundled PyOpenGL 3.1.9 Python package",
   "numpy_required": false,
   "new_system_dependencies": false,
   "bundled_native_binaries": false,
-  "package_bytes": 6155828,
-  "payload_bytes": 7685982,
-  "package_sha256": "3d9a3bc6676cea9a675a0677f26828b25c4be8f215fdcb735feb6dae1ab58a11",
+  "package_bytes": 6158836,
+  "payload_bytes": 7703496,
+  "package_sha256": "0c5f74e64b9548e79a24c98bf4f7b1a86bb76c6115bc0483dbdea2baa14c5c80",
   "packaged_recording_exit": 0,
   "packaged_cli_diagnostic_exit": 0,
   "separate_process_exit_regression_passed": true,
   "data_and_hardware_logic_changed": false,
   "android_changed": false,
   "checks": [
-    "64 payload MD5 hashes",
     "2871 binding entries identical to upstream wheel",
     "quality switching and rapid repeated requests on real GL",
     "profile setting survives database reopen",
@@ -66,9 +65,32 @@
     "equal projected widths at different scene depths",
     "dragging does not rotate camera",
     "fixed front scene remains actual depth-tested 3D",
-    "slightly more saturated learning object palette"
+    "slightly more saturated learning object palette",
+    "23 prop assemblies do not overlap in the fixed camera projection",
+    "free space for pan and beam movement including angular stop",
+    "lamp position inside actual bulb mesh",
+    "independent spotlight depth map and correct light direction",
+    "lamp shadows change the actual rendered image",
+    "switching lamp changes illumination without rebuilding geometry",
+    "lamp depth is not rendered while disabled and refreshes on demand",
+    "lamp preference survives profile reopen and refresh",
+    "light switch remains visible and accessible in the adult dialog",
+    "66 payload MD5 hashes"
   ],
   "camera_can_rotate": false,
   "projection": "orthographic",
-  "camera_elevation_degrees": 12
+  "camera_elevation_degrees": 12,
+  "room_prop_assemblies": 23,
+  "room_layout_projected_bounds_verified": true,
+  "pan_and_beam_sweep_degrees": 9.7,
+  "light_sources": [
+    "window daylight",
+    "warm spotlight"
+  ],
+  "lamp_shadow_maps": [
+    512,
+    1024
+  ],
+  "lamp_setting_saved_per_profile": true,
+  "shadow_maps_cached_independently": true
 }

@@ -1,5 +1,5 @@
 {
-  "version": "0.32.0",
+  "version": "0.33.0",
   "ok": true,
   "graphics": {
     "version": "OpenGL ES 2.0 Mesa 25.0.7-2+deb13u1",
@@ -12,16 +12,26 @@
     "quality": "detail",
     "shadow_size": 2048,
     "contact_shading": true,
+    "lamp_shadow_size": 1024,
+    "lighting": "window + warm spotlight",
     "projection": "orthographic",
-    "view": "fixed-front"
+    "view": "fixed-front",
+    "lamp_enabled": true
   },
   "framebuffer": [
     996,
     290
   ],
-  "static_vertices": 150141,
-  "moving_part_vertices": 109230,
+  "static_vertices": 131592,
+  "moving_part_vertices": 104982,
   "static_batches": 5,
+  "room_prop_assemblies": 23,
+  "room_lighting": [
+    "daylight",
+    "warm spotlight"
+  ],
+  "lamp_shadow_size": 1024,
+  "lamp_setting_verified": true,
   "background_room_image_deleted": true,
   "numpy_unavailable": true,
   "quality_switch_and_glyph_cache": true,
