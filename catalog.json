@@ -1,0 +1,878 @@
+[
+  {
+    "number": 1,
+    "name": "Первые открытия",
+    "description": "Считай единицы и освобождай x.",
+    "levels": [
+      {
+        "id": "cups-1",
+        "title": "Убери по одной",
+        "level": 1,
+        "equation": "x + 1 = 2",
+        "skill": "Одинаковое действие с чашами",
+        "minutes": 2,
+        "solution": "1"
+      },
+      {
+        "id": "cups-2",
+        "title": "Спрятанное число",
+        "level": 1,
+        "equation": "x + 1 = 3",
+        "skill": "Одинаковое действие с чашами",
+        "minutes": 2,
+        "solution": "2"
+      },
+      {
+        "id": "cups-3",
+        "title": "Две единицы",
+        "level": 1,
+        "equation": "x + 2 = 3",
+        "skill": "По одному блоку",
+        "minutes": 3,
+        "solution": "1"
+      },
+      {
+        "id": "cups-4",
+        "title": "Ещё одна пара",
+        "level": 1,
+        "equation": "x + 2 = 4",
+        "skill": "По одному блоку",
+        "minutes": 3,
+        "solution": "2"
+      },
+      {
+        "id": "cups-5",
+        "title": "Верни единицу",
+        "level": 1,
+        "equation": "x - 1 = 1",
+        "skill": "Прибавление к обеим чашам",
+        "minutes": 3,
+        "solution": "2"
+      },
+      {
+        "id": "cups-6",
+        "title": "Три маленьких шага",
+        "level": 1,
+        "equation": "x + 3 = 5",
+        "skill": "По одному блоку",
+        "minutes": 4,
+        "solution": "2"
+      }
+    ],
+    "quiz": "quiz-1"
+  },
+  {
+    "number": 2,
+    "name": "Числа побольше",
+    "description": "Выбирай +1 или +2, планируй несколько ходов.",
+    "levels": [
+      {
+        "id": "trail-1",
+        "title": "Четыре единицы",
+        "equation": "x+4=7",
+        "level": 2,
+        "skill": "Числа побольше",
+        "minutes": 4,
+        "max_units": 9,
+        "answer_digits": 1,
+        "solution": "3"
+      },
+      {
+        "id": "trail-2",
+        "title": "Верни две",
+        "equation": "x-2=2",
+        "level": 2,
+        "skill": "Числа побольше",
+        "minutes": 4,
+        "max_units": 9,
+        "answer_digits": 1,
+        "solution": "4"
+      },
+      {
+        "id": "trail-3",
+        "title": "Короткий путь",
+        "equation": "x+3=7",
+        "level": 2,
+        "skill": "Числа побольше",
+        "minutes": 4,
+        "max_units": 9,
+        "answer_digits": 1,
+        "solution": "4"
+      },
+      {
+        "id": "trail-4",
+        "title": "Три потеряшки",
+        "equation": "x-3=2",
+        "level": 2,
+        "skill": "Числа побольше",
+        "minutes": 4,
+        "max_units": 9,
+        "answer_digits": 1,
+        "solution": "5"
+      },
+      {
+        "id": "trail-5",
+        "title": "Большая чаша",
+        "equation": "x+4=9",
+        "level": 2,
+        "skill": "Числа побольше",
+        "minutes": 4,
+        "max_units": 9,
+        "answer_digits": 1,
+        "solution": "5"
+      },
+      {
+        "id": "trail-6",
+        "title": "Четыре шага назад",
+        "equation": "x-4=2",
+        "level": 2,
+        "skill": "Числа побольше",
+        "minutes": 4,
+        "max_units": 9,
+        "answer_digits": 1,
+        "solution": "6"
+      }
+    ],
+    "quiz": "quiz-2"
+  },
+  {
+    "number": 3,
+    "name": "Зеркальные весы",
+    "description": "Теперь неизвестное может оказаться справа.",
+    "levels": [
+      {
+        "id": "mirror-1",
+        "title": "Посмотри справа",
+        "equation": "5=x+2",
+        "level": 3,
+        "skill": "Зеркальные весы",
+        "minutes": 5,
+        "max_units": 9,
+        "answer_digits": 1,
+        "solution": "3"
+      },
+      {
+        "id": "mirror-2",
+        "title": "Верни справа",
+        "equation": "2=x-3",
+        "level": 3,
+        "skill": "Зеркальные весы",
+        "minutes": 5,
+        "max_units": 9,
+        "answer_digits": 1,
+        "solution": "5"
+      },
+      {
+        "id": "mirror-3",
+        "title": "Зеркальный секрет",
+        "equation": "7=x+3",
+        "level": 3,
+        "skill": "Зеркальные весы",
+        "minutes": 5,
+        "max_units": 9,
+        "answer_digits": 1,
+        "solution": "4"
+      },
+      {
+        "id": "mirror-4",
+        "title": "Правая загадка",
+        "equation": "3=x-2",
+        "level": 3,
+        "skill": "Зеркальные весы",
+        "minutes": 5,
+        "max_units": 9,
+        "answer_digits": 1,
+        "solution": "5"
+      },
+      {
+        "id": "mirror-5",
+        "title": "Шесть в секрете",
+        "equation": "8=x+2",
+        "level": 3,
+        "skill": "Зеркальные весы",
+        "minutes": 5,
+        "max_units": 9,
+        "answer_digits": 1,
+        "solution": "6"
+      },
+      {
+        "id": "mirror-6",
+        "title": "Зеркальный маршрут",
+        "equation": "2=x-4",
+        "level": 3,
+        "skill": "Зеркальные весы",
+        "minutes": 5,
+        "max_units": 9,
+        "answer_digits": 1,
+        "solution": "6"
+      }
+    ],
+    "quiz": "quiz-3"
+  },
+  {
+    "number": 4,
+    "name": "X с двух сторон",
+    "description": "Убирай одинаковые x с обеих чаш, затем считай единицы.",
+    "levels": [
+      {
+        "id": "duet-1",
+        "title": "Два x и один x",
+        "equation": "2x+1=x+4",
+        "level": 4,
+        "skill": "X с двух сторон",
+        "minutes": 6,
+        "max_units": 9,
+        "answer_digits": 1,
+        "solution": "3"
+      },
+      {
+        "id": "duet-2",
+        "title": "Сначала убери x",
+        "equation": "2x+2=x+7",
+        "level": 4,
+        "skill": "X с двух сторон",
+        "minutes": 6,
+        "max_units": 9,
+        "answer_digits": 1,
+        "solution": "5"
+      },
+      {
+        "id": "duet-3",
+        "title": "Три против двух",
+        "equation": "3x+1=2x+5",
+        "level": 4,
+        "skill": "X с двух сторон",
+        "minutes": 6,
+        "max_units": 9,
+        "answer_digits": 1,
+        "solution": "4"
+      },
+      {
+        "id": "duet-4",
+        "title": "Пропавшая единица",
+        "equation": "3x-1=2x+4",
+        "level": 4,
+        "skill": "X с двух сторон",
+        "minutes": 6,
+        "max_units": 9,
+        "answer_digits": 1,
+        "solution": "5"
+      },
+      {
+        "id": "duet-5",
+        "title": "Секрет большой чаши",
+        "equation": "2x+3=x+9",
+        "level": 4,
+        "skill": "X с двух сторон",
+        "minutes": 6,
+        "max_units": 9,
+        "answer_digits": 1,
+        "solution": "6"
+      },
+      {
+        "id": "duet-6",
+        "title": "Мастер двух сторон",
+        "equation": "3x-2=2x+4",
+        "level": 4,
+        "skill": "X с двух сторон",
+        "minutes": 6,
+        "max_units": 9,
+        "answer_digits": 1,
+        "solution": "6"
+      }
+    ],
+    "quiz": "quiz-4"
+  },
+  {
+    "number": 5,
+    "name": "Гири 3–5",
+    "description": "Одна числовая метка меняет сразу несколько единиц.",
+    "levels": [
+      {
+        "id": "digits-1",
+        "title": "Три за один ход",
+        "equation": "x+3=8",
+        "level": 5,
+        "skill": "Гири 3–5",
+        "minutes": 7,
+        "max_units": 99,
+        "answer_digits": 1,
+        "solution": "5"
+      },
+      {
+        "id": "digits-2",
+        "title": "Четыре единицы сразу",
+        "equation": "x+4=11",
+        "level": 5,
+        "skill": "Гири 3–5",
+        "minutes": 7,
+        "max_units": 99,
+        "answer_digits": 1,
+        "solution": "7"
+      },
+      {
+        "id": "digits-3",
+        "title": "Гиря на пять",
+        "equation": "x+5=13",
+        "level": 5,
+        "skill": "Гири 3–5",
+        "minutes": 7,
+        "max_units": 99,
+        "answer_digits": 1,
+        "solution": "8"
+      },
+      {
+        "id": "digits-4",
+        "title": "Четыре справа",
+        "equation": "5=x-4",
+        "level": 5,
+        "skill": "Гири 3–5",
+        "minutes": 7,
+        "max_units": 99,
+        "answer_digits": 1,
+        "solution": "9"
+      },
+      {
+        "id": "digits-5",
+        "title": "Верни пятёрку",
+        "equation": "x-5=3",
+        "level": 5,
+        "skill": "Гири 3–5",
+        "minutes": 7,
+        "max_units": 99,
+        "answer_digits": 1,
+        "solution": "8"
+      },
+      {
+        "id": "digits-6",
+        "title": "Четыре между x",
+        "equation": "2x+4=x+10",
+        "level": 5,
+        "skill": "Гири 3–5",
+        "minutes": 7,
+        "max_units": 99,
+        "answer_digits": 1,
+        "solution": "6"
+      }
+    ],
+    "quiz": "quiz-5"
+  },
+  {
+    "number": 6,
+    "name": "Гири 6–9",
+    "description": "Выбирай крупную гирю и повторяй действие на другой чаше.",
+    "levels": [
+      {
+        "id": "heavy-1",
+        "title": "Шесть единиц",
+        "equation": "x+6=9",
+        "level": 6,
+        "skill": "Гири 6–9",
+        "minutes": 8,
+        "max_units": 99,
+        "answer_digits": 1,
+        "solution": "3"
+      },
+      {
+        "id": "heavy-2",
+        "title": "Семь за один ход",
+        "equation": "x+7=12",
+        "level": 6,
+        "skill": "Гири 6–9",
+        "minutes": 8,
+        "max_units": 99,
+        "answer_digits": 1,
+        "solution": "5"
+      },
+      {
+        "id": "heavy-3",
+        "title": "Восьмёрка помогает",
+        "equation": "x+8=14",
+        "level": 6,
+        "skill": "Гири 6–9",
+        "minutes": 8,
+        "max_units": 99,
+        "answer_digits": 1,
+        "solution": "6"
+      },
+      {
+        "id": "heavy-4",
+        "title": "Девять единиц",
+        "equation": "x+9=17",
+        "level": 6,
+        "skill": "Гири 6–9",
+        "minutes": 8,
+        "max_units": 99,
+        "answer_digits": 1,
+        "solution": "8"
+      },
+      {
+        "id": "heavy-5",
+        "title": "Верни восьмёрку",
+        "equation": "x-8=1",
+        "level": 6,
+        "skill": "Гири 6–9",
+        "minutes": 8,
+        "max_units": 99,
+        "answer_digits": 1,
+        "solution": "9"
+      },
+      {
+        "id": "heavy-6",
+        "title": "Девять между чашами",
+        "equation": "2x+9=x+16",
+        "level": 6,
+        "skill": "Гири 6–9",
+        "minutes": 8,
+        "max_units": 99,
+        "answer_digits": 1,
+        "solution": "7"
+      }
+    ],
+    "quiz": "quiz-6"
+  },
+  {
+    "number": 7,
+    "name": "Ноль в деле",
+    "description": "Пустая чаша означает ноль. Найди, когда x равен 0.",
+    "levels": [
+      {
+        "id": "nothing-1",
+        "title": "Пустая чаша",
+        "equation": "x+3=3",
+        "level": 7,
+        "skill": "Ноль в деле",
+        "minutes": 8,
+        "max_units": 99,
+        "answer_digits": 1,
+        "solution": "0"
+      },
+      {
+        "id": "nothing-2",
+        "title": "Ноль справа",
+        "equation": "x-4=0",
+        "level": 7,
+        "skill": "Ноль в деле",
+        "minutes": 8,
+        "max_units": 99,
+        "answer_digits": 1,
+        "solution": "4"
+      },
+      {
+        "id": "nothing-3",
+        "title": "Одинаковые семёрки",
+        "equation": "2x+7=x+7",
+        "level": 7,
+        "skill": "Ноль в деле",
+        "minutes": 8,
+        "max_units": 99,
+        "answer_digits": 1,
+        "solution": "0"
+      },
+      {
+        "id": "nothing-4",
+        "title": "Восемь из пустоты",
+        "equation": "0=x-8",
+        "level": 7,
+        "skill": "Ноль в деле",
+        "minutes": 8,
+        "max_units": 99,
+        "answer_digits": 1,
+        "solution": "8"
+      },
+      {
+        "id": "nothing-5",
+        "title": "Девять и ноль",
+        "equation": "x+9=9",
+        "level": 7,
+        "skill": "Ноль в деле",
+        "minutes": 8,
+        "max_units": 99,
+        "answer_digits": 1,
+        "solution": "0"
+      },
+      {
+        "id": "nothing-6",
+        "title": "Секрет равных гирь",
+        "equation": "3x+6=2x+6",
+        "level": 7,
+        "skill": "Ноль в деле",
+        "minutes": 8,
+        "max_units": 99,
+        "answer_digits": 1,
+        "solution": "0"
+      }
+    ],
+    "quiz": "quiz-7"
+  },
+  {
+    "number": 8,
+    "name": "Числа до 19",
+    "description": "Считай десяток и единицы; набирай ответ двумя метками.",
+    "levels": [
+      {
+        "id": "teens-1",
+        "title": "Первый десяток",
+        "equation": "x+6=16",
+        "level": 8,
+        "skill": "Числа до 19",
+        "minutes": 8,
+        "max_units": 99,
+        "answer_digits": 2,
+        "solution": "10"
+      },
+      {
+        "id": "teens-2",
+        "title": "Одиннадцать шагов",
+        "equation": "x-7=4",
+        "level": 8,
+        "skill": "Числа до 19",
+        "minutes": 8,
+        "max_units": 99,
+        "answer_digits": 2,
+        "solution": "11"
+      },
+      {
+        "id": "teens-3",
+        "title": "Двенадцать справа",
+        "equation": "20=x+8",
+        "level": 8,
+        "skill": "Числа до 19",
+        "minutes": 8,
+        "max_units": 99,
+        "answer_digits": 2,
+        "solution": "12"
+      },
+      {
+        "id": "teens-4",
+        "title": "Десяток и четыре",
+        "equation": "x+9=23",
+        "level": 8,
+        "skill": "Числа до 19",
+        "minutes": 8,
+        "max_units": 99,
+        "answer_digits": 2,
+        "solution": "14"
+      },
+      {
+        "id": "teens-5",
+        "title": "Семнадцать в секрете",
+        "equation": "2x+5=x+22",
+        "level": 8,
+        "skill": "Числа до 19",
+        "minutes": 8,
+        "max_units": 99,
+        "answer_digits": 2,
+        "solution": "17"
+      },
+      {
+        "id": "teens-6",
+        "title": "Перед двадцатью",
+        "equation": "3x-6=2x+13",
+        "level": 8,
+        "skill": "Числа до 19",
+        "minutes": 8,
+        "max_units": 99,
+        "answer_digits": 2,
+        "solution": "19"
+      }
+    ],
+    "quiz": "quiz-8"
+  },
+  {
+    "number": 9,
+    "name": "Числа до 29",
+    "description": "Освобождай x и читай двузначные числа на гирях.",
+    "levels": [
+      {
+        "id": "twenties-1",
+        "title": "Ровно двадцать",
+        "equation": "x+8=28",
+        "level": 9,
+        "skill": "Числа до 29",
+        "minutes": 8,
+        "max_units": 99,
+        "answer_digits": 2,
+        "solution": "20"
+      },
+      {
+        "id": "twenties-2",
+        "title": "Двадцать два",
+        "equation": "x-7=15",
+        "level": 9,
+        "skill": "Числа до 29",
+        "minutes": 8,
+        "max_units": 99,
+        "answer_digits": 2,
+        "solution": "22"
+      },
+      {
+        "id": "twenties-3",
+        "title": "Двадцать один справа",
+        "equation": "26=x+5",
+        "level": 9,
+        "skill": "Числа до 29",
+        "minutes": 8,
+        "max_units": 99,
+        "answer_digits": 2,
+        "solution": "21"
+      },
+      {
+        "id": "twenties-4",
+        "title": "Четверть сотни",
+        "equation": "x+9=34",
+        "level": 9,
+        "skill": "Числа до 29",
+        "minutes": 8,
+        "max_units": 99,
+        "answer_digits": 2,
+        "solution": "25"
+      },
+      {
+        "id": "twenties-5",
+        "title": "Двадцать восемь",
+        "equation": "2x+6=x+34",
+        "level": 9,
+        "skill": "Числа до 29",
+        "minutes": 8,
+        "max_units": 99,
+        "answer_digits": 2,
+        "solution": "28"
+      },
+      {
+        "id": "twenties-6",
+        "title": "Перед тридцатью",
+        "equation": "3x-8=2x+21",
+        "level": 9,
+        "skill": "Числа до 29",
+        "minutes": 8,
+        "max_units": 99,
+        "answer_digits": 2,
+        "solution": "29"
+      }
+    ],
+    "quiz": "quiz-9"
+  },
+  {
+    "number": 10,
+    "name": "Собери десяток",
+    "description": "Составляй большие изменения из меток 0–9.",
+    "levels": [
+      {
+        "id": "bundle-1",
+        "title": "Составь двенадцать",
+        "equation": "x+12=25",
+        "level": 10,
+        "skill": "Собери десяток",
+        "minutes": 8,
+        "max_units": 99,
+        "answer_digits": 2,
+        "solution": "13"
+      },
+      {
+        "id": "bundle-2",
+        "title": "Составь пятнадцать",
+        "equation": "x+15=31",
+        "level": 10,
+        "skill": "Собери десяток",
+        "minutes": 8,
+        "max_units": 99,
+        "answer_digits": 2,
+        "solution": "16"
+      },
+      {
+        "id": "bundle-3",
+        "title": "Верни восемнадцать",
+        "equation": "x-18=4",
+        "level": 10,
+        "skill": "Собери десяток",
+        "minutes": 8,
+        "max_units": 99,
+        "answer_digits": 2,
+        "solution": "22"
+      },
+      {
+        "id": "bundle-4",
+        "title": "Семнадцать справа",
+        "equation": "38=x+17",
+        "level": 10,
+        "skill": "Собери десяток",
+        "minutes": 8,
+        "max_units": 99,
+        "answer_digits": 2,
+        "solution": "21"
+      },
+      {
+        "id": "bundle-5",
+        "title": "Две восьмёрки",
+        "equation": "2x+16=x+40",
+        "level": 10,
+        "skill": "Собери десяток",
+        "minutes": 8,
+        "max_units": 99,
+        "answer_digits": 2,
+        "solution": "24"
+      },
+      {
+        "id": "bundle-6",
+        "title": "Составь девятнадцать",
+        "equation": "3x-19=2x+8",
+        "level": 10,
+        "skill": "Собери десяток",
+        "minutes": 8,
+        "max_units": 99,
+        "answer_digits": 2,
+        "solution": "27"
+      }
+    ],
+    "quiz": "quiz-10"
+  },
+  {
+    "number": 11,
+    "name": "Большой груз",
+    "description": "Несколько одинаковых ходов помогут справиться с большим числом.",
+    "levels": [
+      {
+        "id": "freight-1",
+        "title": "Три десятка",
+        "equation": "x+24=54",
+        "level": 11,
+        "skill": "Большой груз",
+        "minutes": 8,
+        "max_units": 99,
+        "answer_digits": 2,
+        "solution": "30"
+      },
+      {
+        "id": "freight-2",
+        "title": "Верни двадцать семь",
+        "equation": "x-27=5",
+        "level": 11,
+        "skill": "Большой груз",
+        "minutes": 8,
+        "max_units": 99,
+        "answer_digits": 2,
+        "solution": "32"
+      },
+      {
+        "id": "freight-3",
+        "title": "Четыре девятки",
+        "equation": "x+36=70",
+        "level": 11,
+        "skill": "Большой груз",
+        "minutes": 8,
+        "max_units": 99,
+        "answer_digits": 2,
+        "solution": "34"
+      },
+      {
+        "id": "freight-4",
+        "title": "Большая правая чаша",
+        "equation": "65=x+29",
+        "level": 11,
+        "skill": "Большой груз",
+        "minutes": 8,
+        "max_units": 99,
+        "answer_digits": 2,
+        "solution": "36"
+      },
+      {
+        "id": "freight-5",
+        "title": "Тридцать восемь",
+        "equation": "2x+38=x+76",
+        "level": 11,
+        "skill": "Большой груз",
+        "minutes": 8,
+        "max_units": 99,
+        "answer_digits": 2,
+        "solution": "38"
+      },
+      {
+        "id": "freight-6",
+        "title": "Пять девяток",
+        "equation": "3x-45=2x-6",
+        "level": 11,
+        "skill": "Большой груз",
+        "minutes": 8,
+        "max_units": 99,
+        "answer_digits": 2,
+        "solution": "39"
+      }
+    ],
+    "quiz": "quiz-11"
+  },
+  {
+    "number": 12,
+    "name": "Мастер чисел",
+    "description": "Убирай x с двух сторон и работай с числами до 99.",
+    "levels": [
+      {
+        "id": "master-1",
+        "title": "Сорок один",
+        "equation": "x+47=88",
+        "level": 12,
+        "skill": "Мастер чисел",
+        "minutes": 8,
+        "max_units": 99,
+        "answer_digits": 2,
+        "solution": "41"
+      },
+      {
+        "id": "master-2",
+        "title": "Шестьдесят три",
+        "equation": "x-56=7",
+        "level": 12,
+        "skill": "Мастер чисел",
+        "minutes": 8,
+        "max_units": 99,
+        "answer_digits": 2,
+        "solution": "63"
+      },
+      {
+        "id": "master-3",
+        "title": "Девяносто справа",
+        "equation": "90=x+24",
+        "level": 12,
+        "skill": "Мастер чисел",
+        "minutes": 8,
+        "max_units": 99,
+        "answer_digits": 2,
+        "solution": "66"
+      },
+      {
+        "id": "master-4",
+        "title": "Шестьдесят девять",
+        "equation": "2x+29=x+98",
+        "level": 12,
+        "skill": "Мастер чисел",
+        "minutes": 8,
+        "max_units": 99,
+        "answer_digits": 2,
+        "solution": "69"
+      },
+      {
+        "id": "master-5",
+        "title": "Мастер двух чаш",
+        "equation": "3x+37=2x+95",
+        "level": 12,
+        "skill": "Мастер чисел",
+        "minutes": 8,
+        "max_units": 99,
+        "answer_digits": 2,
+        "solution": "58"
+      },
+      {
+        "id": "master-6",
+        "title": "Семьдесят два",
+        "equation": "3x-63=2x+9",
+        "level": 12,
+        "skill": "Мастер чисел",
+        "minutes": 8,
+        "max_units": 99,
+        "answer_digits": 2,
+        "solution": "72"
+      }
+    ],
+    "quiz": "quiz-12"
+  }
+]

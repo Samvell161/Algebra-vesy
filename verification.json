@@ -1,62 +1,60 @@
 {
-  "version": "0.43.0",
-  "tests_passed": 293,
-  "core_tests": 238,
-  "qt_tests": 34,
-  "gl_tests": 21,
-  "additional_seeded_gl_check": true,
-  "source_files": 160,
-  "package_bytes": 6175848,
-  "payload_bytes": 7818672,
-  "package_sha256": "39bb634abb83ee5f21ed2d3328b59a5f352ddc386f2b2e83fd99a3ba9ba4614f",
-  "md5_payload_files": 75,
-  "traffic_checks": {
-    "seeds": 12,
-    "minutes_per_seed": 5,
-    "base_and_toys_clearance": true,
-    "car_separation_minimum": 1.7,
-    "robot_corridor_reserved": true,
-    "continuous_positions_and_turns": true,
-    "varied_stops_and_destinations": true,
-    "reproducible_seed": true,
-    "new_seed_each_launch": true,
-    "lesson_change_preserves_routes": true,
-    "animation_off_freezes": true
-  },
-  "new_dependencies": [],
-  "new_gui_timers": 0,
-  "geometry_rebuilds_for_traffic": 0,
-  "screen": [
-    1024,
-    600
+  "version": "0.44.0",
+  "tests_passed": 303,
+  "core_tests": 244,
+  "qt_tests": 37,
+  "gl_tests": 22,
+  "additional_big_numbers_gl_check": true,
+  "levels": 72,
+  "chapters": 12,
+  "quizzes": 12,
+  "quiz_questions": 36,
+  "new_levels": 48,
+  "old_levels_unchanged": 24,
+  "numeric_tag_values": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
   ],
+  "constant_limit_new_lessons": 99,
+  "answer_range": [
+    0,
+    99
+  ],
+  "largest_course_answer": 72,
+  "answer_entry": "chapters 1-7: single numeric tag; chapters 8-12: digits accumulated, explicit Check or x confirmation",
+  "zero": "answer supported; no-op cup move rejected without state mutation",
+  "max_blocks_per_pan": 5,
+  "map_visible_nodes": 6,
+  "chapter_tabs_per_page": 4,
+  "button_checks": 1579,
+  "layout_errors": 0,
   "scene_viewport": [
     1004,
     386
   ],
-  "preview": {
-    "version": "0.43.0",
-    "package_sha256": "39bb634abb83ee5f21ed2d3328b59a5f352ddc386f2b2e83fd99a3ba9ba4614f",
-    "seed": 27,
-    "frames": 900,
-    "fps": 30,
-    "duration_seconds": 30,
-    "size": [
-      1024,
-      600
-    ],
-    "scene_size": [
-      1004,
-      386
-    ],
-    "scene_geometry_preserved": true,
-    "gpu_buffers_reused": true,
-    "physical_pi_tested": false,
-    "is_hardware_fps_benchmark": false,
-    "method": "fixed-time actual 3D application rendering, not interpolation",
-    "final_symbol_contrast_minimum": 4.68050442108704,
-    "capture_wall_seconds": 92.74576005799997
+  "scene_viewport_preserved": true,
+  "package": {
+    "version": "0.44.0",
+    "package_sha256": "8598fda8bf74402ec1cc84fbeb751e74a2af20b4ac81de112ac43cf4283c0c72",
+    "package_bytes": 6180568,
+    "payload_bytes": 7842294,
+    "md5_payload_files": 76,
+    "upstream_pyopengl_files": 2871
   },
+  "source_files": 163,
+  "new_dependencies": [],
+  "new_gui_timers": 0,
+  "android_catalog_and_progress_dynamic": true,
+  "reader_polling_unchanged": true,
+  "old_data_schema_unchanged": true,
   "physical_pi_tested": false,
   "hardware_fps_measured": false
 }
