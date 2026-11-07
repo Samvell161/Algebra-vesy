@@ -1,0 +1,9 @@
+{
+  "version": "0.43.0",
+  "package_sha256": "39bb634abb83ee5f21ed2d3328b59a5f352ddc386f2b2e83fd99a3ba9ba4614f",
+  "package_bytes": 6175848,
+  "payload_bytes": 7818672,
+  "md5_files": 75,
+  "upstream_pyopengl_files": 2871,
+  "new_dependencies": []
+}
