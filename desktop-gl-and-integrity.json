@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "version": "0.38.0",
-  "md5_payload_files_verified": 69,
+  "version": "0.39.0",
+  "md5_payload_files_verified": 70,
   "unchanged_upstream_binding_files": 2871,
   "no_native_binaries": true,
   "stateless_packaged_diagnostic": {
@@ -23,14 +23,14 @@
     "lamp_enabled": true,
     "render_buffer": [
       1280,
-      375
+      380
     ],
     "render_scale": 1.25,
     "vertices": 207582,
     "shadow_map": 2048
   },
   "diagnostic_exit_code": 0,
-  "package_sha256": "1bdf4f2c2b6bc217146da059cc2b97878d4ee14215b091a3d22b3366bbd35232",
-  "payload_bytes": 7739471,
+  "package_sha256": "7faa1a9f991dc07a70f20786399aefa13a058f8b534dcfbb9097b608944bf91f",
+  "payload_bytes": 7760508,
   "physical_pi_tested": false
 }

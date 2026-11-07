@@ -1,5 +1,5 @@
 {
-  "version": "0.38.0",
+  "version": "0.39.0",
   "ok": true,
   "graphics": {
     "version": "OpenGL ES 2.0 Mesa 25.0.7-2+deb13u1",
@@ -343,28 +343,28 @@
   ],
   "motion_readability": [
     {
-      "angle": 0.4169891992280269,
-      "minimum_contrast": 6.140805212954153
+      "angle": -4.447822148358069,
+      "minimum_contrast": 4.698851465064026
     },
     {
-      "angle": 5.095678550535916,
-      "minimum_contrast": 4.675986260544761
+      "angle": 6.174720027246227,
+      "minimum_contrast": 4.678654847209302
     },
     {
-      "angle": 8.958676528014365,
-      "minimum_contrast": 4.66492377731667
+      "angle": 9.10185548562015,
+      "minimum_contrast": 4.736473730418695
     },
     {
-      "angle": 9.230880906589995,
-      "minimum_contrast": 4.647644459527219
+      "angle": 9.203267375606224,
+      "minimum_contrast": 4.807478226876591
     },
     {
-      "angle": 9.0610803096536,
-      "minimum_contrast": 4.7257632335808095
+      "angle": 9.044593633580055,
+      "minimum_contrast": 4.7166843421213205
     },
     {
-      "angle": 9.001180630299626,
-      "minimum_contrast": 4.711537687478557
+      "angle": 8.998771080219075,
+      "minimum_contrast": 4.711201660518667
     }
   ],
   "minimum_symbol_contrast": 4.696225764450991,
@@ -374,7 +374,7 @@
   "ambient_depth_and_buffers_reused": true,
   "large_viewport_verified": true,
   "controls_below_native_surface": true,
-  "moving_part_vertices": 328734,
+  "moving_part_vertices": 330021,
   "static_batches": 7,
   "room_prop_assemblies": 27,
   "room_lighting": [

@@ -1,40 +1,68 @@
 {
   "ok": true,
   "camera_code_identical": true,
-  "protected_code_files_identical": [
-    "algebra_lab/qt_ui/app.py",
-    "algebra_lab/qt_ui/theme.qss",
-    "algebra_lab/math_engine.py",
-    "algebra_lab/service.py",
-    "algebra_lab/rc522.py",
-    "algebra_lab/hardware.py",
-    "algebra_lab/qt_ui/cube_motion.py",
-    "algebra_lab/qt_ui/scene3d/physics.py",
-    "algebra_lab/qt_ui/scene3d/model.py",
-    "algebra_lab/qt_ui/scene3d/geometry.py"
+  "unchanged_balance_meshes": 14,
+  "static_room_material_batches_identical": 7,
+  "protected_logic_files_identical": [
+    "math_engine.py",
+    "service.py",
+    "storage.py",
+    "hardware.py",
+    "rc522.py",
+    "buttons.py",
+    "tasks.py",
+    "adventure.py",
+    "learning.py",
+    "pending.py",
+    "lesson_queue.py",
+    "mobile.py"
   ],
-  "balance_model_and_geometry_generation_identical": true,
-  "identical_balance_mesh_hashes": {
-    "beam": "53768b1694102b7da86196a4fddfd3068b086310412a6b95db75bc580f3c4b4a",
-    "pivot": "15ff2d6f519d11582cea74e8e3dd675de6323ab043e175d3507fd90854f7b6c7",
-    "pivot-inlay": "fc1cdda8195dec94ff8cfa74c86a341ce51de17178051e20577da678782071fd",
-    "chains": "147964eafe4a7215938c0af5f9c04e71fff430372fa7e903dd88dc9e4fa454f1",
-    "bowl-0": "0c38326a1823eede23dcf1f36deb5c63c94b27eeb43bec093d4ff6266973afd7",
-    "bowl-1": "053751b01426ca62db2277b48422944f073929071e2aa7f6924a702cfb218e43",
-    "bowl-rim": "cccd942faca630751f29b4e20714231f5e60a56e9a4d6a2b07456c9c05e47a4f",
-    "hook": "e51ba8350e5035101c6c6af4c74ea22e9c3d7f467c4f8f7335cadfa60aa93827",
-    "block": "16e97869d4e47197dcdaa892ae7a3da7de1195486c3043e65b34f7542f8b7c22",
-    "xblock": "f62f75d6708acc3c4be8fc5861841b65ec0ea70f50711164963ae03741e0b6d6",
-    "negative": "239e29c75b7ea8bc7b2040d3e9ccefb32bab1c99793716de1464a376c51161e0",
-    "block-wide": "dfe548170fb2c628f9839e74f76e8c867f64d6b55a83214d1b1477b1e23001cd",
-    "xblock-wide": "9c77666deefc1dc2735ae59ad30142c6b349a92a0edbad0cc7ebaed524de0dd0",
-    "negative-wide": "501994d57eb5a688b8d854dbec0ba24cf402cd3a70f0b187aeb5f1a8056cdf08"
-  },
-  "ui_pixels_outside_3d_view_identical": true,
-  "viewport": [
-    10,
-    60,
+  "workspace_methods_except_construction_refresh_identical": true,
+  "scene_size_fixed_throughout_movie": [
     1004,
     386
-  ]
+  ],
+  "frames_with_identical_view_projection": 660,
+  "final_symbols": [
+    {
+      "symbol": "2",
+      "side": "left",
+      "contrast": 4.612002375219365,
+      "background": 0.4206660748323404,
+      "dark_pixels": 133,
+      "roi": [
+        319,
+        244,
+        343,
+        273
+      ]
+    },
+    {
+      "symbol": "1",
+      "side": "right",
+      "contrast": 6.080551061860484,
+      "background": 0.5799793493080619,
+      "dark_pixels": 128,
+      "roi": [
+        640,
+        244,
+        664,
+        272
+      ]
+    },
+    {
+      "symbol": "1",
+      "side": "right",
+      "contrast": 6.181945863180008,
+      "background": 0.580882631345255,
+      "dark_pixels": 129,
+      "roi": [
+        682,
+        245,
+        706,
+        273
+      ]
+    }
+  ],
+  "physical_pi_tested": false
 }
