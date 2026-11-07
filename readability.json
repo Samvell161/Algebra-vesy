@@ -1,16 +1,16 @@
 {
-  "minimum_contrast": 4.586935932953206,
-  "x_contrast": 4.586935932953206,
-  "minimum_number_contrast": 6.012180331571105,
-  "right_left_number_brightness_ratio": 1.0186522357023557,
+  "minimum_contrast": 4.696225764450991,
+  "x_contrast": 4.696225764450991,
+  "minimum_number_contrast": 6.1730947070763715,
+  "right_left_number_brightness_ratio": 1.0154066739693746,
   "visible_symbols": 7,
   "samples": [
     {
       "symbol": "x",
       "side": "left",
-      "contrast": 4.586935932953206,
-      "background": 0.43095788959235665,
-      "dark_pixels": 101,
+      "contrast": 4.696225764450991,
+      "background": 0.42564119434283904,
+      "dark_pixels": 102,
       "roi": [
         276,
         244,
@@ -21,8 +21,8 @@
     {
       "symbol": "1",
       "side": "left",
-      "contrast": 6.012180331571105,
-      "background": 0.5800877153791366,
+      "contrast": 6.1730947070763715,
+      "background": 0.5799793493080619,
       "dark_pixels": 127,
       "roi": [
         319,
@@ -34,9 +34,9 @@
     {
       "symbol": "1",
       "side": "left",
-      "contrast": 6.049017815273449,
+      "contrast": 6.214780594636542,
       "background": 0.5842334956587378,
-      "dark_pixels": 128,
+      "dark_pixels": 129,
       "roi": [
         361,
         244,
@@ -47,9 +47,9 @@
     {
       "symbol": "1",
       "side": "right",
-      "contrast": 6.287667821094583,
-      "background": 0.601946127175375,
-      "dark_pixels": 123,
+      "contrast": 6.4054601467724535,
+      "background": 0.6017289465592284,
+      "dark_pixels": 125,
       "roi": [
         598,
         242,
@@ -60,8 +60,8 @@
     {
       "symbol": "1",
       "side": "right",
-      "contrast": 6.124544086856043,
-      "background": 0.5846570598578111,
+      "contrast": 6.1730947070763715,
+      "background": 0.5799793493080619,
       "dark_pixels": 126,
       "roi": [
         640,
@@ -73,8 +73,8 @@
     {
       "symbol": "1",
       "side": "right",
-      "contrast": 6.124544086856043,
-      "background": 0.5846570598578111,
+      "contrast": 6.199964288105268,
+      "background": 0.5827214554923977,
       "dark_pixels": 130,
       "roi": [
         682,
@@ -86,8 +86,8 @@
     {
       "symbol": "1",
       "side": "right",
-      "contrast": 6.186765313376574,
-      "background": 0.6008165625078132,
+      "contrast": 6.274389079399223,
+      "background": 0.5998692340406344,
       "dark_pixels": 121,
       "roi": [
         722,

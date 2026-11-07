@@ -1,5 +1,5 @@
 {
-  "version": "0.35.0",
+  "version": "0.36.0",
   "ok": true,
   "graphics": {
     "version": "OpenGL ES 2.0 Mesa 25.0.7-2+deb13u1",
@@ -19,7 +19,7 @@
     "lamp_enabled": true,
     "render_buffer": [
       1255,
-      408
+      482
     ],
     "render_scale": 1.25
   },
@@ -34,9 +34,9 @@
     {
       "symbol": "x",
       "side": "left",
-      "contrast": 4.586935932953206,
-      "background": 0.43095788959235665,
-      "dark_pixels": 101,
+      "contrast": 4.696225764450991,
+      "background": 0.42564119434283904,
+      "dark_pixels": 102,
       "roi": [
         276,
         244,
@@ -47,8 +47,8 @@
     {
       "symbol": "1",
       "side": "left",
-      "contrast": 6.012180331571105,
-      "background": 0.5800877153791366,
+      "contrast": 6.1730947070763715,
+      "background": 0.5799793493080619,
       "dark_pixels": 127,
       "roi": [
         319,
@@ -60,9 +60,9 @@
     {
       "symbol": "1",
       "side": "left",
-      "contrast": 6.049017815273449,
+      "contrast": 6.214780594636542,
       "background": 0.5842334956587378,
-      "dark_pixels": 128,
+      "dark_pixels": 129,
       "roi": [
         361,
         244,
@@ -73,9 +73,9 @@
     {
       "symbol": "1",
       "side": "right",
-      "contrast": 6.287667821094583,
-      "background": 0.601946127175375,
-      "dark_pixels": 123,
+      "contrast": 6.4054601467724535,
+      "background": 0.6017289465592284,
+      "dark_pixels": 125,
       "roi": [
         598,
         242,
@@ -86,8 +86,8 @@
     {
       "symbol": "1",
       "side": "right",
-      "contrast": 6.124544086856043,
-      "background": 0.5846570598578111,
+      "contrast": 6.1730947070763715,
+      "background": 0.5799793493080619,
       "dark_pixels": 126,
       "roi": [
         640,
@@ -99,8 +99,8 @@
     {
       "symbol": "1",
       "side": "right",
-      "contrast": 6.124544086856043,
-      "background": 0.5846570598578111,
+      "contrast": 6.199964288105268,
+      "background": 0.5827214554923977,
       "dark_pixels": 130,
       "roi": [
         682,
@@ -112,8 +112,8 @@
     {
       "symbol": "1",
       "side": "right",
-      "contrast": 6.186765313376574,
-      "background": 0.6008165625078132,
+      "contrast": 6.274389079399223,
+      "background": 0.5998692340406344,
       "dark_pixels": 121,
       "roi": [
         722,
@@ -123,7 +123,251 @@
       ]
     }
   ],
-  "minimum_symbol_contrast": 4.586935932953206,
+  "tilt_readability": [
+    {
+      "quality": "smooth",
+      "angle": -9.7,
+      "blocks": 7,
+      "minimum_contrast": 4.795140680645589
+    },
+    {
+      "quality": "smooth",
+      "angle": -9,
+      "blocks": 7,
+      "minimum_contrast": 4.589223761536204
+    },
+    {
+      "quality": "smooth",
+      "angle": -6,
+      "blocks": 7,
+      "minimum_contrast": 4.739986806635544
+    },
+    {
+      "quality": "smooth",
+      "angle": -3,
+      "blocks": 7,
+      "minimum_contrast": 4.66428501814954
+    },
+    {
+      "quality": "smooth",
+      "angle": 0,
+      "blocks": 7,
+      "minimum_contrast": 4.6349270455698806
+    },
+    {
+      "quality": "smooth",
+      "angle": 3,
+      "blocks": 7,
+      "minimum_contrast": 4.771362846598696
+    },
+    {
+      "quality": "smooth",
+      "angle": 6,
+      "blocks": 7,
+      "minimum_contrast": 4.726469808339965
+    },
+    {
+      "quality": "smooth",
+      "angle": 9,
+      "blocks": 7,
+      "minimum_contrast": 4.662559144914346
+    },
+    {
+      "quality": "smooth",
+      "angle": 9.7,
+      "blocks": 7,
+      "minimum_contrast": 4.674446298460784
+    },
+    {
+      "quality": "smooth",
+      "angle": -9.7,
+      "blocks": 9,
+      "minimum_contrast": 5.449552910386863
+    },
+    {
+      "quality": "smooth",
+      "angle": -9,
+      "blocks": 9,
+      "minimum_contrast": 5.442021650974914
+    },
+    {
+      "quality": "smooth",
+      "angle": -6,
+      "blocks": 9,
+      "minimum_contrast": 5.32986843286869
+    },
+    {
+      "quality": "smooth",
+      "angle": -3,
+      "blocks": 9,
+      "minimum_contrast": 5.5796796264591455
+    },
+    {
+      "quality": "smooth",
+      "angle": 0,
+      "blocks": 9,
+      "minimum_contrast": 5.498900799959728
+    },
+    {
+      "quality": "smooth",
+      "angle": 3,
+      "blocks": 9,
+      "minimum_contrast": 5.390658605126362
+    },
+    {
+      "quality": "smooth",
+      "angle": 6,
+      "blocks": 9,
+      "minimum_contrast": 5.341011068549601
+    },
+    {
+      "quality": "smooth",
+      "angle": 9,
+      "blocks": 9,
+      "minimum_contrast": 5.531313034073554
+    },
+    {
+      "quality": "smooth",
+      "angle": 9.7,
+      "blocks": 9,
+      "minimum_contrast": 5.533982571447224
+    },
+    {
+      "quality": "detail",
+      "angle": -9.7,
+      "blocks": 7,
+      "minimum_contrast": 4.85732844754969
+    },
+    {
+      "quality": "detail",
+      "angle": -9,
+      "blocks": 7,
+      "minimum_contrast": 4.670794324382262
+    },
+    {
+      "quality": "detail",
+      "angle": -6,
+      "blocks": 7,
+      "minimum_contrast": 4.7872727703744555
+    },
+    {
+      "quality": "detail",
+      "angle": -3,
+      "blocks": 7,
+      "minimum_contrast": 4.721293625266979
+    },
+    {
+      "quality": "detail",
+      "angle": 0,
+      "blocks": 7,
+      "minimum_contrast": 4.696225764450991
+    },
+    {
+      "quality": "detail",
+      "angle": 3,
+      "blocks": 7,
+      "minimum_contrast": 4.841920548740701
+    },
+    {
+      "quality": "detail",
+      "angle": 6,
+      "blocks": 7,
+      "minimum_contrast": 4.77197995260368
+    },
+    {
+      "quality": "detail",
+      "angle": 9,
+      "blocks": 7,
+      "minimum_contrast": 4.710866370358215
+    },
+    {
+      "quality": "detail",
+      "angle": 9.7,
+      "blocks": 7,
+      "minimum_contrast": 4.707482513621498
+    },
+    {
+      "quality": "detail",
+      "angle": -9.7,
+      "blocks": 9,
+      "minimum_contrast": 5.506166493893313
+    },
+    {
+      "quality": "detail",
+      "angle": -9,
+      "blocks": 9,
+      "minimum_contrast": 5.5061671163220005
+    },
+    {
+      "quality": "detail",
+      "angle": -6,
+      "blocks": 9,
+      "minimum_contrast": 5.4646673946284965
+    },
+    {
+      "quality": "detail",
+      "angle": -3,
+      "blocks": 9,
+      "minimum_contrast": 5.6565884547211445
+    },
+    {
+      "quality": "detail",
+      "angle": 0,
+      "blocks": 9,
+      "minimum_contrast": 5.566487632935929
+    },
+    {
+      "quality": "detail",
+      "angle": 3,
+      "blocks": 9,
+      "minimum_contrast": 5.521409884776691
+    },
+    {
+      "quality": "detail",
+      "angle": 6,
+      "blocks": 9,
+      "minimum_contrast": 5.413466364003699
+    },
+    {
+      "quality": "detail",
+      "angle": 9,
+      "blocks": 9,
+      "minimum_contrast": 5.620529006601233
+    },
+    {
+      "quality": "detail",
+      "angle": 9.7,
+      "blocks": 9,
+      "minimum_contrast": 5.619929244622015
+    }
+  ],
+  "motion_readability": [
+    {
+      "angle": -4.646142706310841,
+      "minimum_contrast": 4.76457149131118
+    },
+    {
+      "angle": 5.748626613767612,
+      "minimum_contrast": 4.674501247900669
+    },
+    {
+      "angle": 9.058996611929192,
+      "minimum_contrast": 4.713611014387402
+    },
+    {
+      "angle": 9.212335003472425,
+      "minimum_contrast": 4.816520696823846
+    },
+    {
+      "angle": 9.049500216579098,
+      "minimum_contrast": 4.717246624059308
+    },
+    {
+      "angle": 8.999436999020707,
+      "minimum_contrast": 4.711201660518667
+    }
+  ],
+  "minimum_symbol_contrast": 4.696225764450991,
   "contact_atlas_bytes": 524288,
   "quiet_ambient": true,
   "large_viewport_verified": true,
